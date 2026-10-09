@@ -1,0 +1,18 @@
+{
+  "categories": {
+    "Markets": "(stocks OR bonds OR commodities OR forex OR \"stock market\") sourcelang:english",
+    "Business": "(earnings OR merger OR acquisition OR layoffs OR \"business investment\") sourcelang:english",
+    "Politics": "(election OR legislation OR sanctions OR tariffs OR \"trade policy\") sourcelang:english",
+    "Economy": "(inflation OR employment OR GDP OR recession OR \"interest rates\") sourcelang:english"
+  },
+  "feeds": [
+    {
+      "name": "Federal Reserve: monetary policy",
+      "category": "Economy",
+      "url": "https://www.federalreserve.gov/feeds/press_monetary.xml"
+    }
+  ],
+  "lookback": "24h",
+  "max_records_per_category": 50,
+  "max_archive_items": 1000
+}
