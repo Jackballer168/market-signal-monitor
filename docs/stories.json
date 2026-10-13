@@ -1,11 +1,18 @@
 {
-  "updated": "2026-10-13T14:15+00:00",
+  "updated": "2026-10-13T22:47+00:00",
   "errors": [
     "Markets: HTTPError",
-    "Politics: HTTPError",
+    "Business: HTTPError",
     "Economy: HTTPError"
   ],
   "stories": [
+    {
+      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "source": "Federal Reserve: monetary policy",
+      "published": "2026-10-13T18:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Who is Hitler Mussolini Simeón Flores ? Peruvian politician named after two infamous dictators wins election for centre - left Ahora Nación party",
       "url": "https://www.indiatimes.com/trending/who-is-hitler-mussolini-simen-flores-peruvian-politician-named-after-two-infamous-dictators-wins-election-for-centre-left-ahora-nacin-party/articleshow/134848008.html",
