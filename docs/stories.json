@@ -1,12 +1,361 @@
 {
-  "updated": "2026-10-16T11:27+00:00",
+  "updated": "2026-10-16T16:41+00:00",
   "errors": [
     "Markets: HTTPError",
-    "Business: HTTPError",
     "Politics: HTTPError",
     "Economy: HTTPError"
   ],
   "stories": [
+    {
+      "title": "With Demand Set to Outstrip Supply Until at Least 2028 , ASML Stock Is a Buy",
+      "url": "https://www.fool.com/investing/2026/10/16/with-demand-set-to-outstrip-supply-until-at-least",
+      "source": "fool.com",
+      "published": "2026-10-16T16:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Tesla new Roadster turns in air with SpaceX thrusters , wont land until 2028",
+      "url": "https://tribune.com.pk/story/2635229/teslas-new-roadster-turns-in-air-with-spacex-thrusters-wont-land-until-2028",
+      "source": "tribune.com.pk",
+      "published": "2026-10-16T16:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Sally Rooney books will no longer be sold in U . K . after Palestinian Action support",
+      "url": "https://www.wlrn.org/national-politics/2026-10-16/sally-rooneys-books-will-no-longer-be-sold-in-u-k-after-palestinian-action-support",
+      "source": "wlrn.org",
+      "published": "2026-10-16T16:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Tesla unveils a new rocket - powered Roadster",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/17/2003866096",
+      "source": "taipeitimes.com",
+      "published": "2026-10-16T16:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "S & P 500 Stock Casey Dropped 30 % in Its Biggest Pullback Since the Great Recession -- Here Why Im Buying More",
+      "url": "https://www.fool.com/investing/2026/10/16/sp-500-stock-caseys-dropped-30-in-its-biggest-pull",
+      "source": "fool.com",
+      "published": "2026-10-16T16:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "LINC INVESTOR DEADLINE : Lincoln Educational Services Corp . Investors with Substantial Losses Have Opportunity to Lead the LINC Securities Class Action",
+      "url": "http://www.prnewswire.com/news-releases/linc-investor-deadline-lincoln-educational-services-corp-investors-with-substantial-losses-have-opportunity-to-lead-the-linc-securities-class-action-302911345.html",
+      "source": "prnewswire.com",
+      "published": "2026-10-16T16:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Zimbabwe : Woman Ordered to Pay U . S . $99 , 761 to Tn Bakery Driver Left Disabled in Road Accident",
+      "url": "https://allafrica.com/stories/202610160494.html",
+      "source": "allafrica.com",
+      "published": "2026-10-16T16:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Loblaw Companies ( OTCMKTS : LBLCF ) Shares Climb 8 . 1 % – Here What Happened",
+      "url": "https://www.tickerreport.com/banking-finance/13622421/loblaw-companies-otcmktslblcf-shares-climb-8-1-heres-what-happened.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-16T16:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Sensei Biotherapeutics , Inc . ( NASDAQ : FTH ) Sees Large Growth in Short Interest",
+      "url": "https://www.tickerreport.com/banking-finance/13622440/sensei-biotherapeutics-inc-nasdaqfth-sees-large-growth-in-short-interest.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-16T16:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Sainsbury announces it is selling all 8 petrol stations in one united kingdom country",
+      "url": "https://www.aol.co.uk/articles/sainsburys-announces-selling-8-petrol-152900000.html",
+      "source": "aol.co.uk",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "This Magnificent Seven Stock Could Make Investors Richer by 2027",
+      "url": "https://www.aol.com/articles/magnificent-seven-stock-could-investors-153033000.html",
+      "source": "aol.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Swiss firm Cotecna acquires Hyderabad - based Energon Labs",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/swiss-firm-cotecna-acquires-hyderabad-based-energon-labs/article71593303.ece",
+      "source": "thehindu.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Grant of Options and Director Dealing | Company Announcement",
+      "url": "https://www.investegate.co.uk/announcement/rns/frp-advisory-group--frp/grant-of-options-and-director-dealing/9827988",
+      "source": "investegate.co.uk",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Alcoa Shares Surge 7 % After Third - Quarter Profit Tops Forecasts and Cash Generation Impresses Investors",
+      "url": "https://www.ibtimes.com.au/alcoa-shares-jump-earnings-beat-south32-acquisition-1876909",
+      "source": "ibtimes.com.au",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Varonis System ( VRNS )  Hold  Rating Reiterated at TD Cowen",
+      "url": "https://www.themarketsdaily.com/2026/10/16/varonis-systems-vrns-hold-rating-reiterated-at-td-cowen.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "International Seaways leverages share price in Bruton takeover deal",
+      "url": "https://article.wn.com/view/2026/10/16/International_Seaways_leverages_share_price_in_Bruton_takeov",
+      "source": "article.wn.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Boss of Rosebank oil and gas company Ithaca to stand down",
+      "url": "https://www.heraldscotland.com/news/26644313.boss-rosebank-oil-gas-producer-ithaca-stand",
+      "source": "heraldscotland.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "International Seaways ( NYSE : INSW ) Major Shareholder Sells 200 Shares of Company Stock",
+      "url": "https://www.themarketsdaily.com/2026/10/16/international-seaways-nyseinsw-major-shareholder-sells-200-shares-of-company-stock.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "With Demand Set to Outstrip Supply Until at Least 2028 , ASML Stock Is a Buy",
+      "url": "https://www.aol.com/articles/demand-set-outstrip-supply-until-152300000.html",
+      "source": "aol.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Columbus Acquisition Corp / Cayman Islands ( NASDAQ : COLA ) Sees Large Decline in Short Interest",
+      "url": "https://www.themarketsdaily.com/2026/10/16/columbus-acquisition-corp-cayman-islands-nasdaqcola-sees-large-decline-in-short-interest.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Sally Rooney books will no longer be sold in U . K . after Palestinian Action support",
+      "url": "https://www.tspr.org/npr-news/2026-10-16/sally-rooneys-books-will-no-longer-be-sold-in-u-k-after-palestinian-action-support",
+      "source": "tspr.org",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Unga Group to reinvest profits as dividend drought enters seventh year",
+      "url": "https://www.businessdailyafrica.com/bd/corporate/companies/unga-group-to-reinvest-profits-as-dividend-drought-enters-seventh-year-5634822",
+      "source": "businessdailyafrica.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Sumitomo Life sets Symetra loose on US deal hunt as Japan insurers keep buying American",
+      "url": "https://www.insurancebusinessmag.com/us/news/life-insurance/sumitomo-life-sets-symetra-loose-on-us-deal-hunt-as-japans-insurers-keep-buying-american-593864.aspx",
+      "source": "insurancebusinessmag.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Holding ( s ) in Company | Company Announcement",
+      "url": "https://www.investegate.co.uk/announcement/rns/boku-inc-di-reg-s-cat-3-144a--boku/holding-s-in-company/9828008",
+      "source": "investegate.co.uk",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Sainsbury strategy in focus after reports over Morrisons talks",
+      "url": "https://www.aol.co.uk/articles/sainsbury-strategy-focus-reports-over-151829000.html",
+      "source": "aol.co.uk",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Creative Medical Technology Holdings , Inc . ( NASDAQ : CELZ ) Stock Short Interest Report for September",
+      "url": "https://www.themarketsdaily.com/2026/10/16/creative-medical-technology-holdings-inc-nasdaqcelz-stock-short-interest-report-for-september.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "The Goldman Sachs Group ( NYSE : GS ) Stock Gets Price Target Increase from JPMorgan Chase & Co .",
+      "url": "https://www.themarketsdaily.com/2026/10/16/the-goldman-sachs-group-nysegs-stock-gets-price-target-increase-from-jpmorgan-chase-co.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "International Seaways ( NYSE : INSW ) Major Shareholder Finance Ltd Famatown Sells 100 , 000 Shares of Stock",
+      "url": "https://www.themarketsdaily.com/2026/10/16/international-seaways-nyseinsw-major-shareholder-finance-ltd-famatown-sells-100000-shares-of-stock.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "PDMR – Purchase of SIP Shares | Company Announcement",
+      "url": "https://www.investegate.co.uk/announcement/rns/cohort--chrt/pdmr-purchase-of-sip-shares/9827991",
+      "source": "investegate.co.uk",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "CoreWeave Stock Rally Fizzles Despite ARK Wood , Nvidia Support",
+      "url": "https://www.investors.com/news/technology/coreweave-stock-rally-fizzles-despite-arks-wood-nvidia-support",
+      "source": "investors.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Century Aluminum Shares Climb Over 5 % as Alcoa Earnings Beat and Tight Aluminum Supply Lift US Producers",
+      "url": "https://www.ibtimes.com.au/century-aluminum-shares-rise-alcoa-results-tight-supply-1876905",
+      "source": "ibtimes.com.au",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Independent Bank Corp . Shares Rise Nearly 5 % as Rockland Trust Parent Beats Third - Quarter Profit Estimates",
+      "url": "https://www.ibtimes.com.au/independent-bank-third-quarter-earnings-beat-expectations-1876901",
+      "source": "ibtimes.com.au",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Karman Holdings Shares Extend Rebound With 5 % Gain After Space and Defense Supplier Hit a 52 - Week Low",
+      "url": "https://www.ibtimes.com.au/karman-holdings-shares-rebound-52-week-low-1876903",
+      "source": "ibtimes.com.au",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Criteo ( NASDAQ : CRTO ) Shares Gap Up – Time to Buy ?",
+      "url": "https://www.themarketsdaily.com/2026/10/16/criteo-nasdaqcrto-shares-gap-up-time-to-buy.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Sally Rooney books will no longer be sold in U . K . after Palestinian Action support",
+      "url": "https://www.ypradio.org/npr-news/2026-10-16/sally-rooneys-books-will-no-longer-be-sold-in-u-k-after-palestinian-action-support",
+      "source": "ypradio.org",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "New Noida to add 20 , 000 hectares of developable land ; what It means for industrial , commercial and residential real estate",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/new-noida-to-add-20000-hectares-of-developable-land-what-it-means-for-industrial-commercial-and-residential-real-estate/articleshow/134997890.cms",
+      "source": "timesofindia.indiatimes.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Heico ( NYSE : HEI . A ) Stock Price Up 5 . 5 % – Time to Buy ?",
+      "url": "https://www.themarketsdaily.com/2026/10/16/heico-nysehei-a-stock-price-up-5-5-time-to-buy.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Harford Mutual EVP Jeff Rink joins Upper Chesapeake Health Foundation board",
+      "url": "https://www.insurancebusinessmag.com/us/news/non-profits/harford-mutual-evp-jeff-rink-joins-upper-chesapeake-health-foundation-board-593862.aspx",
+      "source": "insurancebusinessmag.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Apple iPhone prices quadrupled since 2008 . Here why",
+      "url": "https://www.ksbw.com/article/why-iphone-prices-keep-rising/74145361",
+      "source": "ksbw.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Tower Semiconductor ( NASDAQ : TSEM ) Shares Gap Down – What Next ?",
+      "url": "https://www.themarketsdaily.com/2026/10/16/tower-semiconductor-nasdaqtsem-shares-gap-down-whats-next.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Holding ( s ) in Company | Company Announcement",
+      "url": "https://www.investegate.co.uk/announcement/rns/asos--asc/holding-s-in-company/9827999",
+      "source": "investegate.co.uk",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Sainsbury announces it is selling all 8 petrol stations in one united kingdom country | united kingdom | News",
+      "url": "https://www.express.co.uk/news/uk/2257947/sainsburys-announces-it-selling-all",
+      "source": "express.co.uk",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Chemical industry groups take aim at UP criticism of trade associations",
+      "url": "https://www.trains.com/pro/freight/chemical-industry-groups-take-aim-at-up-criticism-of-trade-associations",
+      "source": "trains.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Macon Costco project : School board votes on $30M financing plan - 41NBC News",
+      "url": "https://www.41nbc.com/macon-costco-wesleyan-drive-new-forsyth-road-financing",
+      "source": "41nbc.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "These 2 Utility Stocks Target 5 % to 7 % Growth . But Their Dividend Risks Are Worlds Apart",
+      "url": "https://www.aol.com/articles/2-utility-stocks-target-5-151507000.html",
+      "source": "aol.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Notification of Major Holdings | Company Announcement",
+      "url": "https://www.investegate.co.uk/announcement/rns/brickability-group--brck/notification-of-major-holdings-/9827994",
+      "source": "investegate.co.uk",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "International Seaways ( NYSE : INSW ) Major Shareholder Sells $3 , 078 , 450 . 96 in Stock",
+      "url": "https://www.themarketsdaily.com/2026/10/16/international-seaways-nyseinsw-major-shareholder-sells-3078450-96-in-stock.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Tesla new Roadster car can thrust itself in the air . But dont expect to drive it anytime soon",
+      "url": "https://www.wsls.com/business/2026/10/16/teslas-new-roadster-car-can-thrust-itself-in-the-air-but-dont-expect-to-drive-it-anytime-soon",
+      "source": "wsls.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Shionogi & Co ., Ltd . Unsponsored ADR ( OTCMKTS : SGIOY ) Shares Climb 6 . 2 % – Should You Buy ?",
+      "url": "https://www.themarketsdaily.com/2026/10/16/shionogi-co-ltd-unsponsored-adr-otcmktssgioy-shares-climb-6-2-should-you-buy.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Raja Chakra EOW Remand in Major Fraud Case - Pragativadi I Latest Odisha News in English I Breaking News",
+      "url": "https://pragativadi.com/kendujhar-land-crusher-scam-eow-remands-syndicate-kingpin-soumya-shankar-chakra",
+      "source": "pragativadi.com",
+      "published": "2026-10-16T16:00:00+00:00",
+      "category": "Business"
+    },
     {
       "title": "Traffic Curbs Issued For Central Delhi Ahead Of CJP  Lehra Do Tiranga  March",
       "url": "https://www.deccanchronicle.com/nation/delhi-security-forces-deployed-in-and-around-connaught-place-ahead-of-lehra-do-tiranga-protest-1996282",
