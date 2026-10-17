@@ -1,12 +1,361 @@
 {
-  "updated": "2026-10-16T21:11+00:00",
+  "updated": "2026-10-17T04:29+00:00",
   "errors": [
     "Markets: HTTPError",
-    "Business: HTTPError",
     "Politics: HTTPError",
     "Economy: HTTPError"
   ],
   "stories": [
+    {
+      "title": "Stakeholders seek balanced approach to sugar tax hike",
+      "url": "https://tribune.net.ph/2026/10/17/stakeholders-seek-balanced-approach-to-sugar-tax-hike",
+      "source": "tribune.net.ph",
+      "published": "2026-10-17T04:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "US report flags sweeping H - 1B restrictions",
+      "url": "https://www.prokerala.com/news/articles/a1825486.html",
+      "source": "prokerala.com",
+      "published": "2026-10-17T04:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "PM Modi extends birthday wishes to Punjab CM Mann , prays for his long life",
+      "url": "https://www.prokerala.com/news/articles/a1825487.html",
+      "source": "prokerala.com",
+      "published": "2026-10-17T04:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Wall St Week Ahead As AI rally wobbles , stock market spotlight turns to earnings",
+      "url": "https://dunyanews.tv/en/Technology/978195-wall-st-week-ahead-as-ai-rally-wobbles-stock-markets-spotlight-turns",
+      "source": "dunyanews.tv",
+      "published": "2026-10-17T04:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "The Precious Metals Crisis That Could Trigger A Global Financial Reckoning",
+      "url": "https://www.zerohedge.com/precious-metals/precious-metals-crisis-could-trigger-global-financial-reckoning",
+      "source": "zerohedge.com",
+      "published": "2026-10-17T04:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "US Army accelerates counter - drone technology",
+      "url": "https://www.prokerala.com/news/articles/a1825482.html",
+      "source": "prokerala.com",
+      "published": "2026-10-17T04:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Utility and Energy Transmission & Distribution News",
+      "url": "https://www.utilitydive.com/?page=2&_sp=86905711-3b1b-41ca-b4ed-a76ad2fc89d6",
+      "source": "utilitydive.com",
+      "published": "2026-10-17T04:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Chemours Shareholder Alert : ClaimsFiler Reminds Investors With Losses In Excess Of $100 , 000 Of Lead Plaintiff Deadline In Class Action Lawsuit Against The Chemours Company",
+      "url": "http://www.prnewswire.com/news-releases/chemours-shareholder-alert-claimsfiler-reminds-investors-with-losses-in-excess-of-100-000-of-lead-plaintiff-deadline-in-class-action-lawsuit-against-the-chemours-company---cc-302911670.html",
+      "source": "prnewswire.com",
+      "published": "2026-10-17T04:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "B . C . election : A look at the main party promises as advance voting begins : My Nelson Now",
+      "url": "https://www.mynelsonnow.com/80895/news/elections/2026-bc-election/b-c-election-a-look-at-the-main-party-promises-as-advance-voting-begins",
+      "source": "mynelsonnow.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "The Tesla Roadster Should Go Into Production In 2028 , But Dont Get Your Hopes Up",
+      "url": "https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up",
+      "source": "engadget.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "AP Entertainment SummaryBrief at 7 : 18 p . m . EDT",
+      "url": "https://santamariatimes.com/ap/entertainment/ap-entertainment-summarybrief-at-7-18-p-m-edt/article_5a09fd03-4f64-5b44-931a-8717ca0cf1d4.html",
+      "source": "santamariatimes.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Head - To - Head Analysis : Radian Group ( NYSE : RDN ) versus Block ( NYSE : XYZ )",
+      "url": "https://www.themarketsdaily.com/2026/10/17/head-to-head-analysis-radian-group-nyserdn-versus-block-nysexyz.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "S & P 500 logs biggest weekly loss since June as oil at $110 , AI trade fears rattle Wall Street",
+      "url": "https://www.moneycontrol.com/news/business/markets/s-p-500-logs-biggest-weekly-loss-since-june-as-oil-at-110-ai-trade-fears-rattle-wall-street-14054225.html",
+      "source": "moneycontrol.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Reviewing Air Products and Chemicals ( NYSE : APD ) & Quaker Houghton ( NYSE : KWR )",
+      "url": "https://www.themarketsdaily.com/2026/10/17/reviewing-air-products-and-chemicals-nyseapd-quaker-houghton-nysekwr.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Daniel Samson Bags the Chip Lead on a Busy Day 1b of the 888LIVE London Main Event",
+      "url": "https://www.pokernews.com/tours/888live/2026-888-live-london/1250-main-event/chips.869276.htm",
+      "source": "pokernews.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Alamos Gold ( NYSE : AGI ) & Oceanagold ( NYSE : OGC ) Head - To - Head Comparison",
+      "url": "https://www.themarketsdaily.com/2026/10/17/alamos-gold-nyseagi-oceanagold-nyseogc-head-to-head-comparison.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "What GTA 6 coverage keeps getting wrong - Reader Feature",
+      "url": "https://metro.co.uk/2026/10/17/gta-6-coverage-keeps-getting-wrong-readers-feature-29716755",
+      "source": "metro.co.uk",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Problems That Arise From Incorrect Real Estate Tax Filing",
+      "url": "https://artvoice.com/problems-that-arise-from-incorrect-real-estate-tax-filing",
+      "source": "artvoice.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Financial Survey : Northpointe Bancshares ( NYSE : NPB ) vs . First Financial Bankshares ( NASDAQ : FFIN )",
+      "url": "https://www.themarketsdaily.com/2026/10/17/financial-survey-northpointe-bancshares-nysenpb-vs-first-financial-bankshares-nasdaqffin.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Wall Street tumbles as worries about AI trade and high oil prices weigh",
+      "url": "https://www.moneycontrol.com/news/business/markets/wall-street-tumbles-as-worries-about-ai-trade-and-high-oil-prices-weigh-14054246.html",
+      "source": "moneycontrol.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Daily Voice : Markets likely to remain range - bound until foreign outflows ease despite positive domestic macro , says LightHouse Canton MD",
+      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-markets-likely-to-remain-range-bound-until-foreign-outflows-ease-despite-positive-domestic-macro-says-lighthouse-canton-md-14054201.html",
+      "source": "moneycontrol.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Chinese stocks turn biggest losers as global AI trade stumbles",
+      "url": "https://www.moneycontrol.com/news/business/markets/chinese-stocks-turn-biggest-losers-as-global-ai-trade-stumbles-14054230.html",
+      "source": "moneycontrol.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "AST SpaceMobile ( NASDAQ : ASTS ) And TELUS Partnership Advances Satellite Connectivity As Launch Delays Threaten Growth Case",
+      "url": "https://www.foreignpolicyjournal.com/2026/10/16/ast-spacemobile-nasdaq-asts-and-telus-partnership-advances-satellite-connectivity-as-launch-delays-threaten-growth-case",
+      "source": "foreignpolicyjournal.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Meenakshi India Share Price , Meenakshi India Stock Price , Meenakshi India Ltd . Stock Price , Share Price , Live BSE / NSE , Meenakshi India Ltd . Bids Offers . Buy / Sell Meenakshi India Ltd . news & tips , & F & O Quotes , NSE / BSE Forecast News...",
+      "url": "https://www.moneycontrol.com/india/stockpricequote/miscellaneous/meenakshiindia/MIL03",
+      "source": "moneycontrol.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Silver Pony Announces Strategic Offering of Units for up to $1 , 000 , 000 Including Significant Investor Doug Casey",
+      "url": "https://www.recorder.ca/press-releases/newsfile/silver-pony-announces-strategic-offering-of-units-for-up-to-1000000-including-significant-investor-doug-casey",
+      "source": "recorder.ca",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Chartist Talk : Can Nifty 50 extend gains towards 23 , 500 next week ? Sudeep Shah top picks are TVS Motor , Eternal",
+      "url": "https://www.moneycontrol.com/news/business/markets/chartist-talk-can-nifty-50-extend-gains-towards-23-500-next-week-sudeep-shah-s-top-picks-are-tvs-motor-eternal-14054211.html",
+      "source": "moneycontrol.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Chuck Lorre gets candid on hits , flops and hard lessons in new memoir  Sitcom",
+      "url": "https://www.ksat.com/entertainment/2026/10/16/chuck-lorre-gets-candid-on-hits-flops-and-hard-lessons-in-new-memoir-sitcom",
+      "source": "ksat.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Chuck Lorre gets candid on hits , flops and hard lessons in new memoir  Sitcom",
+      "url": "https://santamariatimes.com/ap/national/chuck-lorre-gets-candid-on-hits-flops-and-hard-lessons-in-new-memoir-sitcom/article_69c67314-3d43-5c2a-a362-f1ad0148c3d8.html",
+      "source": "santamariatimes.com",
+      "published": "2026-10-17T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Emirates NBD Indian branches to merge with RBL Bank from December 1",
+      "url": "https://www.businesstoday.in/latest/corporate/story/emirates-nbds-indian-branches-to-merge-with-rbl-bank-from-december-1-562208-2026-10-17",
+      "source": "businesstoday.in",
+      "published": "2026-10-17T02:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Indian - origin united kingdom police officer charged with attempted rape , intentional strangulation",
+      "url": "https://www.hindustantimes.com/trending/indianorigin-uk-police-officer-harman-singh-charged-with-attempted-rape-intentional-strangulation-101792201387802.html",
+      "source": "hindustantimes.com",
+      "published": "2026-10-17T02:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Why are soaring oil shipping costs pushing up prices ?",
+      "url": "https://insideretail.asia/2026/10/17/why-are-soaring-oil-shipping-costs-pushing-up-prices",
+      "source": "insideretail.asia",
+      "published": "2026-10-17T02:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Chuck Lorre gets candid on hits , flops and hard lessons in new memoir  Sitcom",
+      "url": "https://www.click2houston.com/entertainment/2026/10/16/chuck-lorre-gets-candid-on-hits-flops-and-hard-lessons-in-new-memoir-sitcom",
+      "source": "click2houston.com",
+      "published": "2026-10-17T02:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Copper One Resources Identifies New Copper Zone 600 Metres Northeast of Main Zone at Redonda Copper - Molybdenum Project , British Columbia",
+      "url": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/2824-cse/cexy/213052-copper-one-identifies-new-copper-zone-600-metres-northeast-of-main-zone-at-redonda-copper-molybdenum-project-british-columbia.html",
+      "source": "juniorminingnetwork.com",
+      "published": "2026-10-17T02:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "The Precious Metals Crisis That Could Trigger A Global Financial Reckoning",
+      "url": "http://www.zerohedge.com/precious-metals/precious-metals-crisis-could-trigger-global-financial-reckoning",
+      "source": "zerohedge.com",
+      "published": "2026-10-17T02:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "LQR House Inc . Announces CEO Transition",
+      "url": "http://www.hawaiitelegraph.com/news/279380171/lqr-house-inc-announces-ceo-transition",
+      "source": "hawaiitelegraph.com",
+      "published": "2026-10-17T02:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Gunn & Safran Talk DC Slate , Wild Rumors",
+      "url": "https://www.darkhorizons.com/gunn-safran-talk-dc-slate-wild-rumors",
+      "source": "darkhorizons.com",
+      "published": "2026-10-17T02:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Indigenous peoples from Grand Canyon to Madagascar share common struggle against Energy Fuels",
+      "url": "https://www.kuer.org/race-religion-social-justice/2026-10-16/10th-annual-white-mesa-spiritual-walk-utah-uranium-mining-protest",
+      "source": "kuer.org",
+      "published": "2026-10-17T02:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Bendigo housing push : Villawood targets 3000 homes in $2bn plan | Bendigo Advertiser",
+      "url": "https://www.bendigoadvertiser.com.au/story/9369720/bendigo-housing-push-villawood-targets-3000-homes-in-2bn-plan",
+      "source": "bendigoadvertiser.com.au",
+      "published": "2026-10-17T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Rising Dragon Acquisition Corp . ( NASDAQ : RDAC ) Stock Short Interest Drops 45 . 6 %",
+      "url": "https://www.tickerreport.com/banking-finance/13623166/rising-dragon-acquisition-corp-nasdaqrdac-stock-short-interest-drops-45-6.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Parkview Health to Acquire Ovation , Expanding Its Shared - Services Reach",
+      "url": "https://econotimes.com/Parkview-Health-to-Acquire-Ovation-Expanding-Its-Shared-Services-Reach-1755721",
+      "source": "econotimes.com",
+      "published": "2026-10-17T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Investment Analyst Recent Ratings Changes for Valvoline ( VVV )",
+      "url": "https://www.tickerreport.com/banking-finance/13623162/investment-analysts-recent-ratings-changes-for-valvoline-vvv.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Deals & Moves : WPCG - Backed Apella , Waverly Keep Acquiring",
+      "url": "https://www.wealthmanagement.com/ria-news/deals-moves-wpcg-backed-apella-waverly-keep-acquiring",
+      "source": "wealthmanagement.com",
+      "published": "2026-10-17T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Software Majors Add More Hands in Q2 on Deal Wins , Growth Optimism",
+      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/oct/17/satet-front/software-majors-add-more-hands-inq2-on-deal-wins-growth-optimism/articleshow/135003716.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-10-17T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Granite REIT Declares Distribution for October 2026",
+      "url": "https://www.northernnews.ca/press-releases/business-wire/granite-reit-declares-distribution-for-october-2026",
+      "source": "northernnews.ca",
+      "published": "2026-10-17T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "White shirts , fast - track passes : Inside an alleged Immigration racket",
+      "url": "https://www.malaysiakini.com/news/887281-white-shirts-fast-track-passes-inside-an-alleged-immigration-racket",
+      "source": "malaysiakini.com",
+      "published": "2026-10-17T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "CRISI grants to fund passenger projects in Wisconsin , Massachusetts",
+      "url": "https://www.trains.com/pro/passenger/crisi-grants-to-fund-passenger-projects-in-wisconsin-massachusetts",
+      "source": "trains.com",
+      "published": "2026-10-17T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Romania : Collaboration between the Romanian company Drone Flight România (…)",
+      "url": "https://www.romaniapress.com/news=197268",
+      "source": "romaniapress.com",
+      "published": "2026-10-17T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "IT Time to Celebrate When Chips are Down - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/oct/17/satet-front/its-time-to-celebratewhen-chips-are-down/articleshow/135003704.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-10-17T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Niu Technologies ( NASDAQ : NIU ) Stock Short Interest Falls 49 . 5 %",
+      "url": "https://www.tickerreport.com/banking-finance/13623159/niu-technologies-nasdaqniu-stock-short-interest-falls-49-5.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "USSS Deputy Director Matthew C . Quinn resigns",
+      "url": "https://www.oann.com/newsroom/usss-deputy-director-matthew-c-quinn-resigns",
+      "source": "oann.com",
+      "published": "2026-10-17T01:00:00+00:00",
+      "category": "Business"
+    },
     {
       "title": "With Demand Set to Outstrip Supply Until at Least 2028 , ASML Stock Is a Buy",
       "url": "https://www.fool.com/investing/2026/10/16/with-demand-set-to-outstrip-supply-until-at-least",
