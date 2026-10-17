@@ -1,9 +1,361 @@
 {
-  "updated": "2026-10-17T15:38+00:00",
+  "updated": "2026-10-17T20:38+00:00",
   "errors": [
-    "Economy: HTTPError"
+    "Markets: HTTPError",
+    "Business: HTTPError",
+    "Politics: HTTPError"
   ],
   "stories": [
+    {
+      "title": "Northumberland MP hits out at housing firm Taylor Wimpey over  fire and rehire threat  to workers",
+      "url": "https://www.chroniclelive.co.uk/news/north-east-news/northumberland-mp-hits-out-housing-34777265",
+      "source": "chroniclelive.co.uk",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Retail price impacts from the Iran war are uneven but add up for US households before midterms",
+      "url": "https://www.chicagotribune.com/2026/10/17/retail-price-impacts-from-iran-war-midterms",
+      "source": "chicagotribune.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US markets weighed down by extended sell - off in the tech sector",
+      "url": "https://www.eldoradonews.com/news/2026/oct/16/us-markets-weighed-down-by-extended-sell-off-in",
+      "source": "eldoradonews.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Migration : How One Nation plans would drive up debt by $275b",
+      "url": "https://www.theage.com.au/politics/federal/how-one-nation-s-negative-migration-plans-would-drive-up-debt-by-275b-20261018-p61575.html",
+      "source": "theage.com.au",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "When stock valuations go wrong , blame taxes ? - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/when-stock-valuations-go-wrong-blame-taxes/article71597333.ece",
+      "source": "thehindubusinessline.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man and woman in court on charges related to fatal Waterford arson attack",
+      "url": "https://www.thisiswiltshire.co.uk/news/national/26646601.man-woman-court-charges-related-fatal-waterford-arson-attack",
+      "source": "thisiswiltshire.co.uk",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PS6 Report Gives New Pricing Information , and PlayStation May Be in Serious Trouble",
+      "url": "https://comicbook.com/gaming/news/ps6-playstation-6-price-information",
+      "source": "comicbook.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Niger Delta Congress Urges FG To Extend PINL Pipeline Surveillance Contract",
+      "url": "https://leadership.ng/niger-delta-congress-urges-fg-to-extend-pinls-pipeline-surveillance-contract",
+      "source": "leadership.ng",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Media Monitor : CAIR Condemns Trump Mockery of the Name Muhammad as  Political Desperation",
+      "url": "https://newsroomamerica.com/a/A0BzzuaXK61aOIkegicbFLJPcB7/cair_is_reporting_that_it_condemned_president_trump_s_mockery_of_the_name_muhammad_at_a_georgia_rally_calling_the_broader_far_right_focus_on_american_muslims_a_sign_of_political_desperation.html",
+      "source": "newsroomamerica.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Solar Stocks To Watch Today – October 17th",
+      "url": "https://www.tickerreport.com/banking-finance/13624028/solar-stocks-to-watch-today-october-17th.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Renault India CEO sees hybrids , CNG making up 50 % of sales in 2 - 3 years ; eyes 3 - 5 % market share by 2030",
+      "url": "https://www.livemint.com/companies/renault-india-ceo-sees-hybrids-cng-making-up-50-of-sales-in-2-3-years-eyes-3-5-market-share-by-2030-11792255501177.html",
+      "source": "livemint.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man and woman in court on charges related to fatal Waterford arson attack",
+      "url": "https://www.milfordmercury.co.uk/news/national/26646601.man-woman-court-charges-related-fatal-waterford-arson-attack",
+      "source": "milfordmercury.co.uk",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tech rebound takes shine off FTSE as rate fears and Middle East tensions persist - ATV Today",
+      "url": "https://www.atvtoday.co.uk/319158-financial-news",
+      "source": "atvtoday.co.uk",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hobart OKs tax abatement for Becknell Industrial campus",
+      "url": "https://www.chicagotribune.com/2026/10/17/hobart-oks-tax-abatement-for-becknell-industrial-campus",
+      "source": "chicagotribune.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Want To See Dhapewada Silk Export Across World : Gadkari",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/want-to-see-dhapewada-silk-export-across-world-gadkari/articleshow/135019599.cms",
+      "source": "timesofindia.indiatimes.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PepsiCo India wants 90 – 100 % of its drinks portfolio to be zero - sugar or mid - calorie : What is driving the change ?",
+      "url": "https://www.livemint.com/companies/pepsico-india-wants-90-100-of-its-drinks-portfolio-to-be-zero-sugar-or-mid-calorie-what-is-driving-the-change-11792244504828.html",
+      "source": "livemint.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "US Market Outlook : Indices knocked down - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/technical-analysis/us-market-outlook-indices-knocked-down/article71595857.ece",
+      "source": "thehindubusinessline.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man and woman in court on charges related to fatal Waterford arson attack",
+      "url": "https://www.newburytoday.co.uk/national/man-and-woman-in-court-on-charges-related-to-fatal-waterford-arson-attack-173125",
+      "source": "newburytoday.co.uk",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Missing middle should catch up with medical inflation - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/missing-middle-should-catch-up-with-medical-inflation/article71593222.ece",
+      "source": "thehindubusinessline.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man and woman in court on charges related to fatal Waterford arson attack",
+      "url": "https://www.falmouthpacket.co.uk/news/national/26646601.man-woman-court-charges-related-fatal-waterford-arson-attack",
+      "source": "falmouthpacket.co.uk",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Micron Technology ( NASDAQ : MU ) Shares Up 1 . 9 % – Still a Buy ?",
+      "url": "https://www.tickerreport.com/banking-finance/13624023/micron-technology-nasdaqmu-shares-up-1-9-still-a-buy.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man and woman in court on charges related to fatal Waterford arson attack",
+      "url": "https://www.westerntelegraph.co.uk/news/national/26646601.man-woman-court-charges-related-fatal-waterford-arson-attack",
+      "source": "westerntelegraph.co.uk",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Columbiana keeps building on its successes",
+      "url": "https://www.vindy.com/opinion/guest-columnists/2026/10/columbiana-keeps-building-on-its-successes",
+      "source": "vindy.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Jonathan , Dangote Seek Jobs , Almajiri Schools To Tackle Insecurity At MD Abubakar Book Launch",
+      "url": "https://leadership.ng/jonathan-dangote-seek-jobs-almajiri-schools-to-tackle-insecurity-at-md-abubakars-book-launch",
+      "source": "leadership.ng",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man and woman in court on charges related to fatal Waterford arson attack",
+      "url": "https://www.dorsetecho.co.uk/news/national/26646601.man-woman-court-charges-related-fatal-waterford-arson-attack",
+      "source": "dorsetecho.co.uk",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man and woman in court on charges related to fatal Waterford arson attack",
+      "url": "https://www.times-series.co.uk/news/national/26646601.man-woman-court-charges-related-fatal-waterford-arson-attack",
+      "source": "times-series.co.uk",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "More than one in four Montreal - area adults experienced poverty over eight years – Brandon Sun",
+      "url": "https://www.brandonsun.com/business/2026/10/17/more-than-one-in-four-montreal-area-adults-experienced-poverty-over-eight-years",
+      "source": "brandonsun.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Anaheim Police Get $45 Million Raise Ahead of $120 Million in Freed Up Bond Money",
+      "url": "https://voiceofoc.org/2026/10/anaheim-police-get-45-million-raise-ahead-of-120-million-in-freed-up-bond-money",
+      "source": "voiceofoc.org",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man and woman in court on charges related to fatal Waterford arson attack",
+      "url": "https://www.basingstokegazette.co.uk/news/national/26646601.man-woman-court-charges-related-fatal-waterford-arson-attack",
+      "source": "basingstokegazette.co.uk",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Prenups shed their stigma . Young couples are getting them",
+      "url": "https://www.latimes.com/lifestyle/story/2026-10-15/la-young-people-zillennials-gen-z-are-signing-prenups-calling-it-intimacy",
+      "source": "latimes.com",
+      "published": "2026-10-17T19:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Is Palantir Stock a Buy Right Now ? | The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/10/17/is-palantir-stock-a-buy-right-now",
+      "source": "fool.com",
+      "published": "2026-10-17T19:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man and woman in court on charges related to fatal Waterford arson attack",
+      "url": "https://www.countytimes.co.uk/news/national/26646601.man-woman-court-charges-related-fatal-waterford-arson-attack",
+      "source": "countytimes.co.uk",
+      "published": "2026-10-17T19:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Two tankers hit mines in Strait of Hormuz : Iran navy",
+      "url": "https://www.illawarramercury.com.au/story/9370348/two-tankers-hit-mines-in-strait-of-hormuz-iran-navy",
+      "source": "illawarramercury.com.au",
+      "published": "2026-10-17T19:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man and woman in court on charges related to fatal Waterford arson attack",
+      "url": "https://www.thetottenhamindependent.co.uk/news/national/26646601.man-woman-court-charges-related-fatal-waterford-arson-attack",
+      "source": "thetottenhamindependent.co.uk",
+      "published": "2026-10-17T19:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Horoscope Today : Daily astrological predictions for October 18 , 2026",
+      "url": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-october-18-2026/articleshow/135011972.cms",
+      "source": "timesofindia.indiatimes.com",
+      "published": "2026-10-17T19:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nepal balances immigration enforcement with investment protection in Chinese - funded project",
+      "url": "https://www.prokerala.com/news/articles/a1825824.html",
+      "source": "prokerala.com",
+      "published": "2026-10-17T19:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man and woman in court on charges related to fatal Waterford arson attack",
+      "url": "https://www.wandsworthguardian.co.uk/news/national/26646601.man-woman-court-charges-related-fatal-waterford-arson-attack",
+      "source": "wandsworthguardian.co.uk",
+      "published": "2026-10-17T19:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man and woman in court on charges related to fatal Waterford arson attack",
+      "url": "https://www.dissexpress.co.uk/national/man-and-woman-in-court-on-charges-related-to-fatal-waterford-arson-attack-173125",
+      "source": "dissexpress.co.uk",
+      "published": "2026-10-17T19:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Twenty Hours a Week at an Amazon Warehouse for Health Insurance at 60 ? Here Is the Math a Retired Paralegal Will Run",
+      "url": "https://www.aol.com/articles/twenty-hours-week-amazon-warehouse-172251000.html",
+      "source": "aol.com",
+      "published": "2026-10-17T19:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Centre Amends Employee Pension Scheme 2026 | Kashmir Life - Latest News & Breaking News from Kashmir",
+      "url": "https://kashmirlife.net/centre-amends-employees-pension-scheme-2026-457120",
+      "source": "kashmirlife.net",
+      "published": "2026-10-17T19:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Abdullahi Saajo plan for Wajir North constituency",
+      "url": "https://www.standardmedia.co.ke/politics/article/2001560339/abdullahi-saajos-plan-for-wajir-north-constituency",
+      "source": "standardmedia.co.ke",
+      "published": "2026-10-17T19:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Parramatta Lanes : How the western Sydney festival became a major drawcard for the city music scene",
+      "url": "https://www.smh.com.au/national/nsw/forget-stadium-concerts-there-s-a-seriously-cool-music-revolution-happening-in-western-sydney-20261018-p613va.html",
+      "source": "smh.com.au",
+      "published": "2026-10-17T19:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gold , silver prices may see limited upside ahead of Diwali ; expert sees gold at Rs 1 . 5 lakh , silver at Rs 2 . 3 lakh",
+      "url": "https://www.ibtimes.co.in/gold-silver-prices-ahead-diwali-2026-expert-sees-gold-rs-1-5-lakh-silver-rs-2-3-lakh-907650",
+      "source": "ibtimes.co.in",
+      "published": "2026-10-17T19:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Two tankers hit mines in Strait of Hormuz : Iran navy",
+      "url": "https://www.naroomanewsonline.com.au/story/9370348/two-tankers-hit-mines-in-strait-of-hormuz-iran-navy",
+      "source": "naroomanewsonline.com.au",
+      "published": "2026-10-17T19:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Man and woman in court on charges related to fatal Waterford arson attack",
+      "url": "https://www.halesowennews.co.uk/news/national/26646601.man-woman-court-charges-related-fatal-waterford-arson-attack",
+      "source": "halesowennews.co.uk",
+      "published": "2026-10-17T19:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Allison Schrager : Brad the gamer is much more than a political punching bag",
+      "url": "https://www.citizensvoice.com/2026/10/17/allison-schrager-brad-the-gamer-is-much-more-than-a-political-punching-bag-2",
+      "source": "citizensvoice.com",
+      "published": "2026-10-17T19:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Targeted News Service",
+      "url": "https://targetednews.com/pr_disp.php?pr_id=9790428",
+      "source": "targetednews.com",
+      "published": "2026-10-17T19:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Interest on the National Debt Just Hit a Record $1 . 36 Trillion",
+      "url": "https://www.aol.com/articles/interest-national-debt-just-hit-170924000.html",
+      "source": "aol.com",
+      "published": "2026-10-17T19:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Insurer balance sheet strain could lift 1 / 1 reinsurance demand – Arundo Re",
+      "url": "https://www.intelligentinsurer.com/baden-baden-today/insurer-balance-sheet-strain-could-lift-11-reinsurance-demand-arundo-re",
+      "source": "intelligentinsurer.com",
+      "published": "2026-10-17T19:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Is Palantir Stock a Buy Right Now ?",
+      "url": "https://www.aol.com/articles/palantir-stock-buy-now-172500000.html",
+      "source": "aol.com",
+      "published": "2026-10-17T19:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "US strikes $25M UNICEF deal to avert medicine shortages",
       "url": "https://www.dailysabah.com/world/africa/us-strikes-25m-unicef-deal-to-avert-medicine-shortages",
