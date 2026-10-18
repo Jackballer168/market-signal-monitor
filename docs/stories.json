@@ -1,11 +1,361 @@
 {
-  "updated": "2026-10-17T20:38+00:00",
+  "updated": "2026-10-18T04:37+00:00",
   "errors": [
     "Markets: HTTPError",
-    "Business: HTTPError",
-    "Politics: HTTPError"
+    "Politics: HTTPError",
+    "Economy: HTTPError"
   ],
   "stories": [
+    {
+      "title": "FinancialContent - Fifth Third Bancorp Earnings : What To Look For From FITB",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-18-fifth-third-bancorp-earnings-what-to-look-for-from-fitb",
+      "source": "markets.financialcontent.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Billion Dollar Baby : How national children hospital became a multibillion - euro project – The Irish Times",
+      "url": "https://www.irishtimes.com/culture/books/review/2026/10/19/billion-dollar-baby-how-national-childrens-hospital-became-a-multibillion-euro-project",
+      "source": "irishtimes.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "FinancialContent - W . R . Berkley ( WRB ) Reports Q3 : Everything You Need To Know Ahead Of Earnings",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-18-w-r-berkley-wrb-reports-q3-everything-you-need-to-know-ahead-of-earnings",
+      "source": "markets.financialcontent.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "GEA calls for jobs impact test on major policies",
+      "url": "http://www.businessghana.com/site/news/Business/357895/GEA-calls-for-jobs-impact-test-on-major-policies",
+      "source": "businessghana.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "FinancialContent - RLI ( RLI ) Q3 Earnings Report Preview : What To Look For",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-18-rli-rli-q3-earnings-report-preview-what-to-look-for",
+      "source": "markets.financialcontent.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "FinancialContent - Wintrust Financial ( WTFC ) Reports Earnings Tomorrow : What To Expect",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-18-wintrust-financial-wtfc-reports-earnings-tomorrow-what-to-expect",
+      "source": "markets.financialcontent.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Cocoa farmers battle declining yields in Bono East",
+      "url": "http://www.businessghana.com/site/news/business/357893/Cocoa-farmers-battle-declining-yields-in-Bono-East",
+      "source": "businessghana.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Speaker recognises merger of 8 UDP MLAs | The Shillong Times",
+      "url": "https://theshillongtimes.com/2026/10/18/speaker-recognises-merger-of-8-udp-mlas",
+      "source": "theshillongtimes.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "FinancialContent - Crown Holdings ( CCK ) To Report Earnings Tomorrow : Here Is What To Expect",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-18-crown-holdings-cck-to-report-earnings-tomorrow-here-is-what-to-expect",
+      "source": "markets.financialcontent.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "FinancialContent - What To Expect From Zions Bancorporation ( ZION ) Q3 Earnings",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-18-what-to-expect-from-zions-bancorporations-zion-q3-earnings",
+      "source": "markets.financialcontent.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Dorothy OTT release date confirmed : When and where to watch Karthik Subbaraj Tamil movie starring Keerthy Suresh , Rishikanth and Sananth online",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/dorothy-ott-release-date-confirmed-when-and-where-to-watch-karthik-subbarajs-tamil-movie-starring-keerthy-suresh-rishikanth-and-sananth-online/articleshow/135023102.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "FinancialContent - Earnings To Watch : F . N . B . Corporation ( FNB ) Reports Q3 Results Tomorrow",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-18-earnings-to-watch-fnb-corporation-fnb-reports-q3-results-tomorrow",
+      "source": "markets.financialcontent.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Charting the global economy : Inflationary pressures mount in US",
+      "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/charting-the-global-economy-inflationary-pressures-mount-in-us/articleshow/135023323.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "FinancialContent - Washington Trust Bancorp ( WASH ) Q3 Earnings : What To Expect",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-18-washington-trust-bancorp-wash-q3-earnings-what-to-expect",
+      "source": "markets.financialcontent.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "FinancialContent - Western Alliance Bancorporation ( WAL ) Q3 Earnings : What To Expect",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-18-western-alliance-bancorporation-wal-q3-earnings-what-to-expect",
+      "source": "markets.financialcontent.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Removal of fuel subsidy necessary to save economy ex - GOC",
+      "url": "https://thesun.ng/removal-of-fuel-subsidy-necessary-to-save-economy-ex-goc",
+      "source": "thesun.ng",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "FinancialContent - What To Expect From BOK Financial ( BOKF ) Q3 Earnings",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-18-what-to-expect-from-bok-financials-bokf-q3-earnings",
+      "source": "markets.financialcontent.com",
+      "published": "2026-10-18T04:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "70th IT Press Tour , Part 1 of 2 : Phison nearly quadrupled its quarterly revenue on AI , and now it wants flash to do DRAM job",
+      "url": "https://itwire.com/business-it-news/storage/70th-it-press-tour-part-1-of-2-phison-nearly-quadrupled-its-quarterly-revenue-on-ai-and-now-it-wants-flash-to-do-drams-job",
+      "source": "itwire.com",
+      "published": "2026-10-18T03:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Popular California chain Gen Korean BBQ sold for $100M",
+      "url": "https://www.kcra.com/article/california-chain-gen-korean-bbq-sold/74168842",
+      "source": "kcra.com",
+      "published": "2026-10-18T03:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "When AI Predicts Your Future , It Can Help Make That Future Happen - OpEd",
+      "url": "https://www.eurasiareview.com/18102026-when-ai-predicts-your-future-it-can-help-make-that-future-happen-oped",
+      "source": "eurasiareview.com",
+      "published": "2026-10-18T03:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Micron Technology vs . Sandisk : Which AI Memory Stock Is the Better Investment ?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/17/micron-technology-vs-sandisk-which-ai-memory-stock-is-the-better-investment?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-18T03:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Frequent flyer points : the tricks and trends to know in 2026 | Dungog Chronicle",
+      "url": "https://www.dungogchronicle.com.au/story/9367466/frequent-flyer-points-the-tricks-and-trends-to-know-in-2026",
+      "source": "dungogchronicle.com.au",
+      "published": "2026-10-18T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Bocas Lit Fest counts the cost",
+      "url": "https://trinidadexpress.com/features/local/bocas-lit-fest-counts-the-cost/article_1f4a741e-a466-4613-a76d-d34e302e26c6.html",
+      "source": "trinidadexpress.com",
+      "published": "2026-10-18T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "TETFund Budget Jumps From N320bn To N1 . 6trn , Says Masari | PlaneteAfrique",
+      "url": "https://planeteafrique.com/Actualites/index.asp?affiche=News_Display.asp&ID=18297",
+      "source": "planeteafrique.com",
+      "published": "2026-10-18T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Northern Star Resources takeover : Gold Fields pushes $38 billion merger plan to institutional shareholders",
+      "url": "https://www.brisbanetimes.com.au/business/companies/the-38b-battle-for-australia-s-top-gold-miner-may-be-just-beginning-20261018-p6167t.html",
+      "source": "brisbanetimes.com.au",
+      "published": "2026-10-18T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "In 1989 , CNN Ted Turner bought 113 , 613 acres of Montana ranchland and traded cattle for bison ; the land is now home to bison , bears , and wolves",
+      "url": "https://www.hindustantimes.com/world-news/us-news/in-1989-cnns-ted-turner-bought-113-613-acres-of-montana-ranchland-and-traded-cattle-for-bison-the-land-is-now-home-to-bison-bears-and-wolves-101791368289658.html",
+      "source": "hindustantimes.com",
+      "published": "2026-10-18T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "JD Vance claims US has destroyed Iran nuclear program at town hall",
+      "url": "https://www.foxnews.com/politics/top-takeaways-from-jd-vance-town-hall-costly-gas-dc-corruption-immigration-hot-takes-war",
+      "source": "foxnews.com",
+      "published": "2026-10-18T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "7 highlights from JD Vance CBS News town hall : Iran , immigration , corruption and 2028 plans",
+      "url": "https://www.cbsnews.com/news/jd-vance-cbs-town-hall-highlights-michigan",
+      "source": "cbsnews.com",
+      "published": "2026-10-18T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Northern Star Resources takeover : Gold Fields pushes $38 billion merger plan to institutional shareholders",
+      "url": "https://www.smh.com.au/business/companies/the-38b-battle-for-australia-s-top-gold-miner-may-be-just-beginning-20261018-p6167t.html",
+      "source": "smh.com.au",
+      "published": "2026-10-18T03:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Prat , Movie Night Steal the Show in Raven Run",
+      "url": "https://www.bloodhorse.com/horse-racing/articles/295347/prat-movie-night-steal-the-show-in-raven-run",
+      "source": "bloodhorse.com",
+      "published": "2026-10-18T01:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "newsroomamerica . com",
+      "url": "https://newsroomamerica.com/?before=115653",
+      "source": "newsroomamerica.com",
+      "published": "2026-10-18T01:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Dr . Kapur Runs Down Chief Wallabee for Perryville Upset",
+      "url": "https://www.bloodhorse.com/horse-racing/articles/295348/dr-kapur-runs-down-chief-wallabee-for-perryville-upset",
+      "source": "bloodhorse.com",
+      "published": "2026-10-18T01:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Drishyam 3 : The Conclusion  box office collection day 16 : Ajay Devgn film earns Rs 5 cr ; worldwide gross reaches Rs 528 . 77 cr ; third Saturday shows growth",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/drishyam-3-the-conclusion-box-office-collection-day-16-ajay-devgns-film-earns-rs-5-cr-worldwide-gross-reaches-rs-528-77-cr-third-saturday-shows-growth/articleshow/135022564.cms",
+      "source": "timesofindia.indiatimes.com",
+      "published": "2026-10-18T01:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "PAUL MATTHEW | Unlocking the farm products export bonanza will take a holistic effort",
+      "url": "https://www.timeslive.co.za/opinion/2026-10-17-paul-matthew-unlocking-the-farm-products-export-bonanza-will-take-a-holistic-effort",
+      "source": "timeslive.co.za",
+      "published": "2026-10-18T01:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Election clouds future of historic First Peoples treaty",
+      "url": "https://www.katherinetimes.com.au/story/9370364/election-clouds-future-of-historic-first-peoples-treaty",
+      "source": "katherinetimes.com.au",
+      "published": "2026-10-18T01:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Has AI triggered an  expertise recession ?",
+      "url": "https://www.digitaljournal.com/article/has-ai-triggered-an-expertise-recession",
+      "source": "digitaljournal.com",
+      "published": "2026-10-18T01:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Regentis Biomaterials Ltd . ( NYSEAMERICAN : RGNT ) Sees Large Decline in Short Interest",
+      "url": "https://www.tickerreport.com/banking-finance/13624197/regentis-biomaterials-ltd-nyseamericanrgnt-sees-large-decline-in-short-interest.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-18T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Delek Logistics Partners ( NYSE : DKL ) and PBF Energy ( NYSE : PBF ) Financial Analysis",
+      "url": "https://www.themarketsdaily.com/2026/10/18/delek-logistics-partners-nysedkl-and-pbf-energy-nysepbf-financial-analysis.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-18T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Prediction : Oracle Stock Trails the S & P 500 Through 2030",
+      "url": "https://www.fool.com/investing/2026/10/17/prediction-oracle-stock-trails-the-s-and-p-500-through-2030?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-18T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Contrasting Mako Mining ( NASDAQ : MAKO ) & Oceanagold ( NYSE : OGC )",
+      "url": "https://www.themarketsdaily.com/2026/10/18/contrasting-mako-mining-nasdaqmako-oceanagold-nyseogc.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-18T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "First Trust Horizon Managed Volatility Small / Mid ETF ( NYSEARCA : HSMV ) Sees Large Increase in Short Interest",
+      "url": "https://www.tickerreport.com/banking-finance/13624215/first-trust-horizon-managed-volatility-small-mid-etf-nysearcahsmv-sees-large-increase-in-short-interest.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-18T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Costco Wholesale Has Fallen More Than 10 % From Its Peak Before . Here What History Says Happens Next .",
+      "url": "https://www.fool.com/investing/2026/10/17/costco-wholesale-has-fallen-more-than-10-from-its?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-18T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "D - Wave Quantum ( NYSE : QBTS ) Stock Has Lost 69 % In A Year Can It Still Create Millionaires ?",
+      "url": "https://www.foreignpolicyjournal.com/2026/10/17/d-wave-quantum-nyse-qbts-stock-has-lost-69-in-a-year-can-it-still-create-millionaires",
+      "source": "foreignpolicyjournal.com",
+      "published": "2026-10-18T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Insider Selling : EcoSynthetix ( TSE : ECO ) Insider Sells C$330 , 000 . 00 in Stock",
+      "url": "https://www.tickerreport.com/banking-finance/13624202/insider-selling-ecosynthetix-tseeco-insider-sells-c330000-00-in-stock.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-18T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Lululemon ( NASDAQ : LULU ) Stock Underperforms Broader Market With Sharp Session Decline",
+      "url": "https://www.foreignpolicyjournal.com/2026/10/17/lululemon-nasdaq-lulu-stock-underperforms-broader-market-with-sharp-session-decline-2",
+      "source": "foreignpolicyjournal.com",
+      "published": "2026-10-18T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Understanding  Democratic Socialism  in the Real World",
+      "url": "https://townhall.com/columnists/les-rubin/2026/10/17/understanding-democratic-socialism-in-the-real-world-n2684756",
+      "source": "townhall.com",
+      "published": "2026-10-18T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Analyzing Chicago Atlantic Real Estate Finance ( NASDAQ : REFI ) & Claros Mortgage Trust ( NYSE : CMTG )",
+      "url": "https://www.tickerreport.com/banking-finance/13624210/analyzing-chicago-atlantic-real-estate-finance-nasdaqrefi-claros-mortgage-trust-nysecmtg.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-18T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "All The Ways Panera Bread Has Failed , According To Customers",
+      "url": "https://www.thedailymeal.com/2283589/ways-panera-bread-has-failed-according-customers",
+      "source": "thedailymeal.com",
+      "published": "2026-10-18T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Retail News and Trends | Retail Dive",
+      "url": "https://www.retaildive.com/?page=2&_sp=c91db47d-4b5f-4a91-87b2-4dcecc377914",
+      "source": "retaildive.com",
+      "published": "2026-10-18T01:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "How Nvidia Could Make $150 Billion Look Small",
+      "url": "https://www.fool.com/investing/2026/10/17/how-nvidia-could-make-usd150-billion-look-small?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-10-18T01:00:00+00:00",
+      "category": "Business"
+    },
     {
       "title": "Northumberland MP hits out at housing firm Taylor Wimpey over  fire and rehire threat  to workers",
       "url": "https://www.chroniclelive.co.uk/news/north-east-news/northumberland-mp-hits-out-housing-34777265",
