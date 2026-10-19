@@ -1,11 +1,361 @@
 {
-  "updated": "2026-10-19T04:43+00:00",
+  "updated": "2026-10-19T13:20+00:00",
   "errors": [
     "Markets: HTTPError",
     "Business: HTTPError",
-    "Politics: HTTPError"
+    "Economy: HTTPError"
   ],
   "stories": [
+    {
+      "title": "Rubio says there was no US pause in intelligence sharing with Ukraine - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+      "url": "https://dominicanrepublicpost.com/rubio-says-there-was-no-us-pause-in-intelligence-sharing-with-ukraine",
+      "source": "dominicanrepublicpost.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "2026 midterms could be the most expensive on record . And , Macron condemns protests",
+      "url": "https://www.wcsufm.org/latest-from-npr/2026-10-19/2026-midterms-could-be-the-most-expensive-on-record-and-macron-condemns-protests",
+      "source": "wcsufm.org",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Albertans head to polls in historic referendum on whether they want to stay in Canada",
+      "url": "https://www.ckom.com/2026/10/19/albertans-head-to-polls-in-historic-referendum-on-whether-they-want-to-stay-in-canada-2",
+      "source": "ckom.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Indi MP Helen Haines reportedly struck by car in Wangaratta | Dungog Chronicle",
+      "url": "https://www.dungogchronicle.com.au/story/9371464/indi-mp-helen-haines-reportedly-struck-by-car-in-wangaratta",
+      "source": "dungogchronicle.com.au",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Meghan Markle friend Ellen DeGeneres sparks safety concern with rare photo of sprawling united kingdom home",
+      "url": "https://www.hellomagazine.com/homes/929814/ellen-degeneres-leaves-fans-concerned-cows",
+      "source": "hellomagazine.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Cumbrian Tory : New YouGov polling heralds comeback for party",
+      "url": "https://www.timesandstar.co.uk/news/26637883.cumbrian-tory-new-yougov-polling-heralds-comeback-party",
+      "source": "timesandstar.co.uk",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "The GOP counts on farmer votes . As a costly harvest season raises concerns , Trump heads to Kansas",
+      "url": "https://www.dailygazette.com/the_recorder/ap/business/the-gop-counts-on-farmers-votes-as-a-costly-harvest-season-raises-concerns-trump-heads/article_27c601f0-f255-5124-be92-ff6320288f7c.html",
+      "source": "dailygazette.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Beyond Speaking Truth to Power : Faith in Action - New Haven Independent",
+      "url": "https://www.newhavenindependent.org/2026/10/19/beyond-speaking-truth-to-power-faith-in-action",
+      "source": "newhavenindependent.org",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Alberta voters weigh future in Canada",
+      "url": "https://www.wypr.org/2026-10-19/alberta-voters-weigh-future-in-canada",
+      "source": "wypr.org",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Labour becomes Holyrood second biggest party after Reform MSP resigns whip",
+      "url": "https://www.elystandard.co.uk/news/national/26648993.labour-becomes-holyroods-second-biggest-party-reform-msp-resigns-whip",
+      "source": "elystandard.co.uk",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Blaze on Canadian base sees 4 dead , dozens hurt | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/oct/19/blaze-on-canadian-base-sees-4-dead-dozens-hurt",
+      "source": "arkansasonline.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Today in History : October 19 , Martin Luther King Jr . arrested at segregated lunch counter in Atlanta",
+      "url": "https://www.denverpost.com/2026/10/19/today-in-history-october-19-mlk-arrested-at-segregated-lunch-counter-in-atlanta",
+      "source": "denverpost.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "How the Trump Administration Politicized the Cybersecurity and Infrastructure Security Agency ProPublica",
+      "url": "https://www.propublica.org/article/cisa-election-security-donald-trump",
+      "source": "propublica.org",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Labour becomes Holyrood second biggest party after Reform MSP resigns whip",
+      "url": "https://www.islingtongazette.co.uk/news/national/26648993.labour-becomes-holyroods-second-biggest-party-reform-msp-resigns-whip",
+      "source": "islingtongazette.co.uk",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Labour becomes Holyrood second biggest party after Reform MSP resigns whip",
+      "url": "https://www.wandsworthguardian.co.uk/news/national/26648993.labour-becomes-holyroods-second-biggest-party-reform-msp-resigns-whip",
+      "source": "wandsworthguardian.co.uk",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "2027 : Relying on 2023 momentum at your own risk – Lagos APC tells Peter Obi",
+      "url": "https://theeagleonline.com.ng/2027-relying-on-2023-momentum-at-your-own-risk-lagos-apc-tells-peter-obi",
+      "source": "theeagleonline.com.ng",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Gov . Rhoden holds strong lead over Democrat challenger Dan Ahlers in latest gubernatorial poll",
+      "url": "https://dakotabroadcasting.com/gov-rhoden-holds-strong-lead-over-democrat-challenger-dan-ahlers-in-latest-gubernatorial-poll",
+      "source": "dakotabroadcasting.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Wet Wipe ban to hit Wales in two months as businesses warned",
+      "url": "https://www.walesonline.co.uk/news/wales-news/wet-wipe-ban-hit-wales-34784444",
+      "source": "walesonline.co.uk",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Putin Proposes Ukraine Summit With U . S ., China , No Ukraine",
+      "url": "https://whp580.iheart.com/content/2026-10-19-putin-proposes-ukraine-summit-with-us-china-no-ukraine",
+      "source": "whp580.iheart.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Alberta voters weigh future in Canada",
+      "url": "https://www.wcsufm.org/latest-from-npr/2026-10-19/alberta-voters-weigh-future-in-canada",
+      "source": "wcsufm.org",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "The real reason it going to take a while to know who won in some midterm races",
+      "url": "https://www.wypr.org/2026-10-19/the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races",
+      "source": "wypr.org",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Mount Greylock School Committee Looks at Policy on Food in Classroom",
+      "url": "https://www.iberkshires.com/story/84195/Mount-Greylock-School-Committee-Looks-at-Policy-on-Food-in-Classroom.html",
+      "source": "iberkshires.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Labour becomes Holyrood second biggest party after Reform MSP resigns whip | East London and West Essex Guardian Series",
+      "url": "https://www.guardian-series.co.uk/news/national/26648993.labour-becomes-holyroods-second-biggest-party-reform-msp-resigns-whip",
+      "source": "guardian-series.co.uk",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Israeli police arrest 10 after settler attacks on journalist , diplomats - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+      "url": "https://dominicanrepublicpost.com/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats",
+      "source": "dominicanrepublicpost.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Your 2026 Live 5 Voter Guide : What to know when you go to the polls",
+      "url": "https://www.live5news.com/2026/10/19/your-2026-live-5-voter-guide-what-know-when-you-go-polls",
+      "source": "live5news.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "What to know about the 2026 U . S . midterm elections",
+      "url": "https://www.theglobeandmail.com/world/us-politics/article-what-to-know-2026-us-midterm-elections",
+      "source": "theglobeandmail.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "CJP leaders Saurav Das , Ashutosh Ranka produced before SEM after judicial custody",
+      "url": "https://www.newindianexpress.com/india/2026/Oct/19/cjp-leaders-saurav-das-ashutosh-ranka-produced-before-sem-after-judicial-custody",
+      "source": "newindianexpress.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump accuses Zelenskyy of prolonging war as Russia pounds Ukraine power grid",
+      "url": "https://fox23maine.com/news/nation-world/president-donald-trump-accuses-ukraine-president-zelenskyy-of-prolonging-war-as-russia-putin-pounds-ukraines-power-grid-energy-infrastructure-moscow-sanctions-diesel-imports-ceasefire-shared-intelligence",
+      "source": "fox23maine.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Alberta voters weigh future in Canada",
+      "url": "https://www.wvtf.org/2026-10-19/alberta-voters-weigh-future-in-canada",
+      "source": "wvtf.org",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "ABC Politics - WOND",
+      "url": "https://wondradio.com/abc-politics/f4573365e627a4cc86bdfc81f0bf9ab6",
+      "source": "wondradio.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "AMS Launches Proprietary Political Advertising Dashboard to Help Brands and Agencies Anticipate Local TV Inventory Pressure",
+      "url": "https://www.pr.com:443/press-release/981658",
+      "source": "pr.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Restore nominations in 22 Urban Local Bodies : YSRCP tells SEC",
+      "url": "https://aninews.in/news/national/politics/restore-nominations-in-22-urban-local-bodies-ysrcp-tells-sec20261019175812",
+      "source": "aninews.in",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Maine Sen . Collin success bringing home federal funds is a perfect example of the thin line between political favoritism and effective representation",
+      "url": "https://theconversation.com/maine-sen-collins-success-bringing-home-federal-funds-is-a-perfect-example-of-the-thin-line-between-political-favoritism-and-effective-representation-294132",
+      "source": "theconversation.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Macron condemns rioting , looting in protests | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/oct/19/macron-condemns-rioting-looting-in-protests",
+      "source": "arkansasonline.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Tamworth taxi driver prosecuted for smoking in cab",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/tamworth-taxi-driver-prosecuted-smoking-34784168",
+      "source": "birminghammail.co.uk",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Ablakwa , Kwakye Ofosu differ over  Tilt The Balance  EC appointment",
+      "url": "https://theheraldghana.com/ablakwa-kwakye-ofosu-differ-over-tilt-the-balance-ec-appointment",
+      "source": "theheraldghana.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "These 5 states that love Trump could help Democrats flip the Senate",
+      "url": "https://www.eastbaytimes.com/2026/10/19/these-5-states-that-love-trump-could-help-democrats-flip-the-senate",
+      "source": "eastbaytimes.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Union ironworker Poindexter tests support for embattled Ohio Rep . Miller",
+      "url": "https://www.wgauradio.com/news/politics/ironworker/KK2DYTCL4Y63LOYM2S6ODS5OOY",
+      "source": "wgauradio.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Aldi new £7 item helps millions avoid £1 , 000 fine when clocks go back",
+      "url": "https://www.belfastlive.co.uk/news/uk-world-news/aldis-new-7-item-helps-34785034",
+      "source": "belfastlive.co.uk",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Cumbrian Tory : New YouGov polling heralds comeback for party",
+      "url": "https://www.nwemail.co.uk/news/26637883.cumbrian-tory-new-yougov-polling-heralds-comeback-party",
+      "source": "nwemail.co.uk",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Putin Proposes Ukraine Summit With U . S ., China , No Ukraine",
+      "url": "https://960weli.iheart.com/content/2026-10-19-putin-proposes-ukraine-summit-with-us-china-no-ukraine",
+      "source": "960weli.iheart.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Putin Proposes Ukraine Summit With U . S ., China , No Ukraine",
+      "url": "https://wlac.iheart.com/content/2026-10-19-putin-proposes-ukraine-summit-with-us-china-no-ukraine",
+      "source": "wlac.iheart.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Ex - pro - Trump leader outraged at president latest  betrayal :  Will return the favor",
+      "url": "https://www.rawstory.com/trump-2678105049",
+      "source": "rawstory.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "New £120 holiday tax coming into force in Spain from December 2026",
+      "url": "https://www.belfastlive.co.uk/whats-on/whats-on-news/new-120-holiday-tax-coming-34785451",
+      "source": "belfastlive.co.uk",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Starshield Restrictions Spark Row : Ukraine President Accuses U . S . of Sabotage",
+      "url": "https://english.pravda.ru/world/170235-zelenskyy-us-starshield-restriction",
+      "source": "english.pravda.ru",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "This week in ASCSU : CSU students react to campus shooting , university communication",
+      "url": "https://collegian.com/articles/news/2026/10/category-news-this-week-in-ascsu-csu-students-react-to-campus-shooting-university-communication",
+      "source": "collegian.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump accuses Zelenskyy of prolonging war as Russia pounds Ukraine power grid",
+      "url": "https://kcby.com/news/nation-world/president-donald-trump-accuses-ukraine-president-zelenskyy-of-prolonging-war-as-russia-putin-pounds-ukraines-power-grid-energy-infrastructure-moscow-sanctions-diesel-imports-ceasefire-shared-intelligence",
+      "source": "kcby.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Albertans head to polls in historic referendum on whether they want to stay in Canada",
+      "url": "https://www.prpeak.com/national-news/albertans-head-to-polls-in-historic-referendum-on-whether-they-want-to-stay-in-canada-12908791",
+      "source": "prpeak.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump Defends Russia Sanctions Waivers , Zelenskyy Warns Of Impact",
+      "url": "http://www.azerbaijannews.net/news/279384247/trump-defends-russia-sanctions-waivers-zelenskyy-warns-of-impact",
+      "source": "azerbaijannews.net",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Anthropic draft restricts federal powers over dangerous AI",
+      "url": "https://thearabianpost.com/anthropic-draft-restricts-federal-powers-over-dangerous-ai",
+      "source": "thearabianpost.com",
+      "published": "2026-10-19T13:00:00+00:00",
+      "category": "Politics"
+    },
     {
       "title": "IMF official warns of exacerbated food insecurity in sub - Saharan Africa",
       "url": "http://www.thailandnews.net/news/279383855/imf-official-warns-of-exacerbated-food-insecurity-in-sub-saharan-africa",
