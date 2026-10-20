@@ -1,12 +1,361 @@
 {
-  "updated": "2026-10-20T17:10+00:00",
+  "updated": "2026-10-20T21:39+00:00",
   "errors": [
     "Markets: HTTPError",
     "Business: HTTPError",
-    "Politics: HTTPError",
     "Economy: HTTPError"
   ],
   "stories": [
+    {
+      "title": "Trump , Bloomberg ramp up spending ahead of midterms",
+      "url": "https://www.duluthnewstribune.com/news/national/trump-bloomberg-ramp-up-spending-ahead-of-midterms",
+      "source": "duluthnewstribune.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Journalist , European diplomats attacked by settlers in West Bank",
+      "url": "http://www.ohiostandard.com/news/279385666/journalist-european-diplomats-attacked-by-settlers-in-west-bank",
+      "source": "ohiostandard.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Journalist , European diplomats attacked by settlers in West Bank",
+      "url": "http://www.malaysiasun.com/news/279385666/journalist-european-diplomats-attacked-by-settlers-in-west-bank",
+      "source": "malaysiasun.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Ashley Hinson Uses Debunked Gender Swapping Lie To Smear Josh Turek",
+      "url": "https://crooksandliars.com/2026/10/ashley-hinson-uses-debunked-gender",
+      "source": "crooksandliars.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Turnover a key theme in East Kootenay local elections",
+      "url": "https://thefreepress.ca/2026/10/20/turnover-a-key-theme-in-east-kootenay-local-elections",
+      "source": "thefreepress.ca",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Van Orden Homelessness Excuse Leaves Out One Little Detail",
+      "url": "https://crooksandliars.com/2026/10/van-orden-denies-responsibility",
+      "source": "crooksandliars.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Alleged defection : Court declines to sack Reps member Jallo",
+      "url": "https://theeagleonline.com.ng/alleged-defection-court-declines-to-sack-reps-member-jallo",
+      "source": "theeagleonline.com.ng",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Mullen Group Ltd . Announces Declaration of Monthly Dividend",
+      "url": "https://www.owensoundsuntimes.com/press-releases/globe-newswire/mullen-group-ltd-announces-declaration-of-monthly-dividend-3",
+      "source": "owensoundsuntimes.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Fairford shows US has own defence needs , says Rubio amid Ukraine arms delay",
+      "url": "https://www.gazetteherald.co.uk/news/national/26655292.fairford-shows-us-defence-needs-says-rubio-amid-ukraine-arms-delay",
+      "source": "gazetteherald.co.uk",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Democrat Hamilton welcomes Trump Kansas rally for vulnerable Senate Republican",
+      "url": "https://newschannel9.com/news/nation-world/democrat-adam-hamilton-welcomes-president-trumps-kansas-rally-for-vulnerable-senate-republican-roger-marshall-2026-midterm-elections-rrt",
+      "source": "newschannel9.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Bert Chen runs for Conservative Party of BC in Cowichan  : My Cowichan Valley Now",
+      "url": "https://www.mycowichanvalleynow.com/99181/news/elections/2026-bc-election/bert-chen-runs-for-conservative-party-of-bc-in-cowichan",
+      "source": "mycowichanvalleynow.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Feijóo Warns Constitutional Court on Grandchildren Law and Advocates for Stricter Citizenship Rules",
+      "url": "https://www.cubaheadlines.com/articles/343354",
+      "source": "cubaheadlines.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Alli Warns Makinde Against Reckless Spending , Fresh Borrowing In Administration Twilight",
+      "url": "https://promptnewsonline.com/alli-warns-makinde-against-reckless-spending-fresh-borrowing-in-administrations-twilight",
+      "source": "promptnewsonline.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://newsradio967.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers",
+      "source": "newsradio967.iheart.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Shady  Labor election grants under inquiry spotlight",
+      "url": "https://www.armidaleexpress.com.au/story/9372297/shady-labor-election-grants-under-inquiry-spotlight",
+      "source": "armidaleexpress.com.au",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://newsradio1470.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers",
+      "source": "newsradio1470.iheart.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Zelensky says early warning system resumes following Rubio call",
+      "url": "https://www.northsomersettimes.co.uk/news/national/26655274.zelensky-says-early-warning-system-resumes-following-rubio-call",
+      "source": "northsomersettimes.co.uk",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://wrak.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers",
+      "source": "wrak.iheart.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Albertans roundly reject separation , vote 75 per cent in favour of remaining in Canada",
+      "url": "https://www.fairviewpost.com:443/news/local-news/albertans-reject-separation-vote-75-per-cent-canada/wcm/cd075d24-f743-475f-b449-2c14c55e2d10",
+      "source": "fairviewpost.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Lekki shooting : You visited Buhari twice and didnt ask ? Tinubu aide reacts to Atiku EndSARS question",
+      "url": "https://theeagleonline.com.ng/lekki-shooting-you-visited-buhari-twice-and-didnt-ask-tinubus-aide-reacts-to-atikus-endsars-question",
+      "source": "theeagleonline.com.ng",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Ridiculous question : Luxon wont say if hed quit over ruling out talking to Opportunity",
+      "url": "https://www.interest.co.nz/public-policy/140766/nationals-christopher-luxon-and-labours-chris-hipkins-clash-over-opportunity",
+      "source": "interest.co.nz",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "National 2D materials research hub names new director",
+      "url": "https://www.newswise.com/articles/national-2d-materials-research-hub-names-new-director",
+      "source": "newswise.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "This Netanyahu Loyalist Defection From Likud May Be Just the Start",
+      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-10-20/ty-article/.highlight/this-netanyahu-loyalists-defection-from-likud-may-be-just-the-start/000001a1-5a38-d551-a3b5-febd09a90000",
+      "source": "haaretz.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Additional $1 million tacked on Magnetic Moments campaign goal",
+      "url": "https://lfpress.com/goderich/additional-1-million-tacked-on-magnetic-moments-campaign-goal",
+      "source": "lfpress.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Growing voter discontent threatens another shake - up in Washington",
+      "url": "https://wset.com/news/nation-world/growing-voter-discontent-threatens-another-shake-up-in-washington",
+      "source": "wset.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "County Commission candidate leaving in May",
+      "url": "https://www.devilslakejournal.com/news/14972/county-commission-candidate-leaving-in-may",
+      "source": "devilslakejournal.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://wrko.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers",
+      "source": "wrko.iheart.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "China - US ocean freight rates hold steady as post - holiday space tightens",
+      "url": "https://www.hits973.com/news/china-us-ocean/NXGZKEIDRQ3X5GQTQ67BO7WD6M",
+      "source": "hits973.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "China - US ocean freight rates hold steady as post - holiday space tightens",
+      "url": "https://www.wpxi.com/news/china-us-ocean/NXGZKEIDRQ3X5GQTQ67BO7WD6M",
+      "source": "wpxi.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump says he will spend more than $400 million on Republicans in midterm elections",
+      "url": "https://newschannel9.com/news/nation-world/trump-says-he-will-spend-more-than-400-million-on-republicans-in-midterm-elections-maga-pacs-elon-musk-rrt",
+      "source": "newschannel9.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "SpaceX revenue jumps in second - ever earnings report amid Starlink turmoil | SpaceX",
+      "url": "https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report",
+      "source": "theguardian.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "STERIS to Host a Conference Call for Fiscal 2027 Second Quarter on November 5 , 2026",
+      "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/steris-to-host-a-conference-call-for-fiscal-2027-second-quarter-on-november-5-2026/2450261",
+      "source": "manilatimes.net",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "France Imposes Curfews as Riots , Looting and Police Failures Shake Major Cities - Novinite . com",
+      "url": "https://www.novinite.com/view_news.php?id=241145",
+      "source": "novinite.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "66 Years of the Cuban Embargo : What It Forbids , Allows , and Why the Regime Refuses to Negotiate Its End",
+      "url": "https://www.cubaheadlines.com/articles/343350",
+      "source": "cubaheadlines.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Nate Silver says midterm election news is even better for Dems than people think",
+      "url": "https://nypost.com/2026/10/20/us-news/nate-silver-says-midterm-election-news-is-even-better-for-dems-than-people-think",
+      "source": "nypost.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Gagging , co - ordinated attacks : reality for female MPs",
+      "url": "https://www.ulladullatimes.com.au/story/9372298/gagging-co-ordinated-attacks-reality-for-female-mps",
+      "source": "ulladullatimes.com.au",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "China - US ocean freight rates hold steady as post - holiday space tightens",
+      "url": "https://www.star945.com/news/china-us-ocean/NXGZKEIDRQ3X5GQTQ67BO7WD6M",
+      "source": "star945.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "JD Vance Admits He Doesnt Even Know If Trump Would Endorse Him In 2028 Election",
+      "url": "https://crooksandliars.com/2026/10/jd-vance-admits-he-doesnt-even-know-if",
+      "source": "crooksandliars.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Hudson Valley Woman Jailed For Attacking Seniors At ICE Protest",
+      "url": "https://wpdh.com/ixp/854/p/hudson-valley-woman-gets-6-months-for-attack-on-ice-protesters",
+      "source": "wpdh.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Helen Haines office attack : how social media drives violence | Milton Ulladulla Times",
+      "url": "https://www.ulladullatimes.com.au/story/9371811/helen-haines-office-attack-how-social-media-drives-violence",
+      "source": "ulladullatimes.com.au",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Argyle ISD trustee resigns abruptly , board president steps down soon after - Cross Timbers Gazette | Southern Denton County | Flower Mound",
+      "url": "https://www.crosstimbersgazette.com/2026/10/20/argyle-isd-trustee-resigns-abruptly-board-president-steps-down-soon-after",
+      "source": "crosstimbersgazette.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Stories – Stephen Sonneveld – Daily Kos",
+      "url": "https://www.dailykos.com/user/stephen2",
+      "source": "dailykos.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Calcasieu voters to decide on $74M Sulphur school bond issue",
+      "url": "https://americanpress.com/2026/10/20/calcasieu-voters-to-decide-on-74m-sulphur-school-bond-issue",
+      "source": "americanpress.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Democrats Lead Republicans in Florida Mail - In Votes as Midterm Elections Near",
+      "url": "https://www.cubaheadlines.com/articles/343348",
+      "source": "cubaheadlines.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Journalist , European diplomats attacked by settlers in West Bank",
+      "url": "http://www.arabherald.com/news/279385666/journalist-european-diplomats-attacked-by-settlers-in-west-bank",
+      "source": "arabherald.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Mullen Group Ltd . Announces Declaration of Monthly Dividend",
+      "url": "https://www.standard-freeholder.com/press-releases/globe-newswire/mullen-group-ltd-announces-declaration-of-monthly-dividend-3",
+      "source": "standard-freeholder.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "How to read the tea leaves as early voting totals in the Texas election trickle in",
+      "url": "https://www.click2houston.com/news/texas/2026/10/20/how-to-read-the-tea-leaves-as-early-voting-totals-in-the-texas-election-trickle-in",
+      "source": "click2houston.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump Opens Door to Putin and Xi Talks Without Zelensky as Ukraine Faces Russian Strikes and Missile Delays - Novinite . com",
+      "url": "https://www.novinite.com/view_news.php?id=241144",
+      "source": "novinite.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Vance refuses to endorse Netanyahu for reelection , says his focus is the midterms",
+      "url": "https://wset.com/news/nation-world/vance-refuses-to-endorse-netanyahu-for-reelection-says-his-focus-is-the-midterms-viktor-orban-donald-trump-israeli",
+      "source": "wset.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Zelensky hails resumption of US advance warning of strikes on Ukraine",
+      "url": "https://www.hindustantimes.com/world-news/us-news/zelensky-hails-resumption-of-us-advance-warning-of-strikes-on-ukraine-101792523964828.html",
+      "source": "hindustantimes.com",
+      "published": "2026-10-20T21:15:00+00:00",
+      "category": "Politics"
+    },
     {
       "title": "Rubio says there was no US pause in intelligence sharing with Ukraine - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
       "url": "https://dominicanrepublicpost.com/rubio-says-there-was-no-us-pause-in-intelligence-sharing-with-ukraine",
