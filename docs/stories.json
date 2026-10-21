@@ -1,11 +1,361 @@
 {
-  "updated": "2026-10-21T04:51+00:00",
+  "updated": "2026-10-21T11:52+00:00",
   "errors": [
+    "Markets: HTTPError",
     "Business: HTTPError",
-    "Politics: HTTPError",
     "Economy: HTTPError"
   ],
   "stories": [
+    {
+      "title": "World Insights : Cost - of - living protests highlight mounting economic , social pressures across Europe",
+      "url": "http://www.mainemirror.com/news/279389181/world-insights-cost-of-living-protests-highlight-mounting-economic-social-pressures-across-europe",
+      "source": "mainemirror.com",
+      "published": "2026-10-21T11:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Europe Dominoes Are Falling . Which Country Might Be Next ?",
+      "url": "https://www.newsweek.com/europe-france-protests-trump-what-happens-next-12593062",
+      "source": "newsweek.com",
+      "published": "2026-10-21T11:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Republican National Committee , far richer than DNC , pumps $50 million into midterms - Las Vegas Sun News",
+      "url": "https://lasvegassun.com/news/2026/oct/21/republican-national-committee-far-richer-than-dnc",
+      "source": "lasvegassun.com",
+      "published": "2026-10-21T11:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Donald Trump Gushes Over Jon Husted Body Again",
+      "url": "https://www.newsweek.com/donald-trump-gushes-over-jon-husted-body-again-ohio-senate-race-midterms-12597420",
+      "source": "newsweek.com",
+      "published": "2026-10-21T11:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump Says Renaming New Mexico Would Boost House Prices Is He Right ?",
+      "url": "https://www.newsweek.com/trump-says-renaming-new-mexico-would-boost-house-prices-is-he-right-12597522",
+      "source": "newsweek.com",
+      "published": "2026-10-21T11:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Anthropic Proposes AI Safety Bill With Strict Death Threshold",
+      "url": "https://wccfradio.iheart.com/content/2026-10-21-anthropic-proposes-ai-safety-bill-with-strict-death-threshold",
+      "source": "wccfradio.iheart.com",
+      "published": "2026-10-21T11:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "French PM Lecornu promises massive security operation",
+      "url": "http://www.trinidadtimes.com/news/279387916/french-pm-lecornu-promises-massive-security-operation",
+      "source": "trinidadtimes.com",
+      "published": "2026-10-21T11:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Russia releases imprisoned American man , US envoy Witkoff says on visit to St . Petersburg",
+      "url": "https://www.wyff4.com/article/russia-releases-imprisoned-american-envoy-witkoff-says/74201767",
+      "source": "wyff4.com",
+      "published": "2026-10-21T11:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "NPP 1st Vice Chairman Threaten to Sue Party & Bawumia Over Unconstitutional Constitutional Amendment – Ghanamma . com",
+      "url": "https://www.ghanamma.com/2026/10/21/npp-1st-vice-chairman-threaten-to-sue-party-bawumia-over-unconstitutional-constitutional-amendment-3",
+      "source": "ghanamma.com",
+      "published": "2026-10-21T11:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Al - Burhan : RSF must surrender ; Hamdok will not return to government",
+      "url": "https://www.radiotamazuj.org/en/news/article/al-burhan-rsf-must-surrender-hamdok-will-not-return-to-government",
+      "source": "radiotamazuj.org",
+      "published": "2026-10-21T11:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "French PM Lecornu promises massive security operation",
+      "url": "http://www.heraldglobe.com/news/279387916/french-pm-lecornu-promises-massive-security-operation",
+      "source": "heraldglobe.com",
+      "published": "2026-10-21T11:15:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Active Financial and BDO preview John Healey Budget",
+      "url": "https://www.thenorthernecho.co.uk/news/26651605.seven-ten-north-east-clients-fear-budget-impact",
+      "source": "thenorthernecho.co.uk",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Hamilton Backed Rwanda F1 GP Bid Amid Human Rights Concerns :  Scandalous that F1 has signed a deal with Rwanda",
+      "url": "https://thejudge13.com/2026/10/21/hamilton-backed-rwanda-f1-gp-bid-amid-human-rights-concerns-scandalous-that-f1-has-signed-a-deal-with-rwanda",
+      "source": "thejudge13.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Majority of Americans dont believe Trump will accept midterm results",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-midterm-election-results-poll-b3070114.html",
+      "source": "independent.co.uk",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Virtually unprecedented : DOJ investigates Krasner",
+      "url": "https://www.inquirer.com/newsletters/morning/krasner-doj-investigation-ibx-jefferson-medicare-advantage-20261021.html",
+      "source": "inquirer.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "OpenAI president urges AI safeguards as group he funds opposes regulation",
+      "url": "https://kfgo.com/2026/10/21/openai-president-urges-ai-safeguards-as-group-he-funds-opposes-regulation",
+      "source": "kfgo.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Anthropic Proposes AI Safety Bill With Strict Death Threshold",
+      "url": "https://wwnc.iheart.com/content/2026-10-21-anthropic-proposes-ai-safety-bill-with-strict-death-threshold",
+      "source": "wwnc.iheart.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Interest payments on America $40 trillion debt eats up a huge piece of the budget",
+      "url": "https://nypost.com/2026/10/21/business/interest-payments-on-americas-40-trillion-debt-eats-up-a-huge-piece-of-the-budget",
+      "source": "nypost.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "DWP can seize money from bank accounts under new rules | Somerset County Gazette",
+      "url": "https://www.somersetcountygazette.co.uk/news/national/uk-today/26656372.dwp-can-seize-money-bank-accounts-new-rules",
+      "source": "somersetcountygazette.co.uk",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Sanchez mocks Milei as Argentine leader calls Spanish PM a dictator",
+      "url": "https://news.az/news/sanchez-mocks-milei-as-argentine-leader-calls-spanish-pm-a-dictator",
+      "source": "news.az",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "DWP can seize money from bank accounts under new rules",
+      "url": "https://www.keighleynews.co.uk/news/national/uk-today/26656372.dwp-can-seize-money-bank-accounts-new-rules",
+      "source": "keighleynews.co.uk",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Israel elections : Four possible scenarios",
+      "url": "https://www.naharnet.com:443/stories/en/323229-israel-s-elections-four-possible-scenarios",
+      "source": "naharnet.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Indian Shares End Choppy Session Modestly Lower",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/indian-shares-end-choppy-session-modestly-lower-1036648636",
+      "source": "finanzen.ch",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Russia releases detained American Stephen Hubbard during a visit by Trump administration envoy",
+      "url": "http://www.idahopress.com/ap_news/us/russia-releases-detained-american-stephen-hubbard-during-a-visit-by-trump-administration-envoy/article_ddf6005c-4af3-5fe8-b03e-f2d7f3015c21.html",
+      "source": "idahopress.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Notice of public test | Cedar Republican",
+      "url": "https://cedarrepublican.com/2026/10/21/notice-of-public-test-4",
+      "source": "cedarrepublican.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Montgomery County expands speed camera authority , cracks down on street takeovers",
+      "url": "https://wjla.com/news/local/montgomery-county-speed-cameras-cracks-down-street-takeovers-bills-new-law-improve-roadway-safety-school-zones-dangerous-driving-maryland-crimes-rockville-pike-traffic-fines-tickets-police",
+      "source": "wjla.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Republicans bet Musk millions can rescue Texa Paxton in US Senate race | WTVB | 1590 AM · 95 . 5 FM",
+      "url": "https://wtvbam.com/2026/10/21/republicans-bet-musks-millions-can-rescue-texas-paxton-in-us-senate-race",
+      "source": "wtvbam.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Incoming mayor , council in Thunder Bay , Ont ., must face city 30M infrastructure deficit",
+      "url": "https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-infrastructure-deficit-9.7388231",
+      "source": "cbc.ca",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "OpenAI president urges AI safeguards as group he funds opposes regulation",
+      "url": "https://wtvbam.com/2026/10/21/openai-president-urges-ai-safeguards-as-group-he-funds-opposes-regulation",
+      "source": "wtvbam.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Ohio midterm election 2026 : How to apply for an absentee ballot ahead of the November election",
+      "url": "https://economictimes.indiatimes.com/world/us/ohio-midterm-election-2026-how-to-apply-for-an-absentee-ballot-ahead-of-the-november-election/articleshow/135088930.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Supreme Court conservatives have let down democracy , Justice Kagan says | Politics",
+      "url": "https://www.kitv.com/news/politics/supreme-court-s-conservatives-have-let-down-democracy-justice-kagan-says/article_e3119f70-f900-5adc-9aa8-a88206f9b3f2.html",
+      "source": "kitv.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "In the news today : gun review lags , Quebec cabinet swearing - in , vigil for Wainwright",
+      "url": "https://www.kelownadailycourier.ca/news/national_news/article_f796523b-58c1-5e9d-a15f-1c955c8cd0a1.html",
+      "source": "kelownadailycourier.ca",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Wisconsin launches grant programs to address PFAS contamination",
+      "url": "https://www.wpr.org/news/wisconsin-launches-grant-programs-pfas-contamination",
+      "source": "wpr.org",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "State pension tipped to increase by nearly £500 as inflation rises",
+      "url": "https://www.timesandstar.co.uk/news/national/uk-today/26652796.state-pension-tipped-increase-nearly-500-inflation-rises",
+      "source": "timesandstar.co.uk",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Democrat faith in election results is falling but still exceeds Republican , AP - NORC poll finds – Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/world/2026/10/21/democrats-faith-in-election-results-is-falling-but-still-exceeds-republicans-ap-norc-poll-finds",
+      "source": "winnipegfreepress.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Iran clings to demands even as threat of renewed US - Israel attacks grows",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/10/21/araghchi-says-strait-of-hormuz-will-stay-closed-until-us-agrees-to-irans-terms",
+      "source": "thenationalnews.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Monitoring the monitors : US states prepare for surge of Justice Dept election watchers",
+      "url": "https://kfgo.com/2026/10/21/monitoring-the-monitors-us-states-prepare-for-surge-of-justice-dept-election-watchers",
+      "source": "kfgo.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Speaker : Number of new MHKs contributing to first Tynwald was  wonderful",
+      "url": "https://www.manxradio.com/news/isle-of-man-news/speaker-number-of-new-mhks-contributing-to-first-tynwald-was-wonderful",
+      "source": "manxradio.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Beleaguered PNJ unveils restructuring , capital raising plans",
+      "url": "https://vietnamnews.vn/economy/1802564/beleaguered-pnj-unveils-restructuring-capital-raising-plans.html",
+      "source": "vietnamnews.vn",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Republicans bet Musk millions can rescue Texa Paxton in US Senate race",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/republicans-bet-musks-millions-can-rescue-texas-paxton-in-us-senate-race/articleshow/135089335.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "3 issues defining the 2026 US midterm elections",
+      "url": "https://www.willistonherald.com/news/national/3-issues-defining-the-2026-us-midterm-elections",
+      "source": "willistonherald.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Can Alberta actually control , limit immigration ? What we know",
+      "url": "https://www.niagarafallsreview.ca/news/canada/why-results-of-alberta-s-immigration-referendum-might-not-mean-what-voters-think/article_dff1aa15-f51f-52f4-a459-d5c42479364a.html",
+      "source": "niagarafallsreview.ca",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump looms large in rematch for Wisconsin attorney general",
+      "url": "https://www.wpr.org/news/josh-kaul-eric-toney-rematch-attorney-general-2026",
+      "source": "wpr.org",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "CJP Activists Saurav Das , Ashutosh Ranka Withdraw Plea Against Judicial Custody in Delhi HC",
+      "url": "https://www.newsx.com/india/cjp-activists-saurav-das-ashutosh-ranka-withdraw-plea-against-judicial-custody-in-delhi-hc-285717",
+      "source": "newsx.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "French PM Lecornu promises massive security operation",
+      "url": "http://www.bostonstar.com/news/279387916/french-pm-lecornu-promises-massive-security-operation",
+      "source": "bostonstar.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Dark money groups spend big to remake Colorado elections , fundraising reports show",
+      "url": "https://www.eptrail.com/2026/10/21/amendment-84-dark-money-fundraising-governors-race",
+      "source": "eptrail.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Pakistan - Taliban conflict : Can India take advantage ?",
+      "url": "https://www.dw.com/en/pakistan-taliban-conflict-how-india-could-benefit-from-shifting-regional-dynamics/a-79721426",
+      "source": "dw.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "BMO Deepens Commitment to Canada Defence Sector",
+      "url": "https://www.cantechletter.com/newswires/bmo-deepens-commitment-to-canadas-defence-sector",
+      "source": "cantechletter.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Accommodation Only Services for People Experiencing Homelessness - Private Rented Sector Accommodation : | Construction Tenders",
+      "url": "https://www.theconstructionindex.co.uk/tenders/view/42336",
+      "source": "theconstructionindex.co.uk",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Following high - profile crimes involving police officers , Latvia Interior Ministry reviews State Police operations – findings revealed",
+      "url": "https://bnn-news.com/latvia/following-high-profile-crimes-involving-police-officers-latvia-s-interior-ministry-reviews-state-police-operations-findi-hs45tnu",
+      "source": "bnn-news.com",
+      "published": "2026-10-21T11:00:00+00:00",
+      "category": "Politics"
+    },
     {
       "title": "Best arbitrage mutual funds to invest in October 2026",
       "url": "https://economictimes.indiatimes.com/mf/analysis/best-arbitrage-mutual-funds-to-invest-in-october-2026/articleshow/135081594.cms",
