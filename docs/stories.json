@@ -1,11 +1,898 @@
 {
-  "updated": "2026-10-21T11:52+00:00",
+  "updated": "2026-10-21T17:15+00:00",
   "errors": [
-    "Markets: HTTPError",
-    "Business: HTTPError",
-    "Economy: HTTPError"
+    "Business: HTTPError"
   ],
   "stories": [
+    {
+      "title": "Nvidia vs . Microsoft : Is NVDA Explosive Growth Being Undervalued ?",
+      "url": "https://www.insidermonkey.com/news/nvidia-vs-microsoft-is-nvdas-explosive-growth-being-undervalued-1854725",
+      "source": "insidermonkey.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Redding Chico Eureka",
+      "url": "https://krcrtv.com/news/nation-world/detectives-seek-additional-victims-after-two-arrested-in-pbso-fake-officer-robbery-spree-florida-news-local-news-florida-crime-local-crime",
+      "source": "krcrtv.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Wall Street ticks higher after SpaceX helps lift AI stocks",
+      "url": "https://www.columbian.com/news/2026/oct/21/wall-street-ticks-higher-after-spacex-helps-lift-ai-stocks",
+      "source": "columbian.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Bank of America ( BAC ): Is Its Wealth Business More Valuable Than the Headline Bank Suggests ?",
+      "url": "https://www.insidermonkey.com/news/bank-of-america-bac-is-its-wealth-business-more-valuable-than-the-headline-bank-suggests-1851697",
+      "source": "insidermonkey.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "The Dollar Is Falling . So Why Isnt Gold Rallying ?",
+      "url": "https://www.investorideas.com/news/2026/mining/10211-the-dollar-is-falling-so-why-isnt-gold-rallying.asp",
+      "source": "investorideas.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Should You Forget Realty Income and Buy a BDC Instead ?",
+      "url": "https://www.aol.com/articles/forget-realty-income-buy-bdc-160000000.html",
+      "source": "aol.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "US stocks nudge higher as SpaceX , Tesla and Nvidia climb",
+      "url": "https://www.pilotonline.com/2026/10/21/wall-street-earnings-reports",
+      "source": "pilotonline.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Belapur Court Acquits 12 Activists In 2012 Koparkhairane College Protest Case After 14 - Year Legal Battle",
+      "url": "https://www.freepressjournal.in/education/belapur-court-acquits-12-activists-in-2012-koparkhairane-college-protest-case-after-14-year-legal-battle",
+      "source": "freepressjournal.in",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Here why I changed my mind on these 3 retirement topics",
+      "url": "https://www.paradisepost.com/2026/10/21/retirement-changes-personal-finanance",
+      "source": "paradisepost.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "2 men arrested after allegedly posing as police officers , robbing three people in one day",
+      "url": "https://upnorthlive.com/news/nation-world/detectives-seek-additional-victims-after-two-arrested-in-pbso-fake-officer-robbery-spree-florida-news-local-news-florida-crime-local-crime",
+      "source": "upnorthlive.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Nasdaq rises as SpaceX , Super Micro boost AI appetite",
+      "url": "https://www.edenmagnet.com.au/story/9373039/nasdaq-rises-as-spacex-super-micro-boost-ai-appetite",
+      "source": "edenmagnet.com.au",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Bitcoin Price Analysis : Recent Buyers Break Even Near $87 , 700 . Could Their Selling Stop BTC Rally ?",
+      "url": "https://www.aol.com/articles/bitcoin-price-analysis-recent-buyers-161645000.html",
+      "source": "aol.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "2 men arrested after allegedly posing as police officers , robbing three people in one day",
+      "url": "https://wsbt.com/news/nation-world/detectives-seek-additional-victims-after-two-arrested-in-pbso-fake-officer-robbery-spree-florida-news-local-news-florida-crime-local-crime",
+      "source": "wsbt.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Global food prices face fresh surge as supply shocks pile up",
+      "url": "http://www.philippinetimes.com/news/279385718/global-food-prices-face-fresh-surge-as-supply-shocks-pile-up",
+      "source": "philippinetimes.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Promising Bitcoin Stocks Worth Watching – October 21st",
+      "url": "https://www.themarketsdaily.com/2026/10/21/promising-bitcoin-stocks-worth-watching-october-21st.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "First Trust Health Care AlphaDEX Fund ( NYSEARCA : FXH ) Sets New 1 - Year High – Should You Buy ?",
+      "url": "https://www.dailypolitical.com/2026/10/21/first-trust-health-care-alphadex-fund-nysearcafxh-sets-new-1-year-high-should-you-buy.html",
+      "source": "dailypolitical.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Comparing Enerflex ( NYSE : EFXT ) and Seadrill ( NYSE : SDRL )",
+      "url": "https://www.tickerreport.com/banking-finance/13628932/comparing-enerflex-nyseefxt-and-seadrill-nysesdrl.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "2 men arrested after allegedly posing as police officers , robbing three people in one day",
+      "url": "https://wach.com/news/nation-world/detectives-seek-additional-victims-after-two-arrested-in-pbso-fake-officer-robbery-spree-florida-news-local-news-florida-crime-local-crime",
+      "source": "wach.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Asked on Reddit : My Bills Are Due Before Payday What Do I Do ?",
+      "url": "https://www.hometownregister.com/news/national/asked-on-reddit-my-bills-are-due-before-payday-what-do-i-do/article_9ccf384d-21d5-5ca6-8bb3-fd433f66519f.html",
+      "source": "hometownregister.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "UK Faces Christmas Interest Rate - Hike Double Whammy Amid Inflation Surge",
+      "url": "https://www.investorideas.com/news/2026/main/10211-uk-faces-christmas-interest-rate-hike-double-whammy-amid-inflation-surge.asp",
+      "source": "investorideas.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Amazon ( AMZN ): Can Custom AI Silicon Outpace Capex Commitments ?",
+      "url": "https://www.insidermonkey.com/news/amazon-amzn-can-custom-ai-silicon-outpace-capex-commitments-1857267",
+      "source": "insidermonkey.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Michael Burry Says It  Good News  for Fannie and Freddie",
+      "url": "https://www.aol.com/articles/michael-burry-says-good-news-161551000.html",
+      "source": "aol.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "NVIDIA and Micron Alone Now Contribute 36 % of S & P 500 Earnings Growth as Historic Market Concentration Grows – Ghanamma . com",
+      "url": "https://www.ghanamma.com/2026/10/21/nvidia-and-micron-alone-now-contribute-36-of-sp-500-earnings-growth-as-historic-market-concentration-grows",
+      "source": "ghanamma.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Berkshire Hathaway ( BRK - B ): Is BNSF Still a Strong Home for Reinvested Capital ?",
+      "url": "https://www.insidermonkey.com/news/berkshire-hathaway-brk-b-is-bnsf-still-a-strong-home-for-reinvested-capital-1851702",
+      "source": "insidermonkey.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Super Micro Computer Just Gave the Market a Bullish Update on AI Demand",
+      "url": "https://www.businessinsider.com/super-micro-computer-revenue-guidance-ai-demand-smci-spcx-2026-10",
+      "source": "businessinsider.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "UnitedHealth ( UNH ): Does Optum Truly Diversify Its Earnings Risk ?",
+      "url": "https://www.insidermonkey.com/news/unitedhealth-unh-does-optum-truly-diversify-its-earnings-risk-1851785",
+      "source": "insidermonkey.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Ahead of Market : 10 things that will decide stock market action on Thursday",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/135096044.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Canada and the U . S . are giving children money to build savings . But the rules on keeping it are very different",
+      "url": "http://www.torontotelegraph.com/news/279389867/canada-and-the-us-are-giving-children-money-to-build-savings-but-the-rules-on-keeping-it-are-very-different",
+      "source": "torontotelegraph.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Space Stock SpaceX ( Nasdaq : SPCX ) Trends - Gains on Third Quarter Results",
+      "url": "https://www.investorideas.com/news/2026/defense/10211-space-stock-spacex-nasdaq-spcx-trends-gains-on-third-quarter-results.asp",
+      "source": "investorideas.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Grab ( GRAB ) Earned $235M , but One Gain Drove the Jump",
+      "url": "https://www.insidermonkey.com/news/grab-grab-earned-235m-but-one-gain-drove-the-jump-1857242",
+      "source": "insidermonkey.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Is Berkshire Hathaway Greg Abel Is Changing the Script ? Here the Latest Tech Stock He Just Bought .",
+      "url": "https://www.aol.com/articles/berkshire-hathaways-greg-abel-changing-162000000.html",
+      "source": "aol.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Here why I changed my mind on these 3 retirement topics",
+      "url": "https://www.pilotonline.com/2026/10/21/retirement-changes-personal-finanance",
+      "source": "pilotonline.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Hola Prime Simplifies Prop Trading Rules With Launch Of It Rulebook",
+      "url": "https://www.ibtimes.com/press-release/20261021/hola-prime-simplifies-prop-trading-rules-with-launch-of-its-rulebook",
+      "source": "ibtimes.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Fact check : When it comes to Trump economy , these numbers matter",
+      "url": "https://www.thenewsherald.com/2026/10/21/fact-check-trump-economy-data",
+      "source": "thenewsherald.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "NVIDIA ( NVDA ) Leverages AI Growth to Expand Its Autonomous Driving Opportunity",
+      "url": "https://www.insidermonkey.com/news/nvidia-nvda-leverages-ai-growth-to-expand-its-autonomous-driving-opportunity-1856114",
+      "source": "insidermonkey.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "AP News Summary at 12 : 18 p . m . EDT",
+      "url": "http://www.hngnews.com/nation_world/ap-news-summary-at-12-18-p-m-edt/article_fac947c5-f670-5cf3-b03b-1a92ac63fe51.html",
+      "source": "hngnews.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Here why I changed my mind on these 3 retirement topics",
+      "url": "https://www.thenewsherald.com/2026/10/21/retirement-changes-personal-finanance",
+      "source": "thenewsherald.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Bitcoin Price Analysis : Recent Buyers Break Even Near $87 , 700 . Could Their Selling Stop BTC Rally ?",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/10/21/bitcoin-price-analysis-recent-buyers-break-even-near-87700-could-their-selling-stop-btcs-rally",
+      "source": "247wallst.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Parry Sound candidates weigh in on municipal issues",
+      "url": "https://www.parrysound.com/news/municipal-elections/parry-sound-candidates-weigh-in-on-municipal-issues/article_fb2a5dc7-5046-5edd-8717-14a1d8cba772.html",
+      "source": "parrysound.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Treasury Yields Are Near 5 %. Should Retirees Rethink Dividend Stocks ?",
+      "url": "https://www.aol.com/articles/treasury-yields-near-5-retirees-161539000.html",
+      "source": "aol.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Gold Struggles to Rally as Russia Central Bank Bullion Drops to 2019 Level",
+      "url": "https://www.bullionvault.com/gold-news/gold-price-news/russia-gold-crisis-war-102120261",
+      "source": "bullionvault.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Critical Comparison : Echostar ( NASDAQ : ECHO ) versus Nexxen International ( NASDAQ : NEXN )",
+      "url": "https://www.tickerreport.com/banking-finance/13628931/critical-comparison-echostar-nasdaqecho-versus-nexxen-international-nasdaqnexn.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "AbraSilver Resource ( TSX : ABRA ) Makes Top Gainer List on News of Best Gold Intercept to Date",
+      "url": "https://www.investorideas.com/news/2026/mining/10213-abrasilver-resource-tsx-abra-makes-top-gainer-list-on-news-of-best-gold-intercept-to-date.asp",
+      "source": "investorideas.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Critical Review : Natural Grocers by Vitamin Cottage ( NYSE : NGVC ) versus Costco Wholesale ( NASDAQ : COST )",
+      "url": "https://www.themarketsdaily.com/2026/10/21/critical-review-natural-grocers-by-vitamin-cottage-nysengvc-versus-costco-wholesale-nasdaqcost.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "The Qualia Wall and the Core Code : A Two - Layer Proof of Human Irreducibility in the Age of AI",
+      "url": "https://www.hotelnewsresource.com/article143424.html",
+      "source": "hotelnewsresource.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "More foreign institutions eye panda bonds as renminbi green financing gains appeal : financial expert",
+      "url": "https://www.globaltimes.cn/page/202610/1372716.shtml",
+      "source": "globaltimes.cn",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Asked on Reddit : My Bills Are Due Before Payday What Do I Do ?",
+      "url": "https://www.gjsentinel.com/news/national/asked-on-reddit-my-bills-are-due-before-payday-what-do-i-do/article_26ca221f-a2d1-5e6a-b301-2b42225545e8.html",
+      "source": "gjsentinel.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Musk mother of all mergers will birth a $3 . 5 trillion tech monster",
+      "url": "https://economictimes.indiatimes.com/news/international/business/musks-mother-of-all-mergers-will-birth-a-3-5-trillion-tech-monster/articleshow/135096085.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "The Market Is Triggering a Warning Not Seen in Decades . Here What History Says Comes Next .",
+      "url": "https://www.aol.com/articles/market-triggering-warning-not-seen-160500000.html",
+      "source": "aol.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Netflix ( NFLX ): Can Local - Language Hits Improve Returns on Content Spending ?",
+      "url": "https://www.insidermonkey.com/news/netflix-nflx-can-local-language-hits-improve-returns-on-content-spending-1851746",
+      "source": "insidermonkey.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "DMV LOCAL RECAP : Maryland Warns Voters Ahead of 2026 Election",
+      "url": "https://kysdc.com/5740423/dmv-local-recap-maryland-warns-voters-ahead-of-2026-election",
+      "source": "kysdc.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "GOP focuses on fraud , seeking to redirect voter ire over healthcare costs – Paradise Post",
+      "url": "https://www.paradisepost.com/2026/10/21/gop-fraud-healthcare-costs",
+      "source": "paradisepost.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Bernie Sanders joins Angie Nixon for a weekend whirlwind tour of Florida",
+      "url": "https://wslr.org/bernie-sanders-joins-angie-nixon-for-a-weekend-whirlwind-tour-of-florida",
+      "source": "wslr.org",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "A Blue Wave Wont Wash Away Our Oligarchy Problem",
+      "url": "https://newrepublic.com/article/216850/blue-wave-2026-oligarchy-problem",
+      "source": "newrepublic.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Raids at Patriots for Europe offices in Brussels , Strasbourg",
+      "url": "https://www.dw.com/en/raids-at-far-right-groups-offices-at-european-parliament/a-79724631",
+      "source": "dw.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Spreitzer seeks new term in State Senate",
+      "url": "http://www.hngnews.com/milton_courier/news/spreitzer-seeks-new-term-in-state-senate/article_61d2b9da-9fc8-5c65-8165-9f110dd057e4.html",
+      "source": "hngnews.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Massachusetts : Poll shows voter preferences two weeks before Election Day",
+      "url": "https://atholdailynews.com/2026/10/21/massachusetts-poll-shows-voter-preferences-two-weeks-before-election-day",
+      "source": "atholdailynews.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "What happened during Field Marshal Asim Munir Tehran Visit amid Fresh Tensions ?",
+      "url": "https://pakobserver.net/what-happened-during-field-marshal-asim-munirs-tehran-visit-amid-fresh-tensions",
+      "source": "pakobserver.net",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "I took a Waymo ride . Here why Im hooked",
+      "url": "https://nj1015.com/waymo-driverless-cars-san-diego",
+      "source": "nj1015.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Putin agrees to resume talks on Ukraine war with Kyiv and Washington – Kremlin",
+      "url": "https://www.ludlowadvertiser.co.uk/news/national/26657939.putin-agrees-resume-talks-ukraine-war-kyiv-washington---kremlin",
+      "source": "ludlowadvertiser.co.uk",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Offering cash for votes is quite common – but here why it doesnt work | National",
+      "url": "https://www.hometownregister.com/news/national/offering-cash-for-votes-is-quite-common-but-here-s-why-it-doesn-t-work/article_3f0ddbe7-007a-5ad3-ad01-bdfdb9669f89.html",
+      "source": "hometownregister.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Bottom line on Question 3 options : Primaries ? Or a single ballot where voters pick the top two ?",
+      "url": "https://www.dotnews.com/2026/10/21/bottom-line-on-question-3-options-primaries-or-a-single-ballot-where-voters-pick-the-top-two",
+      "source": "dotnews.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Ballot question aims to remove politics from Baltimore County inspector general selection",
+      "url": "https://www.wypr.org/wypr-news/2026-10-21/ballot-question-aims-to-remove-politics-from-baltimore-county-inspector-general-selection",
+      "source": "wypr.org",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Drop the early election rumours",
+      "url": "https://www.newstatesman.com/politics/2026/10/drop-the-early-election-rumours",
+      "source": "newstatesman.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Election 2026 : Labour gang skeleton in the shape of Harry Tam emerges just before Halloween – Editorial",
+      "url": "https://www.nzherald.co.nz/nz/election-2026-labours-gang-skeleton-in-the-shape-of-harry-tam-emerges-just-before-halloween-editorial/premium/IDJHDRZYOFFCJMNOAAFSZUJ54E",
+      "source": "nzherald.co.nz",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Fake Polling Scandal Shakes Democrats Ahead Of 2026 Elections",
+      "url": "https://kfyr.iheart.com/content/2026-10-21-fake-polling-scandal-shakes-democrats-ahead-of-2026-elections",
+      "source": "kfyr.iheart.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "It not just gas and groceries . Childcare costs weigh on some voters before the midterm elections",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/its-not-just-gas-and-groceries-childcare-costs-weigh-on-some-voters-before-the-midterm-elections/articleshow/135095928.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Beating Jeff Van Drew Is Personal . Can Democrats Finally Do It ?",
+      "url": "https://newrepublic.com/post/216879/jeff-van-drew-nj-zack-mullock",
+      "source": "newrepublic.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Duplicate mail - in ballots were sent to thousands of California voters : report",
+      "url": "https://wsbt.com/news/nation-world/duplicate-mail-in-ballots-were-sent-to-thousands-of-california-voters-report-los-angeles-elections",
+      "source": "wsbt.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "America anti - Chinese laws : a forgotten history",
+      "url": "https://www.historyextra.com/membership/americas-anti-chinese-laws-forgotten-history-podcast",
+      "source": "historyextra.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Fake Polling Scandal Shakes Democrats Ahead Of 2026 Elections",
+      "url": "https://wjdx.iheart.com/content/2026-10-21-fake-polling-scandal-shakes-democrats-ahead-of-2026-elections",
+      "source": "wjdx.iheart.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Help Bridge keep Michigan voters informed this election",
+      "url": "https://bridgemi.com/center-michigan/help-bridge-keep-michigan-voters-informed-this-election",
+      "source": "bridgemi.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "GOP focuses on fraud , seeking to redirect voter ire over healthcare costs – The Virginian - Pilot",
+      "url": "https://www.pilotonline.com/2026/10/21/gop-fraud-healthcare-costs",
+      "source": "pilotonline.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump Forced to Admit He Screwed Up With MAGA Senate Candidate",
+      "url": "https://newrepublic.com/post/216891/donald-trump-forced-admit-screwed-up-north-carolina-senate",
+      "source": "newrepublic.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Appeals Court Unanimously Strikes Down California  No Vigilantes Act  On Federal Grounds",
+      "url": "https://kfyr.iheart.com/content/2026-10-21-appeals-court-unanimously-strikes-down-california-no-vigilantes-act-on-federal-grounds",
+      "source": "kfyr.iheart.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Candidates for governor debate Arkansas Medicaid future as election day nears",
+      "url": "https://katv.com/news/local/candidates-for-governor-debate-arkansas-medicaid-future-as-election-day-nears",
+      "source": "katv.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Bridget Phillipson visits Cambs Fire for Menopause Awareness",
+      "url": "https://www.elystandard.co.uk/news/26650915.bridget-phillipson-visits-cambs-fire-menopause-awareness",
+      "source": "elystandard.co.uk",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Childcare costs weigh on some voters before the midterm elections",
+      "url": "https://www.pilotonline.com/2026/10/21/election-2026-education-childcare-costs",
+      "source": "pilotonline.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Frustrated with Trump , voters overwhelmingly want change in Washington , an AP - NORC poll finds",
+      "url": "https://www.miamitimesonline.com/news/world_national/frustrated-with-trump-voters-overwhelmingly-want-change-in-washington-an-ap-norc-poll-finds/article_b0310f14-7c2c-464d-94ad-43e111f46a54.html",
+      "source": "miamitimesonline.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Putin agrees to resume talks on Ukraine war with Kyiv and Washington – Kremlin",
+      "url": "https://www.thetelegraphandargus.co.uk/news/national/26657939.putin-agrees-resume-talks-ukraine-war-kyiv-washington---kremlin",
+      "source": "thetelegraphandargus.co.uk",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "New Haven Is Not For Sale : Labor , Pols Back Airbnb Limits",
+      "url": "https://www.newhavenindependent.org/2026/10/21/new-haven-is-not-for-sale-labor-pols-back-airbnb-limits",
+      "source": "newhavenindependent.org",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Macron condemns  stupid  claims by Trump and others blaming migrants for riots",
+      "url": "https://www.denbighshirefreepress.co.uk/news/national/26657285.macron-condemns-stupid-claims-trump-others-blaming-migrants-riots",
+      "source": "denbighshirefreepress.co.uk",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Appeals Court Unanimously Strikes Down California  No Vigilantes Act  On Federal Grounds",
+      "url": "https://kfab.iheart.com/content/2026-10-21-appeals-court-unanimously-strikes-down-california-no-vigilantes-act-on-federal-grounds",
+      "source": "kfab.iheart.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "We trust citizens to choose a government . Surely they can enrol – Jonathan Ayling",
+      "url": "https://www.nzherald.co.nz/nz/we-trust-citizens-to-choose-a-government-surely-they-can-enrol-jonathan-ayling/premium/NTDLZ7ZYCFCKFE4M3472OKTYBI",
+      "source": "nzherald.co.nz",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "FBI probed whether Graham , Clyburn and Wilson were tied to bribery scheme : ProPublica",
+      "url": "https://wach.com/newsletter-daily/fbi-probed-whether-graham-clyburn-and-wilson-were-tied-to-bribery-scheme-propublica",
+      "source": "wach.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "NCP ( SP ) Corporator Farzana Ansari Disqualified Over Invalid OBC Caste Certificate ; Ward 4 - A Seat Declared Vacant",
+      "url": "https://www.freepressjournal.in/mumbai/ncp-sp-corporator-farzana-ansari-disqualified-over-invalid-obc-caste-certificate-ward-4-a-seat-declared-vacant",
+      "source": "freepressjournal.in",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Voter registration deadline approaching",
+      "url": "https://www.wvtf.org/news/2026-10-21/voter-registration-deadline-approaching",
+      "source": "wvtf.org",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "The fragile keystone : El - Sisi mismanagement , Israel security and the post - election Middle East - Israel & Jewish News",
+      "url": "https://www.jns.org/analysis/the-fragile-keystone-egyptian-president-el-sisis-mismanagement-israels-security-and-the-post-election-middle-east",
+      "source": "jns.org",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Putin agrees to resume talks on Ukraine war with Kyiv and Washington – Kremlin",
+      "url": "https://www.denbighshirefreepress.co.uk/news/national/26657939.putin-agrees-resume-talks-ukraine-war-kyiv-washington---kremlin",
+      "source": "denbighshirefreepress.co.uk",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Putin agrees to resume talks on Ukraine war with Kyiv and Washington – Kremlin",
+      "url": "https://www.nwemail.co.uk/news/national/26657939.putin-agrees-resume-talks-ukraine-war-kyiv-washington---kremlin",
+      "source": "nwemail.co.uk",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Nameere celebrates God victory after High Court dismisses Nalubowa election petition",
+      "url": "https://www.ugandaonline.net/news/2026-10-21--daily-monitor-uganda--nameere-celebrates-god-s-victory-after-high-court-dismisses-nalubowa-s-election-petition--bb9e3f2b0993",
+      "source": "ugandaonline.net",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Pickering nuclear shutdown prompts Ontario to buy U . S . power",
+      "url": "https://www.parrysound.com/news/doug-ford-us-electricity-pickering-ontario/article_227b6d8a-9608-5914-b7b2-636893ccb1f0.html",
+      "source": "parrysound.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Is Trump going to bomb the bond market ?",
+      "url": "https://www.abc.net.au/listen/programs/if-youre-listening/is-trump-going-to-bomb-the-bond-market-/107294256",
+      "source": "abc.net.au",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Interview : Regular central bank dialogue underpins win - win China - EU economic and financial ties : ECB official",
+      "url": "http://www.bignewsnetwork.com/news/279390374/interview-regular-central-bank-dialogue-underpins-win-win-china-eu-economic-and-financial-ties-ecb-official",
+      "source": "bignewsnetwork.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Macron condemns  stupid  claims by Trump and others blaming migrants for riots",
+      "url": "https://www.ludlowadvertiser.co.uk/news/national/26657285.macron-condemns-stupid-claims-trump-others-blaming-migrants-riots",
+      "source": "ludlowadvertiser.co.uk",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "DOJ noncitizen voter list is unreliable , officials say . And , U . S . pollution rises",
+      "url": "https://www.mtpr.org/2026-10-21/dojs-noncitizen-voter-list-is-unreliable-officials-say-and-u-s-pollution-rises",
+      "source": "mtpr.org",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Swedish legal AI firm Legora raises $550M led by Atreides at $8 . 8B valuation",
+      "url": "https://thenextweb.com/news/legora-series-e-550m-8-8bn-valuation",
+      "source": "thenextweb.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Political practice New Jersey should ban for all elections",
+      "url": "https://nj1015.com/new-jersey-political-texts-ban",
+      "source": "nj1015.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "DWP can seize money from bank accounts under new rules | Denbighshire Free Press",
+      "url": "https://www.denbighshirefreepress.co.uk/news/26657693.dwp-can-seize-money-bank-accounts-new-rules",
+      "source": "denbighshirefreepress.co.uk",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "How do previous Trump voters feel heading into midterm elections ?",
+      "url": "https://www.wjcl.com/article/previous-trump-voters-feel-republicans-midterm-elections/73825039",
+      "source": "wjcl.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "New Days on the Roof of the World : Four Elders on 75 Years of Change in Xizang",
+      "url": "http://www.philippinetimes.com/news/279389873/new-days-on-the-roof-of-the-world-four-elders-on-75-years-of-change-in-xizang",
+      "source": "philippinetimes.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "He Will Retire in Montana Short on Savings . The Cabins Nobody Can Afford to Keep Will Become His Business",
+      "url": "https://247wallst.com/personal-finance/2026/10/21/he-will-retire-in-montana-short-on-savings-the-cabins-nobody-can-afford-to-keep-will-become-his-business",
+      "source": "247wallst.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "15 Things You Should Probably Never Say at a Car Dealership",
+      "url": "https://www.aol.com/articles/15-things-probably-never-car-161000000.html",
+      "source": "aol.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "DOLE to boost labor justice services | The Manila Times",
+      "url": "https://www.manilatimes.net/2026/10/22/news/national/dole-to-boost-labor-justice-services/2451046",
+      "source": "manilatimes.net",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "This is not the country with which Israel signed a peace treaty",
+      "url": "https://www.jns.org/opinion/ruth-wasserman-lande/this-is-not-the-country-with-which-israel-signed-a-peace-treaty",
+      "source": "jns.org",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gold , silver prices crash on MCX ; gold falls Rs 509 to Rs 1 . 46 lakh / 10g , silver drops Rs 2 , 124 to Rs 2 . 09 lakh / kg",
+      "url": "https://www.ibtimes.co.in/gold-silver-prices-crash-mcx-gold-falls-rs-509-rs-1-46-lakh-10g-silver-drops-rs-2124-rs-2-09-907736",
+      "source": "ibtimes.co.in",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rs 1 . 7 lakh next - gen Xbox ? Project Helix launch reportedly set for 2028",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/rs-1-7-lakh-next-gen-xbox-project-helix-launch-reportedly-set-for-2028/articleshow/135095857.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Selling the House She Bought for $140 , 000 in 1988 Will Cost a 74 - Year - Old $90 , 000 , Thanks to a Tax Break Frozen Since 1997",
+      "url": "https://www.aol.com/articles/selling-house-she-bought-140-100749000.html",
+      "source": "aol.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Infomerics Upgrades Ratings for CFM Asset Reconstruction to IVR A+ / Stable , IVR A1+ on Strong Recoveries , Rising AUM",
+      "url": "https://www.oneindia.com/press-release/infomerics-upgrades-ratings-for-cfm-asset-reconstruction-to-ivr-a-stable-and-ivr-a1-on-strong-reco-8241671.html",
+      "source": "oneindia.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Remarkable ignorance of  elite  students - Israel & Jewish News",
+      "url": "https://www.jns.org/opinion/column/mitchell-bard/remarkable-ignorance-of-elite-students",
+      "source": "jns.org",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Universal Credit and other DWP benefits increase after CPI figures",
+      "url": "https://www.denbighshirefreepress.co.uk/news/26658286.universal-credit-dwp-benefits-increase-cpi-figures",
+      "source": "denbighshirefreepress.co.uk",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inside the $1B Boca Raton luxury condo disaster",
+      "url": "https://nypost.com/2026/10/21/real-estate/inside-the-1b-boca-raton-luxury-condo-disaster",
+      "source": "nypost.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What fall listing data reveals about where the housing market is headed this winter",
+      "url": "https://www.magic1021.com/news/what-fall-listing/Y2GBLRM2IM2IDNJRYCWTNOQBLI",
+      "source": "magic1021.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "America Car - Mart in talks for sale | Northwest Arkansas Democrat - Gazette",
+      "url": "https://www.nwaonline.com/news/2026/oct/21/americas-car-mart-in-talks-for-sale",
+      "source": "nwaonline.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "China steps up support for commercialization of technological breakthroughs",
+      "url": "https://www.globaltimes.cn/page/202610/1372740.shtml",
+      "source": "globaltimes.cn",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "We cannot ignore the desperation  behind businesses wanting firearms - BVICC",
+      "url": "http://www.virginislandsnewsonline.com/en/news/we-cannot-ignore-the-desperation-behind-businesses-wanting-firearms-bvicc",
+      "source": "virginislandsnewsonline.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "10  Old Money Families  Whose Fortunes Stand the Test of Time",
+      "url": "https://www.aol.com/articles/10-old-money-families-whose-154500000.html",
+      "source": "aol.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "67 % of Older Homeowners Worry About Inflation . Her $80 , 000 Reverse - Mortgage Draw Wont Automatically Raise Medicare Premiums",
+      "url": "https://247wallst.com/personal-finance/2026/10/21/67-of-older-homeowners-worry-about-inflation-her-80000-reverse-mortgage-draw-wont-automatically-raise-medicare-premiums",
+      "source": "247wallst.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The new Trump 530A accounts are live : Is your child eligible ?",
+      "url": "https://www.aol.com/articles/trump-530a-accounts-live-child-155615000.html",
+      "source": "aol.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "67 % of Older Homeowners Worry About Inflation . Her $80 , 000 Reverse - Mortgage Draw Wont Automatically Raise Medicare Premiums",
+      "url": "https://www.aol.com/articles/67-older-homeowners-worry-inflation-160013000.html",
+      "source": "aol.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Clifton Park board releases sexual harassment review findings",
+      "url": "https://www.dailygazette.com/leader_herald/news/election/clifton-park-town-board-sexual-harassment-review-findings/article_6344f88d-e95c-4ec1-aed0-e6fc92aa58da.html",
+      "source": "dailygazette.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "WCC Aviation Holdings signs agreement to acquire stake in PhilJets",
+      "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/wcc-aviation-holdings-signs-agreement-to-acquire-stake-in-philjets/2450531",
+      "source": "manilatimes.net",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "TDP accuses YSRCP of attempting to stall local body elections through litigations in Andhra",
+      "url": "https://aninews.in/news/national/politics/tdp-accuses-ysrcp-of-attempting-to-stall-local-body-elections-through-litigations-in-andhra20261021214725",
+      "source": "aninews.in",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Utility and Energy Transmission & Distribution News",
+      "url": "https://www.utilitydive.com/?page=2&_sp=e224f309-9d47-493c-a070-91d8c5231454",
+      "source": "utilitydive.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "In  the weave : A legislative agenda for Trump final years – The News Herald",
+      "url": "https://www.thenewsherald.com/2026/10/20/trump-final-years-legislative-agenda",
+      "source": "thenewsherald.com",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Takaichi first year in office marked by unfulfilled pledges , lopsided diplomacy amid regional tensions : expert",
+      "url": "https://www.globaltimes.cn/page/202610/1372738.shtml",
+      "source": "globaltimes.cn",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "MPs urge action to support hospitality ahead of Budget",
+      "url": "https://www.morningadvertiser.co.uk/Article/2026/10/21/mps-urge-action-to-support-hospitality-ahead-of-budget",
+      "source": "morningadvertiser.co.uk",
+      "published": "2026-10-21T16:45:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "World Insights : Cost - of - living protests highlight mounting economic , social pressures across Europe",
       "url": "http://www.mainemirror.com/news/279389181/world-insights-cost-of-living-protests-highlight-mounting-economic-social-pressures-across-europe",
@@ -6116,335 +7003,6 @@
       "source": "asiaone.com",
       "published": "2026-10-10T06:45:00+00:00",
       "category": "Politics"
-    },
-    {
-      "title": "Mwalimu Nyerere brought back to life through his Swahili translation of Platos Republic",
-      "url": "https://www.standardmedia.co.ke/opinion/article/2001559808/nyereres-translation-legacy-revisited-through-platos-the-republic",
-      "source": "standardmedia.co.ke",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Year later , Gaza ceasefire promises mostly unfulfilled",
-      "url": "https://www.philstar.com/world/2026/10/10/2562258/year-later-gaza-ceasefire-promises-mostly-unfulfilled",
-      "source": "philstar.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Pezeshkian pitches  CIS + Iran  bloc at Turkmenistan summit",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-pitches-cis-iran-bloc-turkmenistan-summit",
-      "source": "middleeasteye.net",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Trump and Iran agree on one thing . The US election calendar isnt driving their decisions on the war",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-and-iran-agree-on-one-thing-the-us-election-calendar-isnt-driving-their-decisions-on-the-war/articleshow/134847184.cms",
-      "source": "economictimes.indiatimes.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Delhi protest today : Massive traffic jams reported in central Delhi , check affected areas",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/delhi-protest-today-massive-traffic-jams-reported-in-central-delhi-check-affected-areas/articleshow/134848082.cms",
-      "source": "economictimes.indiatimes.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Trump and Iran agree on one thing . The US election calendar isnt driving their decisions on the war",
-      "url": "http://www.gazettextra.com/news/nation_world/trump-and-iran-agree-on-one-thing-the-us-election-calendar-isnt-driving-their-decisions/article_1c0bd0ae-dc37-559a-b9db-e23dbf21b05a.html",
-      "source": "gazettextra.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Conservatives one , and all over the place at conference",
-      "url": "https://www.hardenexpress.com.au/story/9365998/conservatives-one-and-all-over-the-place-at-conference",
-      "source": "hardenexpress.com.au",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Being ashamed of family wealth as backup ?: Why young Indians born around 2005 face a tougher future with AI , rising house prices and fewer good jobs",
-      "url": "https://www.indiatimes.com/trending/being-ashamed-of-family-wealth-as-backup-why-young-indians-born-around-2005-face-a-tougher-future-with-ai-rising-house-prices-and-fewer-good-jobs/articleshow/134836708.html",
-      "source": "indiatimes.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "RBI rate hikes of 50 bps expected in next two policies , terminal repo rate to reach 6 . 0 %: Kotak report",
-      "url": "http://www.pakistantelegraph.com/news/279362992/rbi-rate-hikes-of-50-bps-expected-in-next-two-policies-terminal-repo-rate-to-reach-60-kotak-report",
-      "source": "pakistantelegraph.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "It Time to Confront America Insurance Monopolies",
-      "url": "https://townhall.com/columnists/joelwhite/2026/10/10/its-time-to-confront-americas-insurance-monopolies-n2684235",
-      "source": "townhall.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "RBI rate hikes of 50 bps expected in next two policies , terminal repo rate to reach 6 . 0 %: Kotak report",
-      "url": "https://timesofoman.com/article/177844-rbi-rate-hikes-of-50-bps-expected-in-next-two-policies-kotak-report",
-      "source": "timesofoman.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Constantine moves to fill two police vacancies after chief resigns , sergeant departs",
-      "url": "https://wwmt.com/news/local/constantine-police-chief-sergeant-vacancy-resignations-letter-community-crime-force-st-joseph-county-west-michigan",
-      "source": "wwmt.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Inverness man Scott Burns jailed for offences including stealing phones in court building",
-      "url": "https://www.inverness-courier.co.uk/news/man-stole-phones-in-court-building-447075",
-      "source": "inverness-courier.co.uk",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Pentagon awarded $350M to a firm tied to a senior DOD official",
-      "url": "https://www.defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543",
-      "source": "defenseone.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Data centre market faces energy challenges",
-      "url": "https://vietnamnews.vn/economy/1801684/data-centre-market-faces-energy-challenges.html",
-      "source": "vietnamnews.vn",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Maqpondass Special Economic Zone being established in GB with SIFC Support",
-      "url": "https://www.radio.gov.pk/10-10-2026/maqpondass-special-economic-zone-being-established-in-gb",
-      "source": "radio.gov.pk",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stronger BoP outlook to keep Rupee far more stable ; FY27 surplus seen at USD 97 - 100 billion : Report",
-      "url": "http://www.argentinastar.com/news/279363056/stronger-bop-outlook-to-keep-rupee-far-more-stable-fy27-surplus-seen-at-usd-97-100-billion-report",
-      "source": "argentinastar.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Auckland . Scoop » NZ Supermarket Challenger To Open 20+ Stores , Create Up To 1 , 000 Regional Jobs",
-      "url": "https://auckland.scoop.co.nz/2026/10/nz-supermarket-challenger-to-open-20-stores-create-up-to-1000-regional-jobs",
-      "source": "auckland.scoop.co.nz",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UK savings : 5 % interest rate deals may not last , say experts",
-      "url": "https://www.theguardian.com/money/2026/oct/10/uk-savings-interest-rate-deals-nsi-bonds",
-      "source": "theguardian.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "My neighbour put up a sign for her hairdressing business on my drive without asking : What should I do ?",
-      "url": "https://www.dailymail.com/money/mortgageshome/article-16195819/My-neighbour-sign-hairdressing-business-drive-without-asking-do.html",
-      "source": "dailymail.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Friend U Visa Curbs Only a Gain for New India : Goyal",
-      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/oct/10/satet-front/friend-us-visa-curbs-only-a-gain-for-new-india-goyal/articleshow/134842801.cms",
-      "source": "economictimes.indiatimes.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "India Slams Vance H - 1B Remarks - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/oct/10/satet-front/india-slams-vances-h-1b-remarks/articleshow/134842804.cms",
-      "source": "economictimes.indiatimes.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stronger BoP outlook to keep Rupee far more stable ; FY27 surplus seen at USD 97 - 100 billion : Report",
-      "url": "https://timesofoman.com/article/177843-stronger-balance-of-payments-outlook-to-keep-rupee-far-more-stable",
-      "source": "timesofoman.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ohio residents need hope regarding cost of living",
-      "url": "https://www.salemnews.net/opinion/editorials/2026/10/ohio-residents-need-hope-regarding-cost-of-living",
-      "source": "salemnews.net",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "JSS jobs standoff : 24 , 000 interns face uncertainty",
-      "url": "https://www.the-star.co.ke/news/2026-10-10-jss-jobs-standoff-24000-interns-face-uncertainty",
-      "source": "the-star.co.ke",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "China Urban Jobs Hit 10 . 52 Million in First Nine Months",
-      "url": "https://en.shafaqna.com/483960/china-urban-jobs-10-52-million-nine-months",
-      "source": "en.shafaqna.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A comfortable Diwali , an uncomfortable 2027 : India sugar balance sheet is running thin",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/a-comfortable-diwali-an-uncomfortable-2027-indias-sugar-balance-sheet-is-running-thin/article71565441.ece",
-      "source": "thehindubusinessline.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mid - Ohio Valley Climate Corner : Vote not just for climate , but affordability",
-      "url": "https://www.newsandsentinel.com/opinion/local-columns/2026/10/mid-ohio-valley-climate-corner-vote-not-just-for-climate-but-affordability",
-      "source": "newsandsentinel.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Social Security launches new retirement date certificate service in Spain",
-      "url": "https://www.surinenglish.com/spain/social-security-launches-new-tool-allowing-spanish-20261008130456-nt.html",
-      "source": "surinenglish.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Markets too ready for conflict over Taiwan US diplomat",
-      "url": "http://www.pakistantelegraph.com/news/279363123/markets-too-ready-for-conflict-over-taiwan-us-diplomat",
-      "source": "pakistantelegraph.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "China adds 10 . 52 - million urban jobs in January to September to roll out services jobs policy",
-      "url": "https://www.timeslive.co.za/news/world/2026-10-10-china-adds-1052-million-urban-jobs-in-january-to-september-to-roll-out-services-jobs-policy",
-      "source": "timeslive.co.za",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Washington State College of Ohio earns ACEN accreditation for 2 nursing programs",
-      "url": "https://www.newsandsentinel.com/news/business/2026/10/washington-state-college-of-ohio-earns-acen-accreditation-for-2-nursing-programs",
-      "source": "newsandsentinel.com",
-      "published": "2026-10-10T06:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-      "source": "Federal Reserve: monetary policy",
-      "published": "2026-10-07T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Federal Reserve issues FOMC statement",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-      "source": "Federal Reserve: monetary policy",
-      "published": "2026-09-16T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-      "source": "Federal Reserve: monetary policy",
-      "published": "2026-09-16T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-      "source": "Federal Reserve: monetary policy",
-      "published": "2026-08-25T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
-      "source": "Federal Reserve: monetary policy",
-      "published": "2026-08-19T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Federal Reserve issues FOMC statement",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-      "source": "Federal Reserve: monetary policy",
-      "published": "2026-07-29T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
-      "source": "Federal Reserve: monetary policy",
-      "published": "2026-07-14T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-      "source": "Federal Reserve: monetary policy",
-      "published": "2026-07-09T19:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
-      "source": "Federal Reserve: monetary policy",
-      "published": "2026-07-08T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Federal Reserve issues FOMC statement",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
-      "source": "Federal Reserve: monetary policy",
-      "published": "2026-06-17T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
-      "source": "Federal Reserve: monetary policy",
-      "published": "2026-06-17T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minutes of the Board's discount rate meeting on April 20 and 29, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
-      "source": "Federal Reserve: monetary policy",
-      "published": "2026-05-26T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
-      "source": "Federal Reserve: monetary policy",
-      "published": "2026-05-20T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Federal Reserve issues FOMC statement",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
-      "source": "Federal Reserve: monetary policy",
-      "published": "2026-04-29T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm",
-      "source": "Federal Reserve: monetary policy",
-      "published": "2026-04-14T18:00:00+00:00",
-      "category": "Economy"
     }
   ]
 }
