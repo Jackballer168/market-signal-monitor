@@ -1,12 +1,361 @@
 {
-  "updated": "2026-10-22T04:50+00:00",
+  "updated": "2026-10-22T11:56+00:00",
   "errors": [
     "Markets: HTTPError",
-    "Business: HTTPError",
     "Politics: HTTPError",
     "Economy: HTTPError"
   ],
   "stories": [
+    {
+      "title": "Elon Musk says Space X and Tesla are considering a merger",
+      "url": "https://www.kasu.org/business-economy/2026-10-22/elon-musk-says-space-x-and-tesla-are-considering-a-merger",
+      "source": "kasu.org",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Dingdong ( Cayman ) ( NYSE : DDL ) versus Natural Grocers by Vitamin Cottage ( NYSE : NGVC ) Critical Survey",
+      "url": "https://www.themarketsdaily.com/2026/10/22/dingdong-cayman-nyseddl-versus-natural-grocers-by-vitamin-cottage-nysengvc-critical-survey.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "HSBC Initiates Coverage on Public Service Enterprise Group ( NYSE : PEG )",
+      "url": "https://www.tickerreport.com/banking-finance/13630359/hsbc-initiates-coverage-on-public-service-enterprise-group-nysepeg.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Barclays To Cut 5K Jobs Because Of AI",
+      "url": "https://960weli.iheart.com/content/2026-10-22-barclays-to-cut-5k-jobs-because-of-ai",
+      "source": "960weli.iheart.com",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Tractor Supply Reaffirms FY26 Outlook",
+      "url": "https://www.rttnews.com/3701780/tractor-supply-reaffirms-fy26-outlook-update.aspx",
+      "source": "rttnews.com",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Alliant Energy ( NASDAQ : LNT ) Now Covered by HSBC",
+      "url": "https://www.dailypolitical.com/2026/10/22/alliant-energy-nasdaqlnt-now-covered-by-hsbc.html",
+      "source": "dailypolitical.com",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "GRNT Stock Gets Lower EPS Estimate from Northland Securities",
+      "url": "https://www.tickerreport.com/banking-finance/13630372/grnt-stock-gets-lower-eps-estimate-from-northland-securities.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Snap - On : Q3 Earnings Snapshot",
+      "url": "http://www.hngnews.com/state/snap-on-q3-earnings-snapshot/article_6cae1622-8eb1-5158-ba0f-032a47588bf8.html",
+      "source": "hngnews.com",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "PG & E Reaffirms 2026 And 2027 Non - GAAP Core EPS Guidance",
+      "url": "https://www.rttnews.com/3701760/pg-e-reaffirms-2026-and-2027-non-gaap-core-eps-guidance.aspx",
+      "source": "rttnews.com",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Boldyn Networks partners with Pilot Fiber to further enhance connectivity throughout the Northeast",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69907113-boldyn-networks-partners-with-pilot-fiber-to-further-enhance-connectivity-throughout-the-northeast-008.htm",
+      "source": "finanznachrichten.de",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "UK gender pay gap declines as more workers in low - paid jobs",
+      "url": "https://www.wisbechstandard.co.uk/news/national/26660052.uk-gender-pay-gap-declines-workers-low-paid-jobs",
+      "source": "wisbechstandard.co.uk",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "AeroVironment ( NASDAQ : AVAV ) Coverage Initiated by Analysts at Oppenheimer",
+      "url": "https://www.dailypolitical.com/2026/10/22/aerovironment-nasdaqavav-coverage-initiated-by-analysts-at-oppenheimer.html",
+      "source": "dailypolitical.com",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Tech M & A deals : Mapmygenome , dnaPower , Stord , AMS Fulfillment",
+      "url": "https://infotechlead.com/analytics/tech-ma-deals-mapmygenome-dnapower-stord-ams-fulfillment-99113",
+      "source": "infotechlead.com",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Stock Market Today : Sensex Falls 460 Points , Nifty Closes Below 22 , 700 ; Media , FMCG and IT Stocks Drag",
+      "url": "https://www.indiainfoline.com/news/markets/stock-market-today-sensex-falls-460-points-nifty-closes-below-22700-media-fmcg-and-it-stocks-drag",
+      "source": "indiainfoline.com",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "UK gender pay gap declines as more workers in low - paid jobs",
+      "url": "https://www.salisburyjournal.co.uk/news/national/26660052.uk-gender-pay-gap-declines-workers-low-paid-jobs",
+      "source": "salisburyjournal.co.uk",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Tech M & A deals : HR Path , Payroll Experts , Ramp , Vesto , iFood , Caju",
+      "url": "https://infotechlead.com/analytics/tech-ma-deals-hr-path-payroll-experts-ramp-vesto-ifood-caju-99107",
+      "source": "infotechlead.com",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "UK gender pay gap declines as more workers in low - paid jobs",
+      "url": "https://www.dumbartonreporter.co.uk/news/national/26660052.uk-gender-pay-gap-declines-workers-low-paid-jobs",
+      "source": "dumbartonreporter.co.uk",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Mapmygenome acquires Canada dnaPower in North American push",
+      "url": "https://www.vccircle.com/mapmygenomeacquires-canada-s-dnapower-in-north-american-push",
+      "source": "vccircle.com",
+      "published": "2026-10-22T11:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Analyzing Weave Communications ( NYSE : WEAV ) & HealthStream ( NASDAQ : HSTM )",
+      "url": "https://www.themarketsdaily.com/2026/10/22/analyzing-weave-communications-nyseweav-healthstream-nasdaqhstm.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Regeneron Pharmaceuticals , Inc . $REGN Stock Bought by Lmcg Investments LLC",
+      "url": "https://www.themarketsdaily.com/2026/10/22/regeneron-pharmaceuticals-inc-regn-stock-bought-by-lmcg-investments-llc.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Vehicle Electrification Market worth $87 . 81 billion by 2033",
+      "url": "http://www.prnewswire.com/news-releases/vehicle-electrification-market-worth-87-81-billion-by-2033--marketsandmarkets-302916694.html",
+      "source": "prnewswire.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "NextDC ( NXT ASX ) investors urged to consider legal action over slow disclosure of issues at M3 data centre",
+      "url": "https://www.afr.com/companies/infrastructure/nextdc-draws-investor-ire-over-slow-disclosure-of-power-delays-20261022-p617pi",
+      "source": "afr.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Low GWP Refrigerants Market worth $13 . 06 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+      "url": "http://www.prnewswire.com/news-releases/low-gwp-refrigerants-market-worth-13-06-billion-by-2031---exclusive-report-by-marketsandmarkets-302916681.html",
+      "source": "prnewswire.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "UK gender pay gap declines as more workers in low - paid jobs",
+      "url": "https://www.lancashiretelegraph.co.uk/news/national/26660052.uk-gender-pay-gap-declines-workers-low-paid-jobs",
+      "source": "lancashiretelegraph.co.uk",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "H . I . G . Capital Acquires a Majority Stake in L4A to Support Continued Growth and Expansion",
+      "url": "https://www.brantfordexpositor.ca/press-releases/pr-newswire/h-i-g-capital-acquires-a-majority-stake-in-l4a-to-support-continued-growth-and-expansion",
+      "source": "brantfordexpositor.ca",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Payoneer India Cross - Border Excellence Awards 2026 closes with a blueprint for India next export leap",
+      "url": "http://www.bignewsnetwork.com/news/279392013/payoneer-india-cross-border-excellence-awards-2026-closes-with-a-blueprint-for-india-next-export-leap",
+      "source": "bignewsnetwork.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Were now entering an era where the name BioWare wont show up anymore when discussing upcoming RPG The game industry reacts to the shuttering of legendary Mass Effect and Dragon Age studio , BioWare",
+      "url": "https://www.techradar.com/gaming/were-now-entering-an-era-where-the-name-bioware-wont-show-up-anymore-when-discussing-upcoming-rpgs-the-game-industry-reacts-to-the-shuttering-of-legendary-mass-effect-and-dragon-age-studio-bioware",
+      "source": "techradar.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Stryker Corporation $SYK Shares Newly Bought by Skylands Capital LLC",
+      "url": "https://www.tickerreport.com/banking-finance/13630322/stryker-corporation-syk-shares-newly-bought-by-skylands-capital-llc.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Metals One eyes Barbrook gold restart as it moves to take full control of South African assets",
+      "url": "https://www.proactiveinvestors.com/companies/news/1100545/metals-one-eyes-barbrook-gold-restart-as-it-moves-to-take-full-control-of-south-african-assets-1100545.html",
+      "source": "proactiveinvestors.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Ecopetrol  New Era  Advances with the Appointment of the Executive Vice President of Energies for the Transition and Two Legal Representatives",
+      "url": "http://www.prnewswire.com/news-releases/ecopetrols-new-era-advances-with-the-appointment-of-the-executive-vice-president-of-energies-for-the-transition-and-two-legal-representatives-302916821.html",
+      "source": "prnewswire.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Global stocks fall , bonds gain as Meta dents tech optimism",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/22/global-stocks-fall-bonds-gain-as-meta-dents-tech-optimism",
+      "source": "freemalaysiatoday.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Do not repeat tax increases at Budget , Sainsbury boss urges Chancellor",
+      "url": "https://www.darlingtonandstocktontimes.co.uk/news/national/26659665.not-repeat-tax-increases-budget-sainsburys-boss-urges-chancellor",
+      "source": "darlingtonandstocktontimes.co.uk",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Do not repeat tax increases at Budget , Sainsbury boss urges Chancellor",
+      "url": "https://www.ludlowadvertiser.co.uk/news/national/26659665.not-repeat-tax-increases-budget-sainsburys-boss-urges-chancellor",
+      "source": "ludlowadvertiser.co.uk",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Do not repeat tax increases at Budget , Sainsbury boss urges Chancellor",
+      "url": "https://www.dunmowbroadcast.co.uk/news/national/26659665.not-repeat-tax-increases-budget-sainsburys-boss-urges-chancellor",
+      "source": "dunmowbroadcast.co.uk",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Vehicle Electrification Market worth $87 . 81 billion by 2033",
+      "url": "https://www.prnewswire.com/news-releases/vehicle-electrification-market-worth-87-81-billion-by-2033--marketsandmarkets-302916694.html",
+      "source": "prnewswire.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "World shares retreat as report of damage to oil tankers pushes oil prices higher",
+      "url": "https://www.union-bulletin.com/news/national/world-shares-retreat-as-report-of-damage-to-oil-tankers-pushes-oil-prices-higher/article_89de8b89-42fb-5a31-9b3d-cc5493e37603.html",
+      "source": "union-bulletin.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "ExxonMobil Corporation $XOM Stock Purchased by Integrated Advisors Network LLC",
+      "url": "https://www.tickerreport.com/banking-finance/13630320/exxonmobil-corporation-xom-stock-purchased-by-integrated-advisors-network-llc.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "12 , 798 Becton , Dickinson and Company $BDX Shares Acquired by Nisa Investment Advisors LLC",
+      "url": "https://www.themarketsdaily.com/2026/10/22/12798-becton-dickinson-and-company-bdx-shares-acquired-by-nisa-investment-advisors-llc.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Cocoa and Chocolate Market worth $216 . 42 billion by 2031 - Exclusive Report by MarketsandMarkets",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69906869-cocoa-and-chocolate-market-worth-dollar-216-42-billion-by-2031-exclusive-report-by-marketsandmarkets-008.htm",
+      "source": "finanznachrichten.de",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "THU AM News : September home sales decline amid rising mortgage rates ; DOJ part of coalition suing to block manufacturer acquisition",
+      "url": "https://www.wisbusiness.com/2026/thu-am-news-september-home-sales-decline-amid-rising-mortgage-rates-doj-part-of-coalition-suing-to-block-manufacturer-acquisition",
+      "source": "wisbusiness.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "MARKETS LIVE : European stocks remain down as oil prices surge , AI concerns weigh on Wall Street futures",
+      "url": "https://www.proactiveinvestors.com/companies/news/1100523/markets-live-european-stocks-remain-down-as-oil-prices-surge-ai-concerns-weigh-on-wall-street-futures-1100523.html",
+      "source": "proactiveinvestors.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Wealth Management Partners LLC Buys New Position in Sandisk Corporation $SNDK",
+      "url": "https://www.dailypolitical.com/2026/10/22/wealth-management-partners-llc-buys-new-position-in-sandisk-corporation-sndk.html",
+      "source": "dailypolitical.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "UK gender pay gap declines as more workers in low - paid jobs",
+      "url": "https://www.chardandilminsternews.co.uk/news/national/26660052.uk-gender-pay-gap-declines-workers-low-paid-jobs",
+      "source": "chardandilminsternews.co.uk",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "15 , 211 Shares of iShares S & P Mid - Cap 400 Value ETF $IJJ Purchased by Smith Shellnut Wilson LLC ADV",
+      "url": "https://www.dailypolitical.com/2026/10/22/15211-shares-of-ishares-sp-mid-cap-400-value-etf-ijj-purchased-by-smith-shellnut-wilson-llc-adv.html",
+      "source": "dailypolitical.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Metals One targets full control of South African gold business in all - share deal",
+      "url": "https://www.proactiveinvestors.com/companies/news/1100532/metals-one-targets-full-control-of-south-african-gold-business-in-all-share-deal-1100532.html",
+      "source": "proactiveinvestors.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Former Brevan Howard PM sued over $3 . 5m in unpaid trading …",
+      "url": "https://hedgeweek.com/news/former-brevan-howard-pm-sued-over-3-5m-in-unpaid-trading-profits",
+      "source": "hedgeweek.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Advanced Micro Devices , Inc . $AMD Stock : Quadrant Capital Group LLC Boosts Stake",
+      "url": "https://www.tickerreport.com/banking-finance/13630324/advanced-micro-devices-inc-amd-stock-quadrant-capital-group-llc-boosts-stake.html",
+      "source": "tickerreport.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "The biggest hurdle to a SpaceX merger with Tesla isnt Elon Musk . It Tesla shareholders",
+      "url": "https://fortune.com/2026/10/22/biggest-hurdle-spacex-merger-tesla-elon-musk-shareholders",
+      "source": "fortune.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "World shares retreat as report of damage to oil tankers pushes oil prices higher",
+      "url": "https://www.yakimaherald.com/news/nation_and_world/business/world-shares-retreat-as-report-of-damage-to-oil-tankers-pushes-oil-prices-higher/article_af1b09ad-92d3-57a6-948e-0a8305091b4b.html",
+      "source": "yakimaherald.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "4 , 055 Motorola Solutions , Inc . $MSI Shares Sold by Lmcg Investments LLC",
+      "url": "https://www.themarketsdaily.com/2026/10/22/4055-motorola-solutions-inc-msi-shares-sold-by-lmcg-investments-llc.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-22T11:15:00+00:00",
+      "category": "Business"
+    },
     {
       "title": "Here Are 5 ETFs Retirees Use to Get Paid Without Leaning on the Magnificent Seven",
       "url": "https://www.aol.com/articles/5-etfs-retirees-paid-without-203317000.html",
@@ -6656,356 +7005,6 @@
       "source": "41nbc.com",
       "published": "2026-10-16T16:00:00+00:00",
       "category": "Business"
-    },
-    {
-      "title": "These 2 Utility Stocks Target 5 % to 7 % Growth . But Their Dividend Risks Are Worlds Apart",
-      "url": "https://www.aol.com/articles/2-utility-stocks-target-5-151507000.html",
-      "source": "aol.com",
-      "published": "2026-10-16T16:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Notification of Major Holdings | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/rns/brickability-group--brck/notification-of-major-holdings-/9827994",
-      "source": "investegate.co.uk",
-      "published": "2026-10-16T16:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "International Seaways ( NYSE : INSW ) Major Shareholder Sells $3 , 078 , 450 . 96 in Stock",
-      "url": "https://www.themarketsdaily.com/2026/10/16/international-seaways-nyseinsw-major-shareholder-sells-3078450-96-in-stock.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-16T16:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Tesla new Roadster car can thrust itself in the air . But dont expect to drive it anytime soon",
-      "url": "https://www.wsls.com/business/2026/10/16/teslas-new-roadster-car-can-thrust-itself-in-the-air-but-dont-expect-to-drive-it-anytime-soon",
-      "source": "wsls.com",
-      "published": "2026-10-16T16:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Shionogi & Co ., Ltd . Unsponsored ADR ( OTCMKTS : SGIOY ) Shares Climb 6 . 2 % – Should You Buy ?",
-      "url": "https://www.themarketsdaily.com/2026/10/16/shionogi-co-ltd-unsponsored-adr-otcmktssgioy-shares-climb-6-2-should-you-buy.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-16T16:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Raja Chakra EOW Remand in Major Fraud Case - Pragativadi I Latest Odisha News in English I Breaking News",
-      "url": "https://pragativadi.com/kendujhar-land-crusher-scam-eow-remands-syndicate-kingpin-soumya-shankar-chakra",
-      "source": "pragativadi.com",
-      "published": "2026-10-16T16:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Traffic Curbs Issued For Central Delhi Ahead Of CJP  Lehra Do Tiranga  March",
-      "url": "https://www.deccanchronicle.com/nation/delhi-security-forces-deployed-in-and-around-connaught-place-ahead-of-lehra-do-tiranga-protest-1996282",
-      "source": "deccanchronicle.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Voters on both sides of the aisle want change , new poll on eve of 2026 midterm finds",
-      "url": "https://www.fox2detroit.com/news/voters-both-sides-aisle-want-change-new-poll-eve-2026-midterm-finds",
-      "source": "fox2detroit.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Guilty by association : The Cornell 7 case raises concerns about who is really being protected",
-      "url": "https://theorion.com/110760/opinion/guilty-by-association-the-cornell-7-case-raises-concerns-about-who-is-really-being-protected",
-      "source": "theorion.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Councilman Jones calls for halt to PGW shutoffs amid affordability crisis",
-      "url": "https://www.phillytrib.com/news/local_news/councilman-jones-calls-for-halt-to-pgw-shutoffs-amid-affordability-crisis/article_d5acb619-dd9c-4320-bc16-3ffc383a8949.html",
-      "source": "phillytrib.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Federal probe targets Rep . Ilhan Omar immigration history ; agents raid DC home",
-      "url": "https://wsbt.com/news/nation-world/federal-probe-targets-rep-ilhan-omars-immigration-history-agents-raid-dc-home-citizenship-minnesota",
-      "source": "wsbt.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Riverside rally protests what advocates call ICE  siege  in the Inland Empire – Daily Bulletin",
-      "url": "https://www.dailybulletin.com/2026/10/15/riverside-rally-protests-what-advocates-call-ice-siege-in-the-inland-empire",
-      "source": "dailybulletin.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Election 2026 : National Party candidate Karuna Muthu storms out of Wellington Bays candidates meeting",
-      "url": "https://www.newstalkzb.co.nz/news/politics/election-2026-national-party-candidate-karuna-muthu-storms-out-of-wellington-bays-candidates-meeting",
-      "source": "newstalkzb.co.nz",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "MLA candidates for the 2026 provincial election respond to reader questions Sun Peaks Independent News",
-      "url": "https://sunpeaksnews.com/mla-candidates-respond-to-reader-questions",
-      "source": "sunpeaksnews.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Federal probe targets Rep . Ilhan Omar immigration history ; agents raid DC home",
-      "url": "https://newschannel9.com/news/nation-world/federal-probe-targets-rep-ilhan-omars-immigration-history-agents-raid-dc-home-citizenship-minnesota",
-      "source": "newschannel9.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Church election probe compared to Spanish inquisition",
-      "url": "https://www.armidaleexpress.com.au/story/9369563/church-election-probe-compared-to-spanish-inquisition",
-      "source": "armidaleexpress.com.au",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Open letter warns of hospital specialist exodus over Interior Health policy",
-      "url": "https://comoxvalleyrecord.com/2026/10/15/open-letter-warns-of-hospital-specialist-exodus-over-interior-health-policy",
-      "source": "comoxvalleyrecord.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Redding Chico Eureka",
-      "url": "https://krcrtv.com/news/local/measure-k-seeks-25-million-bond-to-build-new-southern-humboldt-hospital",
-      "source": "krcrtv.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Letter to deceased man raises questions about Virginia voter records",
-      "url": "https://wset.com/news/local/letter-to-deceased-man-raises-questions-about-virginias-voter-records-october-2026",
-      "source": "wset.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Business . Scoop » Winston Flip Flop On Showing New Zealand His Numbers",
-      "url": "https://business.scoop.co.nz/2026/10/16/winstons-flip-flop-on-showing-new-zealand-his-numbers",
-      "source": "business.scoop.co.nz",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Netanyahu  license to kill  is gone , but the damage remains",
-      "url": "https://www.ynetnews.com/opinions-analysis/article/h1jcdf13gg",
-      "source": "ynetnews.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "WHMI 93 . 5 Local News :  No Kings  Events Across WHMI Listening Area Saturday",
-      "url": "https://www.whmi.com/news/article/no-kings-october-17-howell",
-      "source": "whmi.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Rob OToole reflects on his time as mayor as he seeks to return to council",
-      "url": "https://sunpeaksnews.com/otoole-steps-down",
-      "source": "sunpeaksnews.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Election 2026 : New poll shows Labour edging ahead of National as Opportunity hits 5 %",
-      "url": "https://www.newstalkzb.co.nz/news/politics/election-2026-new-poll-shows-labour-edging-ahead-of-national-as-opportunity-hits-5",
-      "source": "newstalkzb.co.nz",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "DOJ Files Limp  Noncitizen  Voting Suit in CA Just Days After Its Nationwide Voting Roll Scheme Found Unlawful :  BradCast  10 / 15 / 2026",
-      "url": "https://www.dailykos.com/stories/2026/10/15/800113117/community/doj-files-limp-noncitizen-voting-suit-in-ca-just-days-after-its-nationwide-voting-roll-scheme-found-unlawful-bradcast-10-15-2026",
-      "source": "dailykos.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Newsom Signs Law Requiring Companies to Disclose Historical Profits From Slavery - American Renaissance",
-      "url": "https://www.amren.com/news/2026/10/newsom-signs-law-requiring-companies-to-disclose-historical-profits-from-slavery",
-      "source": "amren.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Myanmar coup leader - turned - president wins back neighbours despite war - Grenada Chronicle – Daily Grenada And Caribbean News",
-      "url": "https://grenadachronicle.com/myanmars-coup-leader-turned-president-wins-back-neighbours-despite-war",
-      "source": "grenadachronicle.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Odisha : Tension at Rama Devi University during vote counting ; BJD Sagarika Samant alleges irregularities",
-      "url": "https://aninews.in/news/national/general-news/odisha-tension-at-rama-devi-university-during-vote-counting-bjds-sagarika-samant-alleges-irregularities20261016051116",
-      "source": "aninews.in",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Minneapolis council fails to override mayoral veto of ban on driverless robotaxis",
-      "url": "http://www.walkermn.com/around_the_web/news/minneapolis-council-fails-to-override-mayoral-veto-of-ban-on-driverless-robotaxis/article_35095d87-f4a7-5056-b467-db552c727ddc.html",
-      "source": "walkermn.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Federal probe targets Rep . Ilhan Omar immigration history ; agents raid DC home",
-      "url": "https://foxrochester.com/news/nation-world/federal-probe-targets-rep-ilhan-omars-immigration-history-agents-raid-dc-home-citizenship-minnesota",
-      "source": "foxrochester.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Asian markets rebound after CoreWeave stock shock",
-      "url": "https://www.naroomanewsonline.com.au/story/9369932/asian-markets-rebound-after-coreweave-stock-shock",
-      "source": "naroomanewsonline.com.au",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Ch9 crisis : Rip - off The Block prices bust up show",
-      "url": "https://www.realestate.com.au/news/ch9-crisis-ripoff-the-block-prices-bust-up-show",
-      "source": "realestate.com.au",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "US probes Omar decades - old immigration paperwork with eye toward deportation , sources say | 100 . 7 MIX - FM | Today Hit Music",
-      "url": "https://mymixfm.com/2026/10/15/us-probes-omars-decades-old-immigration-paperwork-with-eye-toward-deportation-sources-say",
-      "source": "mymixfm.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Church election probe compared to Spanish inquisition",
-      "url": "https://www.naroomanewsonline.com.au/story/9369563/church-election-probe-compared-to-spanish-inquisition",
-      "source": "naroomanewsonline.com.au",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Streeting  reassured  by Hegseth that Ukraine access to Starlink restored",
-      "url": "https://www.gazetteseries.co.uk/news/national/26641733.streeting-reassured-hegseth-ukraines-access-starlink-restored",
-      "source": "gazetteseries.co.uk",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Authorities investigate letters with  suspicious substance sent to congressional , election offices",
-      "url": "http://www.wyomingnews.com/news/from_the_wire/authorities-investigate-letters-with-suspicious-substances-sent-to-congressional-election-offices/article_5b0840da-a003-55ac-bdb9-82f8c49f4006.html",
-      "source": "wyomingnews.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Israel raises alert amid Iran war fears as Trump weighs strikes , Netanyahu wary befor",
-      "url": "https://www.ynetnews.com/article/s1ryxf13fx",
-      "source": "ynetnews.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "FBI Investigates White Powder Sent To Arizona Capitol",
-      "url": "https://720thevoice.iheart.com/content/2026-10-16-fbi-investigates-white-powder-sent-to-arizona-capitol",
-      "source": "720thevoice.iheart.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "El - Sayed Senate campaign makes a stop in Iron Mountain",
-      "url": "https://www.ironmountaindailynews.com/news/local-news/2026/10/el-sayeds-senate-campaign-makes-a-stop-in-iron-mountain",
-      "source": "ironmountaindailynews.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "BJP NV Subhash slams Rahul Gandhi over Supreme Court petition , accuses him of pushing  false narrative",
-      "url": "https://aninews.in/news/national/general-news/bjps-nv-subhash-slams-rahul-gandhi-over-supreme-court-petition-accuses-him-of-pushing-8216false-narrative821720261016085200",
-      "source": "aninews.in",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Open letter warns of Okanagan hospital specialist exodus over Interior Health policy",
-      "url": "https://saobserver.net/2026/10/15/open-letter-warns-of-okanagan-hospital-specialist-exodus-over-interior-health-policy",
-      "source": "saobserver.net",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Talarico compares his campaign to the biblical David after GOP invests over $158M against him",
-      "url": "https://www.dailypress.com/2026/10/15/talarico-compares-his-campaign-to-the-biblical-david-after-gop-invests-over-158m-against-him",
-      "source": "dailypress.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Kerr County party chair claims rival candidate violated election code",
-      "url": "https://dailytimes.com/news/kerr-county-party-chair-claims-rival-candidate-violated-election-code/article_3d9c6ee5-9662-495c-9a53-022e07c6de0c.html",
-      "source": "dailytimes.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "BAKER CITY COUNCIL VOTERS GUIDE : 5 candidates vying for 3 openings",
-      "url": "https://bakercityherald.com/2026/10/15/baker-city-council-voters-guide-5-candidates-vying-for-3-openings",
-      "source": "bakercityherald.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Malaysia : State of death penalty",
-      "url": "https://aliran.com/civil-society-voices/malaysia-state-of-death-penalty",
-      "source": "aliran.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Asian stocks rebound after tech sell - off ; Indonesia market plunges 11 %",
-      "url": "https://www.business-standard.com/markets/news/asian-stocks-rebound-after-tech-sell-off-indonesia-market-plunges-11-126101600100_1.html",
-      "source": "business-standard.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Vance invokes wife Usha in fiery Michigan attack on Democrat El - Sayed over  identity  row",
-      "url": "https://www.prokerala.com/news/articles/a1825050.html",
-      "source": "prokerala.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "FBI Investigates White Powder Sent To Arizona Capitol",
-      "url": "https://wercfm.iheart.com/content/2026-10-16-fbi-investigates-white-powder-sent-to-arizona-capitol",
-      "source": "wercfm.iheart.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Voting under fire ? How Israel plans to hold its October 27 election if missiles strik",
-      "url": "https://www.ynetnews.com/article/byp1zejhgg",
-      "source": "ynetnews.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Massive Texas backlog of voter registrations that scrambled workers has been cleared , state says",
-      "url": "http://www.wdtimes.com/news/national/massive-texas-backlog-of-voter-registrations-that-scrambled-workers-has-been-cleared-state-says/article_2cb1240a-7e05-5e14-9bab-b6f71e61e9f2.html",
-      "source": "wdtimes.com",
-      "published": "2026-10-16T04:00:00+00:00",
-      "category": "Politics"
     }
   ]
 }
