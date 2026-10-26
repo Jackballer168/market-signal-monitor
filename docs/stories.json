@@ -1,8 +1,9 @@
 {
-  "updated": "2026-10-26T13:07+00:00",
+  "updated": "2026-10-26T22:41+00:00",
   "errors": [
-    "Business: HTTPError",
-    "Politics: HTTPError"
+    "Markets: HTTPError",
+    "Politics: HTTPError",
+    "Economy: HTTPError"
   ],
   "stories": [
     {
@@ -377,6 +378,216 @@
       "category": "Economy"
     },
     {
+      "title": "SIKA FURTHER STRENGTHENS LOCAL PRESENCE BY ACQUIRING WATERPROOFING COMPANY IN THE UAE",
+      "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/globenewswire/sika-further-strengthens-local-presence-by-acquiring-waterproofing-company-in-the-uae/2453637",
+      "source": "manilatimes.net",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Ameren ( NYSE : AEE ) Stock Dropped to Sell by Wall Street Zen",
+      "url": "https://www.themarketsdaily.com/2026/10/26/ameren-nyseaee-stock-dropped-to-sell-by-wall-street-zen.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Ross Stores ( NASDAQ : ROST ) Stock Gets Downgrade from Wall Street Zen",
+      "url": "https://www.themarketsdaily.com/2026/10/26/ross-stores-nasdaqrost-stock-gets-downgrade-from-wall-street-zen.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Lazard ( NYSE : LAZ ) Stock Gets Price Target Trim from Morgan Stanley",
+      "url": "https://www.themarketsdaily.com/2026/10/26/lazard-nyselaz-stock-gets-price-target-trim-from-morgan-stanley.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Franklin Electric ( FELE ) Expected to Post Earnings on Wednesday",
+      "url": "https://www.themarketsdaily.com/2026/10/26/franklin-electric-fele-expected-to-post-earnings-on-wednesday.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Trump Calls Greenland  The Greatest Real Estate Deal in History  After Claiming Denmark  Gave  It to the US",
+      "url": "https://www.ibtimes.co.uk/trump-greenland-defence-deal-sovereignty-1827756",
+      "source": "ibtimes.co.uk",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Natural Grocers by Vitamin Cottage ( NYSE : NGVC ) Stock Bumped Down to  Hold  by Wall Street Zen",
+      "url": "https://www.themarketsdaily.com/2026/10/26/natural-grocers-by-vitamin-cottage-nysengvc-stock-bumped-down-to-hold-by-wall-street-zen.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Verisk loses Delaware Supreme Court appeal and keeps pursuing AccuLynx deal",
+      "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/verisk-loses-delaware-supreme-court-appeal-and-keeps-pursuing-acculynx-deal-594837.aspx",
+      "source": "insurancebusinessmag.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Being a Human Being Is Not Complicated : Macklemore Returns To Stage After Ed Sheeran Tour  Free Palestine  Fallout",
+      "url": "https://www.ibtimes.co.uk/macklemore-returns-after-ed-sheeran-tour-removal-1827730",
+      "source": "ibtimes.co.uk",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Trimble ( NASDAQ : TRMB ) Raised to  Buy  at Wall Street Zen",
+      "url": "https://www.themarketsdaily.com/2026/10/26/trimble-nasdaqtrmb-raised-to-buy-at-wall-street-zen.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Airbnb CEO Brian Chesky Warns 2 Types of Workers  Will Not Survive  AI : Are You at Risk ?",
+      "url": "https://www.ibtimes.co.uk/airbnb-ceo-warns-managers-ai-resisters-1827738",
+      "source": "ibtimes.co.uk",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Generac ( NYSE : GNRC ) Downgraded by Wall Street Zen to  Buy",
+      "url": "https://www.themarketsdaily.com/2026/10/26/generac-nysegnrc-downgraded-by-wall-street-zen-to-buy.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "M / I Homes ( NYSE : MHO ) Stock Gets Price Target Trim from Freedom Broker",
+      "url": "https://www.themarketsdaily.com/2026/10/26/m-i-homes-nysemho-stock-gets-price-target-trim-from-freedom-broker.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "BETA Technologies ( NYSE : BETA ) Rating Lowered to  Sell  at Wall Street Zen",
+      "url": "https://www.themarketsdaily.com/2026/10/26/beta-technologies-nysebeta-rating-lowered-to-sell-at-wall-street-zen.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Four Corners Property Trust ( FCPT ) Set to Announce Quarterly Earnings on Wednesday",
+      "url": "https://www.themarketsdaily.com/2026/10/26/four-corners-property-trust-fcpt-set-to-announce-quarterly-earnings-on-wednesday.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "NOV ( NOV ) Expected to Release Quarterly Earnings on Tuesday",
+      "url": "https://www.themarketsdaily.com/2026/10/26/nov-nov-expected-to-release-quarterly-earnings-on-tuesday.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "GE Vernova ( GEV ) Set to Announce Earnings on Wednesday",
+      "url": "https://www.themarketsdaily.com/2026/10/26/ge-vernova-gev-set-to-announce-earnings-on-wednesday.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "What is expected in Wednesday Budget as  rise ruled out",
+      "url": "https://www.hulldailymail.co.uk/news/cost-of-living/what-expected-wednesdays-budget-rise-11213794",
+      "source": "hulldailymail.co.uk",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Helium Added to U . S . Department of Energy Critical Material List",
+      "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/globenewswire/helium-added-to-us-department-of-energy-critical-material-list/2453634",
+      "source": "manilatimes.net",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Rajinikanth Jailer 2 Becomes Highest Tamil Grosser Beating 2 . 0",
+      "url": "https://www.mensxp.com/entertainment/regional/186492-jailer-2-tamil-biggest-grosser-beating-20-11-days-box-office.html",
+      "source": "mensxp.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Senco Gold Buys Melorra Stake - TeluguPeople . com News",
+      "url": "https://www.telugupeople.com/news/news.asp?newsId=109070",
+      "source": "telugupeople.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Enlight Renewable Energy ( NASDAQ : ENLT ) Stock Rating Cut to  Sell  at Wall Street Zen",
+      "url": "https://www.themarketsdaily.com/2026/10/26/enlight-renewable-energy-nasdaqenlt-stock-rating-cut-to-sell-at-wall-street-zen.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Honeywell International ( NASDAQ : HON ) Stock Gets Price Target Cut from Royal Bank Of Canada",
+      "url": "https://www.themarketsdaily.com/2026/10/26/honeywell-international-nasdaqhon-stock-gets-price-target-cut-from-royal-bank-of-canada.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "SPS Commerce ( NASDAQ : SPSC ) Upgraded to Buy at Wall Street Zen",
+      "url": "https://www.themarketsdaily.com/2026/10/26/sps-commerce-nasdaqspsc-upgraded-to-buy-at-wall-street-zen.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "China Expands E - Commerce Infrastructure as Online Retail Drives Nearly Half of Consumer Growth",
+      "url": "https://www.chinatechnews.com/2026/10/26/131351-china-expands-e-commerce-infrastructure-as-online-retail-drives-nearly-half-of-consumer-growth",
+      "source": "chinatechnews.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Northern Trust ( NASDAQ : NTRS ) Stock Gets Price Target Reduction from Citigroup",
+      "url": "https://www.themarketsdaily.com/2026/10/26/northern-trust-nasdaqntrs-stock-gets-price-target-reduction-from-citigroup.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Plans Dividend of $0 . 03",
+      "url": "https://www.themarketsdaily.com/2026/10/26/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-plans-dividend-of-0-03-8.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Helium Added to U . S . Department of Energy Critical Material List",
+      "url": "https://www.thewhig.com/press-releases/globe-newswire/helium-added-to-u-s-department-of-energy-critical-material-list",
+      "source": "thewhig.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Rollins ( NYSE : ROL ) Price Target Raised to $37 . 00",
+      "url": "https://www.themarketsdaily.com/2026/10/26/rollins-nyserol-price-target-raised-to-37-00.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Polavaram Reaches 90 . 1 % Progress - TeluguPeople . com News",
+      "url": "https://www.telugupeople.com/news/news.asp?newsID=109075",
+      "source": "telugupeople.com",
+      "published": "2026-10-26T07:15:00+00:00",
+      "category": "Business"
+    },
+    {
       "title": "Oil Up , Tech Down",
       "url": "http://www.zerohedge.com/news/2026-10-24/oil-tech-down",
       "source": "zerohedge.com",
@@ -634,6 +845,62 @@
       "source": "business.scoop.co.nz",
       "published": "2026-10-26T05:00:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Jane Fraser Citi Overhaul Faces Its Latest Earnings Test",
+      "url": "https://observer.com/2026/10/jane-fraser-citigroup-restructuring-returns",
+      "source": "observer.com",
+      "published": "2026-10-26T05:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "7 Workforce Planning Platforms for Employers Trying to Raise Productivity Without Overhiring",
+      "url": "https://en.mercopress.com/2026/10/25/7-workforce-planning-platforms-for-employers-trying-to-raise-productivity-without-overhiring",
+      "source": "en.mercopress.com",
+      "published": "2026-10-26T05:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "ACT Publishes Manifesto With $22b In Cuts , Ditches Migration Promise",
+      "url": "https://www.scoop.co.nz/stories/PO2610/S00169/act-publishes-manifesto-with-22b-in-cuts-ditches-migration-promise.htm",
+      "source": "scoop.co.nz",
+      "published": "2026-10-26T05:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Infosys shares fall 4 % after IT major lowers FY27 guidance . What are Goldman Sachs , Nomura , others saying ?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-shares-fall-4-after-it-major-lowers-fy27-guidance-what-are-goldman-sachs-nomura-others-saying/articleshow/135202432.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-10-26T05:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Kotak Mahindra Bank shares climb 4 % after Q2 results . What are Jefferies , Goldman Sachs saying ?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-climb-4-after-q2-results-what-are-jefferies-goldman-sachs-saying/articleshow/135202411.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-10-26T05:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Baby orangutans in India expose illegal wildlife trade as experts question a billionaire zoo",
+      "url": "https://www.niagarafallsreview.ca/business/baby-orangutans-in-india-expose-illegal-wildlife-trade-as-experts-question-a-billionaire-s-zoo/article_b93daaee-a53c-50dd-ab5d-c417b457efe4.html",
+      "source": "niagarafallsreview.ca",
+      "published": "2026-10-26T05:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "IndusInd Bank shares rise 2 % after Q2 results . Why Jefferies cut target price despite lender swinging to profit",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indusind-bank-shares-in-focus-after-q2-results-why-jefferies-cut-target-despite-lender-swinging-to-profit/articleshow/135202240.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-10-26T05:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Global Market : China yuan hits four - year high as dollar weakens ahead of policy meetings",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-four-year-high-as-dollar-weakens-ahead-of-policy-meetings/articleshow/135202635.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-10-26T05:00:00+00:00",
+      "category": "Business"
     },
     {
       "title": "Macklemore demands  Free Palestine  as he makes return to stage after Ed Sheeran row",
@@ -6738,272 +7005,6 @@
       "source": "willistonherald.com",
       "published": "2026-10-21T11:00:00+00:00",
       "category": "Politics"
-    },
-    {
-      "title": "Can Alberta actually control , limit immigration ? What we know",
-      "url": "https://www.niagarafallsreview.ca/news/canada/why-results-of-alberta-s-immigration-referendum-might-not-mean-what-voters-think/article_dff1aa15-f51f-52f4-a459-d5c42479364a.html",
-      "source": "niagarafallsreview.ca",
-      "published": "2026-10-21T11:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Trump looms large in rematch for Wisconsin attorney general",
-      "url": "https://www.wpr.org/news/josh-kaul-eric-toney-rematch-attorney-general-2026",
-      "source": "wpr.org",
-      "published": "2026-10-21T11:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "CJP Activists Saurav Das , Ashutosh Ranka Withdraw Plea Against Judicial Custody in Delhi HC",
-      "url": "https://www.newsx.com/india/cjp-activists-saurav-das-ashutosh-ranka-withdraw-plea-against-judicial-custody-in-delhi-hc-285717",
-      "source": "newsx.com",
-      "published": "2026-10-21T11:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "French PM Lecornu promises massive security operation",
-      "url": "http://www.bostonstar.com/news/279387916/french-pm-lecornu-promises-massive-security-operation",
-      "source": "bostonstar.com",
-      "published": "2026-10-21T11:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Dark money groups spend big to remake Colorado elections , fundraising reports show",
-      "url": "https://www.eptrail.com/2026/10/21/amendment-84-dark-money-fundraising-governors-race",
-      "source": "eptrail.com",
-      "published": "2026-10-21T11:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Pakistan - Taliban conflict : Can India take advantage ?",
-      "url": "https://www.dw.com/en/pakistan-taliban-conflict-how-india-could-benefit-from-shifting-regional-dynamics/a-79721426",
-      "source": "dw.com",
-      "published": "2026-10-21T11:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "BMO Deepens Commitment to Canada Defence Sector",
-      "url": "https://www.cantechletter.com/newswires/bmo-deepens-commitment-to-canadas-defence-sector",
-      "source": "cantechletter.com",
-      "published": "2026-10-21T11:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Accommodation Only Services for People Experiencing Homelessness - Private Rented Sector Accommodation : | Construction Tenders",
-      "url": "https://www.theconstructionindex.co.uk/tenders/view/42336",
-      "source": "theconstructionindex.co.uk",
-      "published": "2026-10-21T11:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Following high - profile crimes involving police officers , Latvia Interior Ministry reviews State Police operations – findings revealed",
-      "url": "https://bnn-news.com/latvia/following-high-profile-crimes-involving-police-officers-latvia-s-interior-ministry-reviews-state-police-operations-findi-hs45tnu",
-      "source": "bnn-news.com",
-      "published": "2026-10-21T11:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Best arbitrage mutual funds to invest in October 2026",
-      "url": "https://economictimes.indiatimes.com/mf/analysis/best-arbitrage-mutual-funds-to-invest-in-october-2026/articleshow/135081594.cms",
-      "source": "economictimes.indiatimes.com",
-      "published": "2026-10-21T04:15:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Telix Pharmaceuticals Shares Slide 6 . 6 % as Radiopharmaceutical Stock Extends Volatile 2026 Run on the ASX",
-      "url": "https://www.ibtimes.com.au/telix-pharmaceuticals-shares-fall-amid-volatility-1877081",
-      "source": "ibtimes.com.au",
-      "published": "2026-10-21T04:15:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "2026 Election : California Ballot proposition endorsements from our opinion team could help make tough choices",
-      "url": "https://www.whittierdailynews.com/2026/10/20/2026-election-california-ballot-proposition-endorsements-from-our-opinion-team-could-help-make-tough-choices",
-      "source": "whittierdailynews.com",
-      "published": "2026-10-21T04:15:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "France to Deploy Military as Protests Escalate",
-      "url": "https://jp.ibtimes.com/france-military-protests-escalate-104851",
-      "source": "jp.ibtimes.com",
-      "published": "2026-10-21T04:15:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "GenusPlus Shares Slip 3 . 7 % as NextDC Power Delay Rattles Australian Infrastructure and Electrical Contractors",
-      "url": "https://www.ibtimes.com.au/genusplus-shares-fall-nextdc-data-centre-selloff-1877075",
-      "source": "ibtimes.com.au",
-      "published": "2026-10-21T04:15:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Chinese premier says to promote deeper , more substantive , more resilient cooperation with Russia",
-      "url": "http://www.chinanationalnews.com/news/279388502/chinese-premier-says-to-promote-deeper-more-substantive-more-resilient-cooperation-with-russia",
-      "source": "chinanationalnews.com",
-      "published": "2026-10-21T04:15:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Japan Stock Market May Stop The Bleeding On Wednesday",
-      "url": "https://www.rttnews.com/story.aspx?Id=3700771",
-      "source": "rttnews.com",
-      "published": "2026-10-21T04:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Higher Open Called For Taiwan Stock Market",
-      "url": "https://www.rttnews.com/story.aspx?Id=3700777",
-      "source": "rttnews.com",
-      "published": "2026-10-21T04:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Mobile wallet operator GCash parent Mynt ends flat after record Philippine IPO",
-      "url": "https://interaksyon.philstar.com/trends-spotlights/2026/10/21/320786/mobile-wallet-operator-gcash-parent-mynt-flat-record-philippine-ipo",
-      "source": "interaksyon.philstar.com",
-      "published": "2026-10-21T04:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "ETMarkets Smart Talk| India next wealth creators may be hidden in specialised manufacturing and energy infrastructure : Paresh Bhagat",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-indias-next-wealth-creators-may-be-hidden-in-specialised-manufacturing-and-energy-infrastructure-paresh-bhagat/articleshow/135081263.cms",
-      "source": "economictimes.indiatimes.com",
-      "published": "2026-10-21T04:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Mareeba Farming Portfolio listed for sale by Howe family | North Queensland Register",
-      "url": "https://www.northqueenslandregister.com.au/story/9371727/mareeba-farming-portfolio-listed-for-sale-by-howe-family",
-      "source": "northqueenslandregister.com.au",
-      "published": "2026-10-21T04:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Australian Market Slightly Lower",
-      "url": "https://www.rttnews.com/story.aspx?Id=3700794",
-      "source": "rttnews.com",
-      "published": "2026-10-21T04:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Win Streak May Continue For China Stock Market",
-      "url": "https://www.rttnews.com/story.aspx?Id=3700778",
-      "source": "rttnews.com",
-      "published": "2026-10-21T04:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Thai Shares Due For Support On Wednesday",
-      "url": "https://www.rttnews.com/story.aspx?Id=3700772",
-      "source": "rttnews.com",
-      "published": "2026-10-21T04:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Most US stocks rise following strong profit reports from Equifax , other big companies",
-      "url": "https://www.eldoradonews.com/news/2026/oct/20/most-us-stocks-rise-following-strong-profit",
-      "source": "eldoradonews.com",
-      "published": "2026-10-21T04:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Malaysia Stock Market May Tick Higher Again On Wednesday",
-      "url": "https://www.rttnews.com/story.aspx?Id=3700773",
-      "source": "rttnews.com",
-      "published": "2026-10-21T04:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
-      "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792552852.77cbf549ba39ad80",
-      "source": "decrypt.co",
-      "published": "2026-10-21T04:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Japanese Market Significantly Higher",
-      "url": "https://www.rttnews.com/story.aspx?Id=3700799",
-      "source": "rttnews.com",
-      "published": "2026-10-21T04:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "How Bad Would It Get If China Blocks Rare Earths to America ?",
-      "url": "https://oilprice.com/Energy/Energy-General/How-Bad-Would-It-Get-If-China-Blocks-Rare-Earths-to-America.html",
-      "source": "oilprice.com",
-      "published": "2026-10-21T04:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Indonesia Stock Market May Extend Tuesday Gains",
-      "url": "https://www.rttnews.com/story.aspx?Id=3700774",
-      "source": "rttnews.com",
-      "published": "2026-10-21T04:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Stock Market LIVE : Sensex rises nearly 500 pts at pre - open , Nifty tops 22 , 800 ; Asia markets advance",
-      "url": "https://www.business-standard.com/markets/news/stock-market-live-october-21-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-platforms-ipo-today-hd-fire-protect-share-price-126102100078_1.html",
-      "source": "business-standard.com",
-      "published": "2026-10-21T04:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Chinese premier says to promote deeper , more substantive , more resilient cooperation with Russia",
-      "url": "http://www.beijingbulletin.com/news/279388502/chinese-premier-says-to-promote-deeper-more-substantive-more-resilient-cooperation-with-russia",
-      "source": "beijingbulletin.com",
-      "published": "2026-10-21T03:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Mnangagwa urges COMESA states to boost regional trade",
-      "url": "https://www.newzimbabwe.com/mnangagwa-urges-comesa-states-to-boost-regional-trade",
-      "source": "newzimbabwe.com",
-      "published": "2026-10-21T03:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Super Micro stock soars after surprise update - with Dell and HPE shares joining the rally",
-      "url": "https://www.morningstar.com/news/marketwatch/20261020430/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally",
-      "source": "morningstar.com",
-      "published": "2026-10-21T02:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Capital One ( COF ) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.aol.com/articles/capital-one-cof-q3-2026-011311000.html",
-      "source": "aol.com",
-      "published": "2026-10-21T02:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Rupee and the price of dodging a century - The HinduBusinessLine",
-      "url": "https://www.thehindubusinessline.com/opinion/rupee-and-the-price-of-dodging-a-century/article71604836.ece",
-      "source": "thehindubusinessline.com",
-      "published": "2026-10-21T02:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Hancock Whitney ( HWC ) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.aol.com/articles/hancock-whitney-hwc-q3-2026-005829000.html",
-      "source": "aol.com",
-      "published": "2026-10-21T02:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Howe family lists 1258ha Mareeba portfolio after review | Stock & Land",
-      "url": "https://www.stockandland.com.au/story/9372511/howe-family-lists-1258ha-mareeba-portfolio-after-review",
-      "source": "stockandland.com.au",
-      "published": "2026-10-21T02:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Inflation is a different beast now , and we need new tools to tackle it",
-      "url": "https://www.crikey.com.au/2026/10/21/inflation-australia-cost-of-living-rba-income-tax-gst",
-      "source": "crikey.com.au",
-      "published": "2026-10-21T02:30:00+00:00",
-      "category": "Markets"
     }
   ]
 }
