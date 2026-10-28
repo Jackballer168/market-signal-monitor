@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-28T05:45+00:00",
+  "updated": "2026-10-28T12:58+00:00",
   "errors": [
     "Markets: HTTPError",
-    "Politics: HTTPError",
+    "Business: HTTPError",
     "Economy: HTTPError"
   ],
   "stories": [
