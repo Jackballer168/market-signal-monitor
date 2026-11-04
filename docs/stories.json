@@ -1,12 +1,361 @@
 {
-  "updated": "2026-11-03T23:25+00:00",
+  "updated": "2026-11-04T06:26+00:00",
   "errors": [
     "Markets: HTTPError",
     "Business: HTTPError",
-    "Politics: HTTPError",
     "Economy: HTTPError"
   ],
   "stories": [
+    {
+      "title": "Beware the  Red Mirage  if California Republicans Have an Election Night Lead",
+      "url": "https://www.northcoastjournal.com/news-2/news-blog/beware-the-red-mirage-if-california-republicans-have-an-election-night-lead",
+      "source": "northcoastjournal.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "ELECTION 2026 : Miami County sees large voter turnout",
+      "url": "https://www.whio.com/news/local/miami-county-voters-decide-tax-levy/LD7SSAN4SZACLB2F54WYLPDOQE",
+      "source": "whio.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Midterm Elections Live Updates : Ossoff Retains Georgia Senate Seat , as Polls Close in More Battlegrounds",
+      "url": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/were-watching-several-areas-in-texas-as-polls-close-there",
+      "source": "nytimes.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Democratic Sen . Jon Ossoff cruises to re - election in Georgia",
+      "url": "https://www.nbcnewyork.com/elections/georgia-senate-race-2026/6567183",
+      "source": "nbcnewyork.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Presidents of Uzbekistan and Turkey sign agreement to establish High - Level Business Support Council",
+      "url": "https://akipress.com/news:929134:Presidents_of_Uzbekistan_and_Turkey_sign_agreement_to_establish_High-Level_Business_Support_Council",
+      "source": "akipress.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "US midterms in charts : What the data tells us",
+      "url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886",
+      "source": "dw.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Cost of living , economy and unhappiness with Trump job performance among early voting takeaways",
+      "url": "https://www.wthitv.com:443/2026/11/03/cost-living-economy-unhappiness-with-trumps-job-performance-among-early-voting-takeaways",
+      "source": "wthitv.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "US to cut Israel military aid by end of year , Trump says",
+      "url": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860",
+      "source": "dw.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Election Day 2026 : Photos from around the country",
+      "url": "https://www.wxxinews.org/npr-news/2026-11-03/election-day-2026-photos-from-around-the-country",
+      "source": "wxxinews.org",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Union of B . C . Municipalities appoints new president after incumbent loses mayoral race",
+      "url": "https://pqbnews.com/2026/11/03/union-of-b-c-municipalities-appoints-new-president-after-incumbent-loses-mayoral-race",
+      "source": "pqbnews.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Baker takes commanding lead in early voting for 1st District seat",
+      "url": "https://coastalcourier.com/news/baker-takes-commanding-lead-in-early-voting-for-1st-district-seat",
+      "source": "coastalcourier.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Almost 200 , 000 people in Northern Ireland at risk of needing to use food banks , charity says",
+      "url": "https://www.irishnews.com/news/northern-ireland/almost-200000-people-in-northern-ireland-at-risk-of-needing-to-use-food-banks-charity-says-GDWYYG47M5CNVA5PLVRUSVOZTY",
+      "source": "irishnews.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Swinney backs rules on people with limited leave to remain standing for election",
+      "url": "https://www.impartialreporter.com/news/national/26696552.swinney-backs-rules-people-limited-leave-remain-standing-election",
+      "source": "impartialreporter.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Election credibility at stake , from Maine to Alaska",
+      "url": "https://www.bostonherald.com/2026/11/03/battenfeld-election-credibility-on-the-line-from-maine-to-alaska",
+      "source": "bostonherald.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "DOJ sends letters in Alaska spoiler candidate probe",
+      "url": "https://www.suncommercial.com/brazil_times/news/national/article_b0568233-6c47-5536-add2-cb46e860a7e7.html",
+      "source": "suncommercial.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Jon Ossoff wins reelection in Georgia , easily defeating Republican Mike Collins",
+      "url": "https://www.wxxinews.org/npr-news/2026-11-03/jon-ossoff-wins-reelection-in-georgia-easily-defeating-republican-mike-collins",
+      "source": "wxxinews.org",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "A referendum on Trump , election monitors and a Democratic shift : What to watch on Election Day",
+      "url": "https://lazer993.com/news/030030-a-referendum-on-trump-election-monitors-and-a-democratic-shift-what-to-watch-on-election-day",
+      "source": "lazer993.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Early Exit Polls Show Voters See Midterms As A Rebuke On Trump Administration",
+      "url": "https://wrak.iheart.com/content/2026-11-03-early-exit-polls-show-voters-see-midterms-as-a-rebuke-on-trump-administration",
+      "source": "wrak.iheart.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Ogun indigenes reaffirm support for Adebutu ahead of 2027",
+      "url": "https://www.vanguardngr.com/2026/11/ogun-indigenes-reaffirm-support-for-adebutu-ahead-of-2027",
+      "source": "vanguardngr.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "US midterms : JD Vance says administration fought replacement of American workers with lower - wage foreign employees",
+      "url": "http://www.newyorkstatesman.com/news/279410172/us-midterms-jd-vance-says-administration-fought-replacement-of-american-workers-with-lower-wage-foreign-employees",
+      "source": "newyorkstatesman.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "B . C . Conservative Party raised nearly $2 . 5M in the 10 days after Findlay quit",
+      "url": "https://campbellrivermirror.com/2026/11/03/b-c-conservative-party-raised-nearly-2-5m-in-the-10-days-after-findlay-quit",
+      "source": "campbellrivermirror.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "What Democrats plan to prioritize if they retake the House",
+      "url": "https://www.wxxinews.org/npr-news/2026-11-03/what-democrats-plan-to-prioritize-if-they-retake-the-house",
+      "source": "wxxinews.org",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Jamaican man accused of voting illegally in US elections over 22 years",
+      "url": "https://www.jamaicaobserver.com/2026/11/03/jamaican-man-accused-voting-illegally-us-elections-22-years",
+      "source": "jamaicaobserver.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Connecticut bakers are bringing joy back to election day , one cake at a time",
+      "url": "https://www.southcarolinapublicradio.org/news/2026-11-03/connecticut-bakers-are-bringing-joy-back-to-election-day-one-cake-at-a-time",
+      "source": "southcarolinapublicradio.org",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump rages at Fox News over  dumb as a rock  commentator :  It the voice that gets me",
+      "url": "https://www.rawstory.com/trump-fox-news-2678216197",
+      "source": "rawstory.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Panton Rejects Dean Barrow Election Loss Prediction | Greater Belize Media Panton Rejects Dean Barrow Election Loss Prediction",
+      "url": "https://www.greaterbelize.com/panton-rejects-dean-barrows-election-loss-prediction",
+      "source": "greaterbelize.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Public will expect me to grab EU deal with both hands , Burnham claims",
+      "url": "https://www.maldonandburnhamstandard.co.uk/news/national/26696668.public-will-expect-grab-eu-deal-hands-burnham-claims",
+      "source": "maldonandburnhamstandard.co.uk",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Labour used to call this privatisation",
+      "url": "https://www.kiwiblog.co.nz/2026/11/labour_used_to_call_this_privatisation.html",
+      "source": "kiwiblog.co.nz",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Staggering midterm elections poll shows Donald Trump  worst President since polling began",
+      "url": "https://www.mirror.co.uk/news/politics/midterm-election-poll-donald-trump-37840389",
+      "source": "mirror.co.uk",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "LIVE Blog : Decision 2026 - The Midterm Elections",
+      "url": "https://ktvz.com/news/election/2026/11/02/live-blog-decision-2026-the-midterm-elections",
+      "source": "ktvz.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Hawaii voters line up to cast their ballots on Election Day | Honolulu Star - Advertiser",
+      "url": "https://www.staradvertiser.com/2026/11/03/breaking-news/hawaii-voters-line-up-to-cast-their-ballots-on-election-day",
+      "source": "staradvertiser.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Cramer lightning round : Buy FedEx Freight",
+      "url": "https://www.cnbc.com/2026/11/03/cramers-lightning-round-buy-fedex-freight.html",
+      "source": "cnbc.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Private equity takeover of homecare has been detrimental to workers , reports reveal",
+      "url": "http://thechiefleader.com/stories/private-equity-s-takeover-of-homecare-has-been-detrimental-to-workers-reports-reveal,57955",
+      "source": "thechiefleader.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Midterm elections could shape Trump agenda",
+      "url": "https://www.wyff4.com/article/midterm-elections-trump-last-two-years/74327027",
+      "source": "wyff4.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Could America Next Critical - Minerals Opportunity Be Taking Shape ? ...",
+      "url": "https://www.pr-inside.com/could-america-s-next-critical-minerals-opportunity-be-taking-shape-r5240339.htm",
+      "source": "pr-inside.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Spain transport minister resigns after deadly high - speed train crash",
+      "url": "https://www.abc.net.au/news/2026-11-04/spanish-minister-resigns-after-deadly-train-collision/107344438",
+      "source": "abc.net.au",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Colorado election results liveblog 2026 : Live results , analysis and coverage",
+      "url": "https://www.denverpost.com/2026/11/03/colorado-election-results-liveblog-analysis",
+      "source": "denverpost.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Find Your Polling Place & Election Results Here – KIWA Radio",
+      "url": "https://kiwaradio.com/news/find-your-polling-place-election-results-here",
+      "source": "kiwaradio.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "As Americans vote , Trump says US will stop US$4b in aid to Israel",
+      "url": "https://www.asiaone.com/world/americans-vote-trump-says-us-will-stop-us4b-aid-israel",
+      "source": "asiaone.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Monterey County Election Results 2026 : Live Updates | News",
+      "url": "https://www.montereycountynow.com/blogs/news_blog/live-results-monterey-county-elections-2026/article_286b03a5-9b44-427c-8852-7676c2991b53.html",
+      "source": "montereycountynow.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Texas 2026 live midterm election results",
+      "url": "https://abc7chicago.com/story/texas-2026-live-midterm-election-results/20012996",
+      "source": "abc7chicago.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://wjjz.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day",
+      "source": "wjjz.iheart.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "It is a cappuccino . It cant be $10 , says Harry Styles about NYC coffee prices | 96 . 3 Jack FM | Playing What We Want",
+      "url": "https://963jackfm.com/2026/11/03/it-is-a-cappuccino-it-cant-be-10-says-harry-styles-about-nyc-coffee-prices",
+      "source": "963jackfm.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "What a provisional ballot ?",
+      "url": "https://abc11.com/live-updates/nc-midterm-elections-2026-hot-us-senate-house-races-road-balance-power-runs-north-carolina/20009167/entry/20013118",
+      "source": "abc11.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Electronic Voting Debuts For STA Tribal Election - Daily Sitka Sentinel",
+      "url": "http://www.sitkasentinel.com/stories/electronic-voting-debuts-for-sta-tribal-election,183667",
+      "source": "sitkasentinel.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Wallowa County topping voter turnout in Oregon | Blue Mountain Eagle",
+      "url": "https://bluemountaineagle.com/2026/11/03/wallowa-county-topping-voter-turnout-in-oregon",
+      "source": "bluemountaineagle.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Early Exit Polls Show Voters See Midterms As A Rebuke On Trump Administration",
+      "url": "https://realradio.iheart.com/content/2026-11-03-early-exit-polls-show-voters-see-midterms-as-a-rebuke-on-trump-administration",
+      "source": "realradio.iheart.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Voting delayed in different Michigan counties due to malfunctioning tabulators",
+      "url": "https://nbc16.com/news/nation-world/voting-delayed-in-different-michigan-counties-due-to-malfunctioning-tabulators-doj-scott-presler",
+      "source": "nbc16.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "US Midterms : Vivek Ramaswamy fate on the line as polls close in Ohio , Georgia , North Caroline and other states",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-midterms-vivek-ramaswamys-fate-on-the-line-as-polls-close-in-ohio-georgia-north-caroline-and-other-states/articleshow/135517230.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Early Exit Polls Show Voters See Midterms As A Rebuke On Trump Administration",
+      "url": "https://newsradio540.iheart.com/content/2026-11-03-early-exit-polls-show-voters-see-midterms-as-a-rebuke-on-trump-administration",
+      "source": "newsradio540.iheart.com",
+      "published": "2026-11-04T01:30:00+00:00",
+      "category": "Politics"
+    },
     {
       "title": "Messy ,  divided  and  scary : swing voters rate the country ahead of Election Day",
       "url": "https://www.ksmu.org/2026-11-03/messy-divided-and-scary-swing-voters-rate-the-country-ahead-of-election-day",
@@ -6655,356 +7004,6 @@
       "url": "https://www.aol.com/articles/50-401-k-nothing-outside-200300000.html",
       "source": "aol.com",
       "published": "2026-10-21T21:15:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Wall Street climbs after SpaceX third - quarters earnings",
-      "url": "http://www.brazilsun.com/news/279390725/wall-street-climbs-after-spacex-third-quarters-earnings",
-      "source": "brazilsun.com",
-      "published": "2026-10-21T21:15:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Wall Street climbs after SpaceX third - quarters earnings",
-      "url": "http://www.newzealandstar.com/news/279390725/wall-street-climbs-after-spacex-third-quarters-earnings",
-      "source": "newzealandstar.com",
-      "published": "2026-10-21T21:15:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Alpha Architect U . S . Quantitative Momentum ETF ( NASDAQ : QMOM ) Stock Jumps 0 . 4 % – Here Why",
-      "url": "https://www.dailypolitical.com/2026/10/21/alpha-architect-u-s-quantitative-momentum-etf-nasdaqqmom-stock-jumps-0-4-heres-why.html",
-      "source": "dailypolitical.com",
-      "published": "2026-10-21T20:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Qualitas Profit Beats Forecast by 23 %",
-      "url": "https://www.riotimesonline.com/qualitas-mexico-insurer-q3-2026-profit-beats-forecast-2026",
-      "source": "riotimesonline.com",
-      "published": "2026-10-21T20:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Mexican Stock Exchange Profit Rises 1 %",
-      "url": "https://www.riotimesonline.com/mexican-stock-exchange-profit-rises-2026",
-      "source": "riotimesonline.com",
-      "published": "2026-10-21T20:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Nasdaq surges on Space X 3rd quarter revenue growth",
-      "url": "http://www.laosnews.net/news/279390725/nasdaq-surges-on-space-x-3rd-quarter-revenue-growth",
-      "source": "laosnews.net",
-      "published": "2026-10-21T20:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Wall Street climbs after SpaceX third - quarters earnings",
-      "url": "http://www.europesun.com/news/279390725/wall-street-climbs-after-spacex-third-quarters-earnings",
-      "source": "europesun.com",
-      "published": "2026-10-21T20:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "New York City comptroller Israel Bond axe :  Indefensible  | The Jewish Star",
-      "url": "http://www.thejewishstar.com/stories/new-york-city-comptrollers-israel-bond-axe-indefensible,27000",
-      "source": "thejewishstar.com",
-      "published": "2026-10-21T20:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "European Civil Unrest Highlights the Social Crisis in the Western Industrial States",
-      "url": "https://wibailoutpeople.org/2026/10/21/european-civil-unrest-highlights-the-social-crisis-in-the-western-industrial-states",
-      "source": "wibailoutpeople.org",
-      "published": "2026-10-21T20:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "FinancialContent - Texas Instruments ( NASDAQ : TXN ) Q3 sales top estimates",
-      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-21-texas-instrumentss-nasdaqtxn-q3-sales-top-estimates",
-      "source": "markets.financialcontent.com",
-      "published": "2026-10-21T20:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "One day , we will find ourselves all together | The Jewish Star",
-      "url": "http://www.thejewishstar.com/stories/one-day-we-will-find-ourselves-all-together,27017",
-      "source": "thejewishstar.com",
-      "published": "2026-10-21T20:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Ohio 2026 Senate race : What to know about Sherrod Brown vs Jon Husted",
-      "url": "https://www.fox7austin.com/news/key-senate-race-ohio",
-      "source": "fox7austin.com",
-      "published": "2026-10-21T20:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Kinder Morgan Reports Record Third Quarter 2026 Financial Results",
-      "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/kinder-morgan-reports-record-third-quarter-2026-financial-results",
-      "source": "brantfordexpositor.ca",
-      "published": "2026-10-21T20:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "South Africa Fuel Levy Cut Starts 4 November",
-      "url": "https://www.riotimesonline.com/south-africa-fuel-levy-cut-diesel-petrol-2026",
-      "source": "riotimesonline.com",
-      "published": "2026-10-21T20:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "North Bend proposes five year levy to fund municipal pool operations",
-      "url": "https://nbc16.com/news/coos-county-oregon/north-bend-proposes-five-year-levy-to-fund-municipal-pool-operations",
-      "source": "nbc16.com",
-      "published": "2026-10-21T20:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "South Africa Core Inflation Eases to 4 . 0 %",
-      "url": "https://www.riotimesonline.com/south-africa-core-inflation-eases-2026",
-      "source": "riotimesonline.com",
-      "published": "2026-10-21T20:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Nvidia vs . Microsoft : Is NVDA Explosive Growth Being Undervalued ?",
-      "url": "https://www.insidermonkey.com/news/nvidia-vs-microsoft-is-nvdas-explosive-growth-being-undervalued-1854725",
-      "source": "insidermonkey.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Redding Chico Eureka",
-      "url": "https://krcrtv.com/news/nation-world/detectives-seek-additional-victims-after-two-arrested-in-pbso-fake-officer-robbery-spree-florida-news-local-news-florida-crime-local-crime",
-      "source": "krcrtv.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Wall Street ticks higher after SpaceX helps lift AI stocks",
-      "url": "https://www.columbian.com/news/2026/oct/21/wall-street-ticks-higher-after-spacex-helps-lift-ai-stocks",
-      "source": "columbian.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Bank of America ( BAC ): Is Its Wealth Business More Valuable Than the Headline Bank Suggests ?",
-      "url": "https://www.insidermonkey.com/news/bank-of-america-bac-is-its-wealth-business-more-valuable-than-the-headline-bank-suggests-1851697",
-      "source": "insidermonkey.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "The Dollar Is Falling . So Why Isnt Gold Rallying ?",
-      "url": "https://www.investorideas.com/news/2026/mining/10211-the-dollar-is-falling-so-why-isnt-gold-rallying.asp",
-      "source": "investorideas.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Should You Forget Realty Income and Buy a BDC Instead ?",
-      "url": "https://www.aol.com/articles/forget-realty-income-buy-bdc-160000000.html",
-      "source": "aol.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "US stocks nudge higher as SpaceX , Tesla and Nvidia climb",
-      "url": "https://www.pilotonline.com/2026/10/21/wall-street-earnings-reports",
-      "source": "pilotonline.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Belapur Court Acquits 12 Activists In 2012 Koparkhairane College Protest Case After 14 - Year Legal Battle",
-      "url": "https://www.freepressjournal.in/education/belapur-court-acquits-12-activists-in-2012-koparkhairane-college-protest-case-after-14-year-legal-battle",
-      "source": "freepressjournal.in",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Here why I changed my mind on these 3 retirement topics",
-      "url": "https://www.paradisepost.com/2026/10/21/retirement-changes-personal-finanance",
-      "source": "paradisepost.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "2 men arrested after allegedly posing as police officers , robbing three people in one day",
-      "url": "https://upnorthlive.com/news/nation-world/detectives-seek-additional-victims-after-two-arrested-in-pbso-fake-officer-robbery-spree-florida-news-local-news-florida-crime-local-crime",
-      "source": "upnorthlive.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Nasdaq rises as SpaceX , Super Micro boost AI appetite",
-      "url": "https://www.edenmagnet.com.au/story/9373039/nasdaq-rises-as-spacex-super-micro-boost-ai-appetite",
-      "source": "edenmagnet.com.au",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Bitcoin Price Analysis : Recent Buyers Break Even Near $87 , 700 . Could Their Selling Stop BTC Rally ?",
-      "url": "https://www.aol.com/articles/bitcoin-price-analysis-recent-buyers-161645000.html",
-      "source": "aol.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "2 men arrested after allegedly posing as police officers , robbing three people in one day",
-      "url": "https://wsbt.com/news/nation-world/detectives-seek-additional-victims-after-two-arrested-in-pbso-fake-officer-robbery-spree-florida-news-local-news-florida-crime-local-crime",
-      "source": "wsbt.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Global food prices face fresh surge as supply shocks pile up",
-      "url": "http://www.philippinetimes.com/news/279385718/global-food-prices-face-fresh-surge-as-supply-shocks-pile-up",
-      "source": "philippinetimes.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Promising Bitcoin Stocks Worth Watching – October 21st",
-      "url": "https://www.themarketsdaily.com/2026/10/21/promising-bitcoin-stocks-worth-watching-october-21st.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "First Trust Health Care AlphaDEX Fund ( NYSEARCA : FXH ) Sets New 1 - Year High – Should You Buy ?",
-      "url": "https://www.dailypolitical.com/2026/10/21/first-trust-health-care-alphadex-fund-nysearcafxh-sets-new-1-year-high-should-you-buy.html",
-      "source": "dailypolitical.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Comparing Enerflex ( NYSE : EFXT ) and Seadrill ( NYSE : SDRL )",
-      "url": "https://www.tickerreport.com/banking-finance/13628932/comparing-enerflex-nyseefxt-and-seadrill-nysesdrl.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "2 men arrested after allegedly posing as police officers , robbing three people in one day",
-      "url": "https://wach.com/news/nation-world/detectives-seek-additional-victims-after-two-arrested-in-pbso-fake-officer-robbery-spree-florida-news-local-news-florida-crime-local-crime",
-      "source": "wach.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Asked on Reddit : My Bills Are Due Before Payday What Do I Do ?",
-      "url": "https://www.hometownregister.com/news/national/asked-on-reddit-my-bills-are-due-before-payday-what-do-i-do/article_9ccf384d-21d5-5ca6-8bb3-fd433f66519f.html",
-      "source": "hometownregister.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "UK Faces Christmas Interest Rate - Hike Double Whammy Amid Inflation Surge",
-      "url": "https://www.investorideas.com/news/2026/main/10211-uk-faces-christmas-interest-rate-hike-double-whammy-amid-inflation-surge.asp",
-      "source": "investorideas.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Amazon ( AMZN ): Can Custom AI Silicon Outpace Capex Commitments ?",
-      "url": "https://www.insidermonkey.com/news/amazon-amzn-can-custom-ai-silicon-outpace-capex-commitments-1857267",
-      "source": "insidermonkey.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Michael Burry Says It  Good News  for Fannie and Freddie",
-      "url": "https://www.aol.com/articles/michael-burry-says-good-news-161551000.html",
-      "source": "aol.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "NVIDIA and Micron Alone Now Contribute 36 % of S & P 500 Earnings Growth as Historic Market Concentration Grows – Ghanamma . com",
-      "url": "https://www.ghanamma.com/2026/10/21/nvidia-and-micron-alone-now-contribute-36-of-sp-500-earnings-growth-as-historic-market-concentration-grows",
-      "source": "ghanamma.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Berkshire Hathaway ( BRK - B ): Is BNSF Still a Strong Home for Reinvested Capital ?",
-      "url": "https://www.insidermonkey.com/news/berkshire-hathaway-brk-b-is-bnsf-still-a-strong-home-for-reinvested-capital-1851702",
-      "source": "insidermonkey.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Super Micro Computer Just Gave the Market a Bullish Update on AI Demand",
-      "url": "https://www.businessinsider.com/super-micro-computer-revenue-guidance-ai-demand-smci-spcx-2026-10",
-      "source": "businessinsider.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "UnitedHealth ( UNH ): Does Optum Truly Diversify Its Earnings Risk ?",
-      "url": "https://www.insidermonkey.com/news/unitedhealth-unh-does-optum-truly-diversify-its-earnings-risk-1851785",
-      "source": "insidermonkey.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Ahead of Market : 10 things that will decide stock market action on Thursday",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/135096044.cms",
-      "source": "economictimes.indiatimes.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Canada and the U . S . are giving children money to build savings . But the rules on keeping it are very different",
-      "url": "http://www.torontotelegraph.com/news/279389867/canada-and-the-us-are-giving-children-money-to-build-savings-but-the-rules-on-keeping-it-are-very-different",
-      "source": "torontotelegraph.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Space Stock SpaceX ( Nasdaq : SPCX ) Trends - Gains on Third Quarter Results",
-      "url": "https://www.investorideas.com/news/2026/defense/10211-space-stock-spacex-nasdaq-spcx-trends-gains-on-third-quarter-results.asp",
-      "source": "investorideas.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Grab ( GRAB ) Earned $235M , but One Gain Drove the Jump",
-      "url": "https://www.insidermonkey.com/news/grab-grab-earned-235m-but-one-gain-drove-the-jump-1857242",
-      "source": "insidermonkey.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Is Berkshire Hathaway Greg Abel Is Changing the Script ? Here the Latest Tech Stock He Just Bought .",
-      "url": "https://www.aol.com/articles/berkshire-hathaways-greg-abel-changing-162000000.html",
-      "source": "aol.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Here why I changed my mind on these 3 retirement topics",
-      "url": "https://www.pilotonline.com/2026/10/21/retirement-changes-personal-finanance",
-      "source": "pilotonline.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Hola Prime Simplifies Prop Trading Rules With Launch Of It Rulebook",
-      "url": "https://www.ibtimes.com/press-release/20261021/hola-prime-simplifies-prop-trading-rules-with-launch-of-its-rulebook",
-      "source": "ibtimes.com",
-      "published": "2026-10-21T16:45:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Fact check : When it comes to Trump economy , these numbers matter",
-      "url": "https://www.thenewsherald.com/2026/10/21/fact-check-trump-economy-data",
-      "source": "thenewsherald.com",
-      "published": "2026-10-21T16:45:00+00:00",
       "category": "Markets"
     }
   ]
