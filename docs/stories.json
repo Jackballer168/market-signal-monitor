@@ -1,11 +1,256 @@
 {
-  "updated": "2026-11-09T06:34+00:00",
+  "updated": "2026-11-09T22:23+00:00",
   "errors": [
     "Markets: HTTPError",
-    "Business: HTTPError",
+    "Politics: HTTPError",
     "Economy: HTTPError"
   ],
   "stories": [
+    {
+      "title": "ANZ cost - cutting delivers bumper profit growth",
+      "url": "https://www.queanbeyanage.com.au/story/9387895/anzs-cost-cutting-delivers-bumper-profit-growth",
+      "source": "queanbeyanage.com.au",
+      "published": "2026-11-09T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Codan Announces Agreement to Acquire Eventide Communications",
+      "url": "https://www.northernnews.ca/press-releases/business-wire/codan-announces-agreement-to-acquire-eventide-communications",
+      "source": "northernnews.ca",
+      "published": "2026-11-09T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Yuan holds firm against dollar as seasonal corporate selling offsets greenback strength",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/yuan-holds-firm-against-dollar-as-seasonal-corporate-selling-offsets-greenback-strength/articleshow/135672314.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-11-09T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "CVS announces major breakup , shares plunge 13 percent",
+      "url": "http://www.tennesseedaily.com/news/279411586/cvs-announces-major-breakup-shares-plunge-13-percent",
+      "source": "tennesseedaily.com",
+      "published": "2026-11-09T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "ANZ cost - cutting delivers bumper profit growth",
+      "url": "https://www.thecourier.com.au/story/9387895/anzs-cost-cutting-delivers-bumper-profit-growth",
+      "source": "thecourier.com.au",
+      "published": "2026-11-09T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Trump says deportations were  too tough , hurt him during midterms – NBC4 Washington",
+      "url": "https://www.nbcwashington.com/news/politics/trump-says-deportations-hurt-him-during-midterms/4179850",
+      "source": "nbcwashington.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "NASA awards $10B in contracts for Moon Base cargo , nuclear rover",
+      "url": "https://www.wjcl.com/article/nasa-awards-10b-contracts-moon-base-cargo-nuclear-rover/74371043",
+      "source": "wjcl.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Citi bullish on Indian equities , sees Nifty at 28 , 000 by end - 2027",
+      "url": "https://www.business-standard.com/markets/stock-market-news/citi-bullish-on-indian-equities-sees-nifty-at-28-000-by-end-2027-126110900222_1.html",
+      "source": "business-standard.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Blackstone - backed Aadhar Housing Finance sees limited El Niño risk to loan book",
+      "url": "https://www.livemint.com/companies/news/blackstone-backed-aadhar-housing-finance-sees-limited-el-ni-o-risk-to-loan-book-11794196156405.html",
+      "source": "livemint.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Menhaden Critics Ignore Weather that Kept Fishermen Off the Water",
+      "url": "http://www.californiatelegraph.com/news/279420858/menhaden-critics-ignore-weather-that-kept-fishermen-off-the-water",
+      "source": "californiatelegraph.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "NASA awards $10B in contracts for Moon Base cargo , nuclear rover",
+      "url": "https://www.wdsu.com/article/nasa-awards-10b-contracts-moon-base-cargo-nuclear-rover/74371043",
+      "source": "wdsu.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "What the global AI rout means for India | Stock Market News",
+      "url": "https://www.livemint.com/market/stock-market-news/india-ai-trade-global-shares-it-firms-data-centre-11794200311059.html",
+      "source": "livemint.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "NASA awards $10B in contracts for Moon Base cargo , nuclear rover",
+      "url": "https://www.wtae.com/article/nasa-awards-10b-contracts-moon-base-cargo-nuclear-rover/74371043",
+      "source": "wtae.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Reit - oriented funds : should you invest ?",
+      "url": "https://www.livemint.com/money/personal-finance/reitoriented-funds-should-you-invest-11793950701020.html",
+      "source": "livemint.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Takeaways from AP report on school closures in the US",
+      "url": "http://www.reflector.com/news/national/takeaways-from-aps-report-on-school-closures-in-the-us/article_badd8a47-2b78-5a49-a67e-10d13a5e1000.html",
+      "source": "reflector.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "NASA awards $10B in contracts for Moon Base cargo , nuclear rover",
+      "url": "https://www.koco.com/article/nasa-awards-10b-contracts-moon-base-cargo-nuclear-rover/74371043",
+      "source": "koco.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "CVS announces major breakup , shares plunge 13 percent",
+      "url": "http://www.californiatelegraph.com/news/279411586/cvs-announces-major-breakup-shares-plunge-13-percent",
+      "source": "californiatelegraph.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Trump says deportations were  too tough , hurt him during midterms – NBC 5 Dallas - Fort Worth",
+      "url": "https://www.nbcdfw.com/news/politics/trump-says-deportations-hurt-him-during-midterms/4103358",
+      "source": "nbcdfw.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "NASA awards $10B in contracts for Moon Base cargo , nuclear rover",
+      "url": "https://www.wisn.com/article/nasa-awards-10b-contracts-moon-base-cargo-nuclear-rover/74371043",
+      "source": "wisn.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Diwali 2026 : Global leaders – Anthony Albanese , Emmanuel Macron , Mark Carney – call for unity , peace , prosperity",
+      "url": "https://www.livemint.com/news/trends/diwali-2026-global-leaders-anthony-albanese-emmanuel-macron-mark-carney-call-for-unity-peace-prosperity-11794199917417.html",
+      "source": "livemint.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Trump says deportations were  too tough , hurt him during midterms – NBC New York",
+      "url": "https://www.nbcnewyork.com/news/politics/trump-says-deportations-hurt-him-during-midterms/6569401",
+      "source": "nbcnewyork.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "CVS announces major breakup , shares plunge 13 percent",
+      "url": "http://www.caribbeanherald.com/news/279411586/cvs-announces-major-breakup-shares-plunge-13-percent",
+      "source": "caribbeanherald.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Markets slip into red after opening in green , Sensex down 150 points , Nifty below 25 , 000",
+      "url": "https://news.webindia123.com/news/Articles/Business/20261109/4517531.html",
+      "source": "news.webindia123.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Bosch shares falls 3 % after stock split , bonus issue , Q2 results announcement | What should investors do ?",
+      "url": "https://www.livemint.com/market/stock-market-news/bosch-shares-falls-3-after-stock-split-bonus-issue-q2-results-announcement-what-should-investors-do-11794201416845.html",
+      "source": "livemint.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "ACR 2026 : Dapirolizumab Pegol Associated with Greater Treatment Response Rates Versus Placebo in SLE Using Novel Treatment Response Measure",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/acr-2026-dapirolizumab-pegol-associated-with-greater-treatment-response-rates-versus-placebo-in-sle-using-novel-treatment-response-measure",
+      "source": "simcoereformer.ca",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Trump says deportations were  too tough , hurt him during midterms – NBC Bay Area",
+      "url": "https://www.nbcbayarea.com/news/politics/trump-says-deportations-hurt-him-during-midterms/4172671",
+      "source": "nbcbayarea.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Nvidia to probe CEO links with alleged Chinese spy",
+      "url": "https://www.narrominenewsonline.com.au/story/9387872/nvidia-to-probe-ceos-links-with-alleged-chinese-spy",
+      "source": "narrominenewsonline.com.au",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "CVS announces major breakup , shares plunge 13 percent",
+      "url": "http://www.sandiegosun.com/news/279411586/cvs-announces-major-breakup-shares-plunge-13-percent",
+      "source": "sandiegosun.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Voltas dips 8 % in two sessions post Q2 earnings ; Emkay retains  Buy  rating",
+      "url": "https://www.business-standard.com/markets/news/voltas-dips-8-in-two-sessions-post-q2-earnings-emkay-retains-buy-rating-126110900238_1.html",
+      "source": "business-standard.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "PSU Banks in focus ; SBI , BOI , PNB , Indian Bank , Canara , UBI gain up to 3 %",
+      "url": "https://www.business-standard.com/markets/news/psu-banks-in-focus-sbi-boi-pnb-indian-bank-canara-ubi-gain-up-to-3-126110900233_1.html",
+      "source": "business-standard.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Vedanta bets on captive bauxite amid pricing dispute with Odisha Mining Corp",
+      "url": "https://www.livemint.com/companies/vedanta-bets-on-captive-bauxite-amid-pricing-dispute-with-odisha-mining-corp-11793969808137.html",
+      "source": "livemint.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "CVS announces major breakup , shares plunge 13 percent",
+      "url": "http://www.nepalnational.com/news/279411586/cvs-announces-major-breakup-shares-plunge-13-percent",
+      "source": "nepalnational.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "CVS announces major breakup , shares plunge 13 percent",
+      "url": "http://www.trinidadtimes.com/news/279411586/cvs-announces-major-breakup-shares-plunge-13-percent",
+      "source": "trinidadtimes.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Asset management industry push for tax cuts to stem foreign exodus",
+      "url": "https://www.business-standard.com/industry/news/asset-management-industry-push-for-tax-cuts-to-stem-foreign-exodus-126110900242_1.html",
+      "source": "business-standard.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "ADNOC Distribution nine - month net profit jumps 37pc to $791m",
+      "url": "https://tradearabia.com:443/News/489375/ADNOC-Distribution%E2%80%99s-nine-month-net-profit-jumps-37pc-to-$791m/OGN",
+      "source": "tradearabia.com",
+      "published": "2026-11-09T06:30:00+00:00",
+      "category": "Business"
+    },
     {
       "title": "Top 50 MCQs for CBSE Class 10 Social Science Pre - Board Exam 2027 : Important Questions with Answers",
       "url": "https://www.jagranjosh.com/articles/top-mcqs-for-cbse-class-10-social-science-pre-board-exam-2027-important-questions-with-answers-1800018859-1",
@@ -355,6 +600,111 @@
       "source": "allafrica.com",
       "published": "2026-11-09T06:00:00+00:00",
       "category": "Politics"
+    },
+    {
+      "title": "Trump says deportations were  too tough , hurt him during midterms – NBC 6 South Florida",
+      "url": "https://www.nbcmiami.com/news/politics/trump-says-deportations-hurt-him-during-midterms/3885473",
+      "source": "nbcmiami.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Head to Head Comparison : Mattel ( NASDAQ : MAT ) & Interactive Strength ( NASDAQ : TRNR )",
+      "url": "https://www.tickerreport.com/banking-finance/13655798/head-to-head-comparison-mattel-nasdaqmat-interactive-strength-nasdaqtrnr.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "WeRide to Report Third Quarter 2026 Financial Results on Friday , November 20 , 2026",
+      "url": "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/weride-to-report-third-quarter-2026-financial-results-on-friday-november-20-2026/2464881",
+      "source": "manilatimes.net",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "CVS to separate pharmacy chain from Aetna , Caremark businesses",
+      "url": "http://www.australiannews.net/news/279411586/cvs-to-separate-pharmacy-chain-from-aetna-caremark-businesses",
+      "source": "australiannews.net",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Comparing Caleres ( NYSE : CAL ) & Lovesac ( NASDAQ : LOVE )",
+      "url": "https://www.dailypolitical.com/2026/11/08/comparing-caleres-nysecal-lovesac-nasdaqlove.html",
+      "source": "dailypolitical.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "CVS to separate pharmacy chain from Aetna , Caremark businesses",
+      "url": "http://www.myanmarnews.net/news/279411586/cvs-to-separate-pharmacy-chain-from-aetna-caremark-businesses",
+      "source": "myanmarnews.net",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Vulcan Materials ( NYSE : VMC ) versus Loma Negra Compania Industrial Argentina ( NYSE : LOMA ) Head - To - Head Survey",
+      "url": "https://www.tickerreport.com/banking-finance/13655801/vulcan-materials-nysevmc-versus-loma-negra-compania-industrial-argentina-nyseloma-head-to-head-survey.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Reactions to Nvidia probe into CEO Jensen Huang",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/09/reactions-to-nvidia039s-probe-into-ceo-jensen-huang",
+      "source": "thestar.com.my",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Ziff Davis Q3 Earnings Call Highlights",
+      "url": "https://www.dailypolitical.com/2026/11/08/ziff-davis-q3-earnings-call-highlights.html",
+      "source": "dailypolitical.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Rock Shines Again Wins Dayton Open ; No Contest In Race 12",
+      "url": "https://standardbredcanada.ca/news/11-8-26/rock-shines-again-wins-dayton-open-no-contest-race-12.html",
+      "source": "standardbredcanada.ca",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "SM Prime Faces Profit Decline Amid Housing Market Slump",
+      "url": "https://tribune.net.ph/2026/11/09/sm-prime-profit-hit-by-housing-slump",
+      "source": "tribune.net.ph",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "NASA awards $10B in contracts for Moon Base cargo , nuclear rover",
+      "url": "https://www.wpbf.com/article/nasa-awards-10b-contracts-moon-base-cargo-nuclear-rover/74371043",
+      "source": "wpbf.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Citi Sees Nifty 50 Scaling 28 , 000 By End - 2027 , Flags 12 % Upside",
+      "url": "https://www.businessworld.in/article/citi-sees-nifty-50-scaling-28-000-by-end-2027-632698",
+      "source": "businessworld.in",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Dominion Energy ( NYSE : D ) & E . On ( OTCMKTS : EONGY ) Head - To - Head Analysis",
+      "url": "https://www.tickerreport.com/banking-finance/13655803/dominion-energy-nysed-e-on-otcmktseongy-head-to-head-analysis.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Sandyboots Yankee Scores In Liberty Bell Closer",
+      "url": "https://standardbredcanada.ca/news/11-8-26/sandyboots-yankee-scores-liberty-bell-closer.html",
+      "source": "standardbredcanada.ca",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Business"
     },
     {
       "title": "Business groups warn NZ election wait could hit Christmas spending",
@@ -6655,356 +7005,6 @@
       "source": "standardbredcanada.ca",
       "published": "2026-10-24T02:30:00+00:00",
       "category": "Business"
-    },
-    {
-      "title": "Finward Bancorp ( NASDAQ : FNWD ) and Coastal Financial ( NASDAQ : CCB ) Financial Contrast",
-      "url": "https://www.tickerreport.com/banking-finance/13634585/finward-bancorp-nasdaqfnwd-and-coastal-financial-nasdaqccb-financial-contrast.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Long odds : U . S . Forest Service looking at reforming river permit lotteries",
-      "url": "https://www.spokesman.com/stories/2026/oct/23/forest-service-to-look-at-reforming-high-demand-ri",
-      "source": "spokesman.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Plans Dividend of $0 . 04",
-      "url": "https://www.tickerreport.com/banking-finance/13634568/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-plans-dividend-of-0-04-6.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Shareholders to Get $0 . 04 Dividend",
-      "url": "https://www.tickerreport.com/banking-finance/13634571/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-shareholders-to-get-0-04-dividend-3.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "VSee Health ( NASDAQ : VSEE ) and Claritev ( NYSE : CTEV ) Critical Comparison",
-      "url": "https://www.tickerreport.com/banking-finance/13634586/vsee-health-nasdaqvsee-and-claritev-nysectev-critical-comparison.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Stantec ( NYSE : STN ) vs . Solarmax Technology ( NASDAQ : SMXT ) Head - To - Head Review",
-      "url": "https://www.tickerreport.com/banking-finance/13634584/stantec-nysestn-vs-solarmax-technology-nasdaqsmxt-head-to-head-review.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "JH SEO Agency Expands AEO and GEO Services as Early AI Search Investment Supports Client Visibility",
-      "url": "http://www.albuquerqueexpress.com/news/279395432/jh-seo-agency-expands-aeo-and-geo-services-as-early-ai-search-investment-supports-client-visibility",
-      "source": "albuquerqueexpress.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Financial Analysis : Apogee Enterprises ( NASDAQ : APOG ) versus Lennox International ( NYSE : LII )",
-      "url": "https://www.tickerreport.com/banking-finance/13634583/financial-analysis-apogee-enterprises-nasdaqapog-versus-lennox-international-nyselii.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "U . S . stocks end lower as Brent oil surges to six - month high",
-      "url": "http://www.iranherald.com/news/279395406/us-stocks-end-lower-as-brent-oil-surges-to-six-month-high",
-      "source": "iranherald.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Bassey Otu : Calabar Carnival No Longer Justfor Cross River , But the World – THISDAYLIVE",
-      "url": "https://www.thisdaylive.com/2026/10/24/bassey-otu-calabar-carnival-no-longer-justfor-cross-river-but-the-world",
-      "source": "thisdaylive.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "2027 : As Saraki , AbdulRazaq Renew Battle for Control of Kwara – THISDAYLIVE",
-      "url": "https://www.thisdaylive.com/2026/10/24/2027-as-saraki-abdulrazaq-renew-battle-for-control-of-kwara",
-      "source": "thisdaylive.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Interview : Martin Amis - review by John Haffenden",
-      "url": "https://literaryreview.co.uk/domestic-burlesque-martin-amis",
-      "source": "literaryreview.co.uk",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "The Chemours Company Securities Fraud Class Action Result of Overstatement of Refrigerant Aftermarket Demand and 18 % Stock Decline - Investors may Contact Lewis Kahn , Esq ., at Kahn Swick & Foti , LLC",
-      "url": "https://www.prnewswire.com/news-releases/the-chemours-company-securities-fraud-class-action-result-of-overstatement-of-refrigerant-aftermarket-demand-and-18-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302918520.html",
-      "source": "prnewswire.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "ROSEN , HIGHLY REGARDED INVESTOR RIGHTS COUNSEL , Encourages Dun & Bradstreet Holdings , Inc . ...",
-      "url": "http://www.gazettextra.com/news/nation_world/rosen-highly-regarded-investor-rights-counsel-encourages-dun-bradstreet-holdings-inc/article_3de30508-5bdc-5c54-8c98-83dbb3fc051f.html",
-      "source": "gazettextra.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Largest research construction project in school history completed after six years of planning",
-      "url": "https://www.wtvm.com/2026/10/23/auburn-university-opens-224-million-stemag-science-complex",
-      "source": "wtvm.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – San Gabriel Valley Tribune",
-      "url": "https://www.sgvtribune.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics",
-      "source": "sgvtribune.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "JohnVents : Nigerian Agribusiness Giant Quietly Turning Cocoa to Gold – THISDAYLIVE",
-      "url": "https://www.thisdaylive.com/2026/10/24/johnvents-nigerian-agribusiness-giant-quietly-turning-cocoa-to-gold",
-      "source": "thisdaylive.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – Press Telegram",
-      "url": "https://www.presstelegram.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics",
-      "source": "presstelegram.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Fresno Rise Utility helps students build careers in engineering and construction",
-      "url": "https://thebusinessjournal.com/central-valley-engineering-construction-careers",
-      "source": "thebusinessjournal.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump at Florida rally revives idea of military intervention in Cuba",
-      "url": "https://www.kmbc.com/article/trump-florida-rally-military-intervention-cuba/74234331",
-      "source": "kmbc.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Strategy Behind Tinubu Road Revolution – THISDAYLIVE",
-      "url": "https://www.thisdaylive.com/2026/10/24/strategy-behind-tinubus-road-revolution",
-      "source": "thisdaylive.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Beyond Naira Stability – THISDAYLIVE",
-      "url": "https://www.thisdaylive.com/2026/10/24/beyond-naira-stability",
-      "source": "thisdaylive.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The view from the North Pole - Buenos Aires Herald",
-      "url": "https://buenosairesherald.com/op-ed/the-view-from-the-north-pole",
-      "source": "buenosairesherald.com",
-      "published": "2026-10-24T02:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "TSO seeks to triple its rail revenues",
-      "url": "https://www.railwaygazette.com/business/2026/10/23/tso-seeks-to-triple-its-rail-revenues",
-      "source": "railwaygazette.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Poll Shows Shapiro With Big Lead In Pennsylvania",
-      "url": "https://whp580.iheart.com/content/2026-10-23-poll-shows-shapiro-with-big-lead-in-pennsylvania",
-      "source": "whp580.iheart.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "France shuts museums and deploys big security presence ahead of weekend protests",
-      "url": "https://www.oxfordmail.co.uk/news/national/26665271.france-shuts-museums-deploys-big-security-presence-ahead-weekend-protests",
-      "source": "oxfordmail.co.uk",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "We would join the SNP in government again , Green co - leader says",
-      "url": "https://www.lancashiretelegraph.co.uk/news/national/26665150.join-snp-government-green-co-leader-says",
-      "source": "lancashiretelegraph.co.uk",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.lancashiretelegraph.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal",
-      "source": "lancashiretelegraph.co.uk",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.peeblesshirenews.com/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal",
-      "source": "peeblesshirenews.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "The Tenth Circuit Should Adopt Its AI Verification Rule , With Cle",
-      "url": "https://natlawreview.com/article/tenth-circuit-should-adopt-its-ai-verification-rule-clearer-standards",
-      "source": "natlawreview.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Democrats are trying to flip District 40 in the State Senate",
-      "url": "https://www.kpbs.org/podcasts/san-diego-news-now/democrats-are-trying-to-flip-district-40-in-the-state-senate",
-      "source": "kpbs.org",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
-      "url": "https://www.ksut.org/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
-      "source": "ksut.org",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Israeli elections : Arab voters weigh participation against abstention in bid to oust Netanyahu",
-      "url": "https://www.middleeastmonitor.com/20261023-israeli-elections-arab-voters-weigh-participation-against-abstention-in-bid-to-oust-netanyahu",
-      "source": "middleeastmonitor.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "We would join the SNP in government again , Green co - leader says",
-      "url": "https://www.keighleynews.co.uk/news/national/26665150.join-snp-government-green-co-leader-says",
-      "source": "keighleynews.co.uk",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "France shuts museums and deploys big security presence ahead of weekend protests",
-      "url": "https://www.worcesternews.co.uk/news/national/26665271.france-shuts-museums-deploys-big-security-presence-ahead-weekend-protests",
-      "source": "worcesternews.co.uk",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Kenai Borough seeks bigger property tax break for emergency volunteers",
-      "url": "https://www.homernews.com/2026/10/23/kenai-borough-seeks-bigger-property-tax-break-for-emergency-volunteers",
-      "source": "homernews.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "New Jersey Mayor Restrained After Charging Resident At Council Meeting",
-      "url": "https://whp580.iheart.com/content/2026-10-23-new-jersey-mayor-restrained-after-charging-resident-at-council-meeting",
-      "source": "whp580.iheart.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Daily Thread : Feel Good Friday",
-      "url": "https://www.canishoopus.com/general/70917/feel-good-friday-regularly-scheduled-programming",
-      "source": "canishoopus.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "In New England , towns are using a very old approach to take on data centers",
-      "url": "https://www.wgbh.org/news/local/2026-10-23/in-new-england-towns-are-using-a-very-old-approach-to-take-on-data-centers",
-      "source": "wgbh.org",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "CA latest target in Department of Justice efforts to end public benefits fraud",
-      "url": "https://www.ksby.com/news/california-news/california-latest-target-in-department-of-justice-efforts-to-end-public-benefits-fraud",
-      "source": "ksby.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "U . S . Ambassador : GB plans  real concern",
-      "url": "https://www.tribune242.com/news/2026/oct/23/us-ambassador-gb-plans-real-concern",
-      "source": "tribune242.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Detroit opens early voting sites as high - profile campaign visits loom",
-      "url": "https://www.wxyz.com/news/national-politics/america-votes/detroit-opens-early-voting-sites-as-high-profile-campaign-visits-loom",
-      "source": "wxyz.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "France shuts museums and deploys big security presence ahead of weekend protests",
-      "url": "https://www.bracknellnews.co.uk/news/national/26665271.france-shuts-museums-deploys-big-security-presence-ahead-weekend-protests",
-      "source": "bracknellnews.co.uk",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Immigrants seeking US citizenship targeted in illegal voting crackdown",
-      "url": "https://www.mendocinobeacon.com/2026/10/23/immigrants-seeking-citizenship-voting-crackdown",
-      "source": "mendocinobeacon.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Warner L . Jones Jr . Award to KY House Speaker Osborne",
-      "url": "https://www.bloodhorse.com/horse-racing/articles/295487/warner-l-jones-jr-award-to-ky-house-speaker-osborne",
-      "source": "bloodhorse.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "New Jersey Mayor Restrained After Charging Resident At Council Meeting",
-      "url": "https://101magic.iheart.com/content/2026-10-23-new-jersey-mayor-restrained-after-charging-resident-at-council-meeting",
-      "source": "101magic.iheart.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Be an adult about tradeoffs : Prop . 45 is more good than bad",
-      "url": "https://www.sbsun.com/2026/10/23/be-an-adult-about-tradeoffs-prop-45-is-more-good-than-bad",
-      "source": "sbsun.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "France shuts museums and deploys big security presence ahead of weekend protests",
-      "url": "https://www.salisburyjournal.co.uk/news/national/26665271.france-shuts-museums-deploys-big-security-presence-ahead-weekend-protests",
-      "source": "salisburyjournal.co.uk",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Lake , Marion among counties nationwide getting federal election observers",
-      "url": "https://963xke.com/2026/10/23/102284",
-      "source": "963xke.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Netanyahu : Israel preparing for major operation in Judea and Samaria",
-      "url": "https://www.clevelandjewishnews.com/jns/netanyahu-israel-preparing-for-major-operation-in-judea-and-samaria/article_c55d0b0b-1eed-527f-8b6b-d0ece71cf7a8.html",
-      "source": "clevelandjewishnews.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
     }
   ]
 }
