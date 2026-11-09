@@ -1,11 +1,361 @@
 {
-  "updated": "2026-11-08T22:08+00:00",
+  "updated": "2026-11-09T06:34+00:00",
   "errors": [
     "Markets: HTTPError",
     "Business: HTTPError",
-    "Politics: HTTPError"
+    "Economy: HTTPError"
   ],
   "stories": [
+    {
+      "title": "Top 50 MCQs for CBSE Class 10 Social Science Pre - Board Exam 2027 : Important Questions with Answers",
+      "url": "https://www.jagranjosh.com/articles/top-mcqs-for-cbse-class-10-social-science-pre-board-exam-2027-important-questions-with-answers-1800018859-1",
+      "source": "jagranjosh.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Election Boxing Day : Unwrapping NZ Murky Result",
+      "url": "http://www.rhema.co.nz/media/podcast/election-boxing-day-unwrapping-nzs-murky-result",
+      "source": "rhema.co.nz",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Johnson County finishes counting 2 , 000 missed absentee ballots , finds no effect on final results",
+      "url": "https://www.kcrg.com/2026/11/09/johnson-county-finishes-counting-2000-missed-absentee-ballots-finds-no-effect-final-results",
+      "source": "kcrg.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Bridgwater debate on tougher anti - social behaviour plan",
+      "url": "https://www.bridgwatermercury.co.uk/news/26707584.bridgwater-debate-tougher-anti-social-behaviour-plan",
+      "source": "bridgwatermercury.co.uk",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Sanders scheduled to appear on ABC  The View",
+      "url": "https://www.4029tv.com/article/sanders-scheduled-to-appear-on-abcs-the-view/74371204",
+      "source": "4029tv.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump says his deportation policy  might have been too tough  for voters",
+      "url": "https://www.bucksfreepress.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters",
+      "source": "bucksfreepress.co.uk",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Deputy who challenged Divide County Sheriff in election no longer with office",
+      "url": "https://www.kfyrtv.com/2026/11/09/deputy-who-challenged-divide-county-sheriff-election-no-longer-with-office",
+      "source": "kfyrtv.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump says his deportation policy  might have been too tough  for voters",
+      "url": "https://www.hackneygazette.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters",
+      "source": "hackneygazette.co.uk",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "US asks Iraq to shut most border crossings with Iran : Iraqi FM",
+      "url": "http://www.newzealandstar.com/news/279420827/us-asks-iraq-to-shut-most-border-crossings-with-iran-iraqi-fm",
+      "source": "newzealandstar.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Caguioa questions Supreme Court ruling upholding BSKE postponement",
+      "url": "https://tribune.net.ph/2026/11/08/caguioa-questions-supreme-court-ruling-upholding-bske-postponement",
+      "source": "tribune.net.ph",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Outrageous , racist : One Nation replacement speech",
+      "url": "https://www.inverelltimes.com.au/story/9387907/outrageous-racist-one-nations-replacement-speech",
+      "source": "inverelltimes.com.au",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Somerset Council leader rules out Wessex mayor bid | Somerset County Gazette",
+      "url": "https://www.somersetcountygazette.co.uk/news/26703216.somerset-council-leader-rules-wessex-mayor-bid",
+      "source": "somersetcountygazette.co.uk",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump says his deportation policy  might have been too tough  for voters",
+      "url": "https://www.bridgwatermercury.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters",
+      "source": "bridgwatermercury.co.uk",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Democrats Eye Senate Expansion In 2028 After Midterm Wins",
+      "url": "https://720thevoice.iheart.com/content/2026-11-09-democrats-eye-senate-expansion-in-2028-after-midterm-wins",
+      "source": "720thevoice.iheart.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "China extends suspensions of 24 % tariff on US goods , port fees on US ships for two months",
+      "url": "https://www.thedailystar.net/business/news/china-extends-suspensions-24-tariff-us-goods-port-fees-us-ships-two-months-4318946",
+      "source": "thedailystar.net",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump says immigration crackdown was  too tough  after midterm setback",
+      "url": "https://www.thedailystar.net/news/world/united-states/news/trump-says-immigration-crackdown-was-too-tough-after-midterm-setback-4318926",
+      "source": "thedailystar.net",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "AP News in Brief at 11 : 04 p . m . EST",
+      "url": "https://www.idahostatejournal.com/news/national/ap-news-in-brief-at-11-04-p-m-est/article_81422da3-fc0c-52da-a824-ba6117eea82f.html",
+      "source": "idahostatejournal.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "South Africa ANC Hit by Worst - Ever Performance in Local Elections",
+      "url": "https://allafrica.com/stories/202611090087.html",
+      "source": "allafrica.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Democrats Eye Senate Expansion In 2028 After Midterm Wins | NewsTalk WMEQ",
+      "url": "https://wmeq.iheart.com/content/2026-11-09-democrats-eye-senate-expansion-in-2028-after-midterm-wins",
+      "source": "wmeq.iheart.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump says his deportation policy  might have been too tough  for voters",
+      "url": "https://www.warringtonguardian.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters",
+      "source": "warringtonguardian.co.uk",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Democrats Eye Senate Expansion In 2028 After Midterm Wins",
+      "url": "https://newsradio1290wtks.iheart.com/content/2026-11-09-democrats-eye-senate-expansion-in-2028-after-midterm-wins",
+      "source": "newsradio1290wtks.iheart.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Malaysian ex - PM may soon leave prison , go under house arrest",
+      "url": "http://www.australiannews.net/news/279416426/malaysian-ex-pm-may-soon-leave-prison-go-under-house-arrest",
+      "source": "australiannews.net",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "ChronoScale Shareholders Back All Board Nominees , Executive Pay at Annual Meeting",
+      "url": "https://www.tickerreport.com/banking-finance/13655794/chronoscale-shareholders-back-all-board-nominees-executive-pay-at-annual-meeting.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "World Watch | The Shillong Times",
+      "url": "https://theshillongtimes.com/2026/11/09/world-watch-931",
+      "source": "theshillongtimes.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Punishment for Trump , Victory for Democracy",
+      "url": "https://watchingamerica.com/2026/11/08/punishment-for-trump-victory-for-democracy",
+      "source": "watchingamerica.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trinidad and Tobago , Malaysia PMs extend Diwali greetings , call for unity , responsible celebrations",
+      "url": "http://www.venezuelastar.com/news/279420888/trinidad-and-tobago-malaysia-pms-extend-diwali-greetings-call-for-unity-responsible-celebrations",
+      "source": "venezuelastar.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Somerset Council leader rules out Wessex mayor bid",
+      "url": "https://www.bridgwatermercury.co.uk/news/26703216.somerset-council-leader-rules-wessex-mayor-bid",
+      "source": "bridgwatermercury.co.uk",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Arab News | Rubio will discuss Iran , Ukraine , AI and more with G7 allies in France",
+      "url": "https://www.arabnews.com/world/rubio-will-discuss-iran-ukraine-ai-and-more-with-g7-allies-in-france-3010608",
+      "source": "arabnews.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump says his deportation policy  might have been too tough  for voters in the election",
+      "url": "https://www.idahostatejournal.com/news/national/trump-says-his-deportation-policy-might-have-been-too-tough-for-voters-in-the-election/article_d0074bb3-be2b-56fb-9e63-cd8c0a0afd62.html",
+      "source": "idahostatejournal.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump says his deportation policy  might have been too tough  for voters in the election",
+      "url": "https://mymotherlode.com/news/national/general-election/11293330/trump-says-his-deportation-policy-might-have-been-too-tough-for-voters-in-the-election.html",
+      "source": "mymotherlode.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Post - Election Verdict : Why The Left Cant Win This",
+      "url": "http://www.rhema.co.nz/media/podcast/post-election-verdict-why-the-left-cant-win-this",
+      "source": "rhema.co.nz",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Malaysian ex - PM wins house arrest order in 1MDB case",
+      "url": "http://www.londonmercury.com/news/279416426/malaysian-ex-pm-wins-house-arrest-order-in-1mdb-case",
+      "source": "londonmercury.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Big Build Royal Commission hearings underway",
+      "url": "https://www.abc.net.au/listen/programs/worldtoday/big-build-royal-commission-hearings-underway/107364360",
+      "source": "abc.net.au",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "South Africa : Trump Trade Decision Could Hurt Rural Families , Warns Azania Movement",
+      "url": "https://allafrica.com/stories/202611090073.html",
+      "source": "allafrica.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Rubio says Trump war against Iran not  necessarily popular  but needed to stop a nuclear threat",
+      "url": "https://mymotherlode.com/news/national/11293302/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat.html",
+      "source": "mymotherlode.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump says his deportation policy  might have been too tough  for voters",
+      "url": "https://www.cotswoldjournal.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters",
+      "source": "cotswoldjournal.co.uk",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Strathcona Resources Ltd . Announces Agreement to Acquire Greenfire Resources Ltd .",
+      "url": "https://www.prnewswire.com/news-releases/strathcona-resources-ltd-announces-agreement-to-acquire-greenfire-resources-ltd-302932925.html",
+      "source": "prnewswire.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Arab News | Trump asked Netanyahu to move on Gaza peace plan in post - election call – Axios",
+      "url": "https://www.arabnews.com/middle-east/trump-asked-netanyahu-to-move-on-gaza-peace-plan-in-post-election-call-axios-3010662",
+      "source": "arabnews.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump  only kidding  over press role offer to Dana White",
+      "url": "https://www.rte.ie/news/world/2026/1109/1598470-trump-dana-joke",
+      "source": "rte.ie",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "An era of Zionism , solidarity , friendship : Eisenkot after he receives mandate to form Israel next govt",
+      "url": "http://www.arabherald.com/news/279420917/an-era-of-zionism-solidarity-friendship-eisenkot-after-he-receives-mandate-to-form-israel-next-govt",
+      "source": "arabherald.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "2027 : Fubara has betrayed Rivers people , committed political suicide – Akpobari – The Sun Nigeria",
+      "url": "https://thesun.ng/2027-fubara-has-betrayed-rivers-people-committed-political-suicide-akpobari",
+      "source": "thesun.ng",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Malaysian ex - PM wins house arrest order in 1MDB case",
+      "url": "http://www.arabherald.com/news/279416426/malaysian-ex-pm-wins-house-arrest-order-in-1mdb-case",
+      "source": "arabherald.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "( CIIE ) Economic Watch : Buoyed by zero tariffs , African exporters eye bigger China market - Xinhua",
+      "url": "https://english.news.cn/20261109/9d06adfacfa54171b78aa2f99ae86760/c.html",
+      "source": "english.news.cn",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump says his deportation policy  might have been too tough  for voters",
+      "url": "https://www.clactonandfrintongazette.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters",
+      "source": "clactonandfrintongazette.co.uk",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump says his deportation policy  might have been too tough  for voters",
+      "url": "https://www.ealingtimes.co.uk/news/national/26710164.trump-says-deportation-policy-might-tough-voters",
+      "source": "ealingtimes.co.uk",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "China extends suspension of 24 pct additional tariff on U . S . goods for two months - Xinhua",
+      "url": "https://english.news.cn/20261109/4c85025bfdf944c5aab884cc444abb7c/c.html",
+      "source": "english.news.cn",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Somerset housing target could be cut by around 15 , 000 homes",
+      "url": "https://www.somersetcountygazette.co.uk/news/26707715.somerset-housing-target-cut-around-15-000-homes",
+      "source": "somersetcountygazette.co.uk",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Democrats Eye Senate Expansion In 2028 After Midterm Wins",
+      "url": "https://wtkg.iheart.com/content/2026-11-09-democrats-eye-senate-expansion-in-2028-after-midterm-wins",
+      "source": "wtkg.iheart.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Saline County voters reject ballot measure to cut property tax funding for library system | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/nov/08/saline-county-voters-reject-cut-funding-library-system",
+      "source": "arkansasonline.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "South Africa : Kabila Accused of Betraying South Africa Over Congo Rebel Links",
+      "url": "https://allafrica.com/stories/202611090083.html",
+      "source": "allafrica.com",
+      "published": "2026-11-09T06:00:00+00:00",
+      "category": "Politics"
+    },
     {
       "title": "Business groups warn NZ election wait could hit Christmas spending",
       "url": "https://newswire.co.nz/2026/11/new-zealand-business-groups-election-uncertainty-christmas-spending",
@@ -6655,356 +7005,6 @@
       "source": "clevelandjewishnews.com",
       "published": "2026-10-23T15:00:00+00:00",
       "category": "Politics"
-    },
-    {
-      "title": "France shuts museums and deploys big security presence ahead of weekend protests",
-      "url": "https://www.keighleynews.co.uk/news/national/26665271.france-shuts-museums-deploys-big-security-presence-ahead-weekend-protests",
-      "source": "keighleynews.co.uk",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "We would join the SNP in government again , Green co - leader says",
-      "url": "https://www.herefordtimes.com/news/national/26665150.join-snp-government-green-co-leader-says",
-      "source": "herefordtimes.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "New Jersey Mayor Restrained After Charging Resident At Council Meeting",
-      "url": "https://westmichiganstar.iheart.com/content/2026-10-23-new-jersey-mayor-restrained-after-charging-resident-at-council-meeting",
-      "source": "westmichiganstar.iheart.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.keighleynews.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal",
-      "source": "keighleynews.co.uk",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Fulmer to Serve as Chairman of Old Friends",
-      "url": "https://www.bloodhorse.com/horse-racing/articles/295488/fulmer-to-serve-as-chairman-of-old-friends",
-      "source": "bloodhorse.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Austria expels four Russian diplomats : foreign ministry",
-      "url": "https://www.hurriyetdailynews.com/austria-expels-four-russian-diplomats-foreign-ministry-228521",
-      "source": "hurriyetdailynews.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "10 great East African films",
-      "url": "https://www.bfi.org.uk/lists/10-great-east-african-films",
-      "source": "bfi.org.uk",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Sri Satya Sai district SP assures protection to contesting candidates",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/sri-satya-sai-district-sp-assures-protection-to-contesting-candidates/article71615948.ece",
-      "source": "thehindu.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.heraldseries.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal",
-      "source": "heraldseries.co.uk",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "New Jersey Mayor Restrained After Charging Resident At Council Meeting",
-      "url": "https://wqmf.iheart.com/content/2026-10-23-new-jersey-mayor-restrained-after-charging-resident-at-council-meeting",
-      "source": "wqmf.iheart.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "France shuts museums and deploys big security presence ahead of weekend protests",
-      "url": "https://www.northwichguardian.co.uk/news/national/26665271.france-shuts-museums-deploys-big-security-presence-ahead-weekend-protests",
-      "source": "northwichguardian.co.uk",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Colombian drug accused set to change his plea",
-      "url": "https://www.tribune242.com/news/2026/oct/23/colombian-drug-accused-of-working-with-corrupt-police-set-to-change-plea",
-      "source": "tribune242.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Two Israeli soldiers killed in West Bank incident after attack by gunmen",
-      "url": "https://www.bracknellnews.co.uk/news/national/26664903.two-israeli-soldiers-killed-west-bank-incident-attack-gunmen",
-      "source": "bracknellnews.co.uk",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Gen Z is  in the thick  of high housing costs . These candidates aim to solve it",
-      "url": "https://www.ypradio.org/npr-news/2026-10-23/gen-z-is-in-the-thick-of-high-housing-costs-these-candidates-aim-to-solve-it",
-      "source": "ypradio.org",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "New Jersey Mayor Restrained After Charging Resident At Council Meeting",
-      "url": "https://cool925.iheart.com/content/2026-10-23-new-jersey-mayor-restrained-after-charging-resident-at-council-meeting",
-      "source": "cool925.iheart.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Atiku challenges Tinubu to name ministers , appointees involved in alleged bribery",
-      "url": "https://www.vanguardngr.com/2026/10/atiku-challenges-tinubu-to-name-ministers-appointees-involved-in-alleged-bribery",
-      "source": "vanguardngr.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "New Jersey Mayor Restrained After Charging Resident At Council Meeting",
-      "url": "https://catcountry1071.iheart.com/content/2026-10-23-new-jersey-mayor-restrained-after-charging-resident-at-council-meeting",
-      "source": "catcountry1071.iheart.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Eby makes last - minute B . C . election promise to legislate nurse - to - patient ratios",
-      "url": "https://wltribune.com/2026/10/23/eby-makes-last-minute-b-c-election-promise-to-legislate-nurse-to-patient-ratios",
-      "source": "wltribune.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Delloso and Murphy vie for 162nd House seat",
-      "url": "https://www.delcotimes.com/2026/10/23/delloso-and-murphy-vie-for-162nd-house-seat",
-      "source": "delcotimes.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.salisburyjournal.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal",
-      "source": "salisburyjournal.co.uk",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Norvault : NORVAULT AG extends Bacon Series 001 offer and tender timetable",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69922293-norvault-norvault-ag-extends-bacon-series-001-offer-and-tender-timetable-399.htm",
-      "source": "finanznachrichten.de",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Thugs intimidating Larnaca property owners to sell out",
-      "url": "https://cyprus-mail.com/2026/10/23/thugs-intimidating-larnaca-property-owners-to-sell-out",
-      "source": "cyprus-mail.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Riverhead voter guide 2026 : Meet the candidates on your ballot",
-      "url": "https://riverheadlocal.com/2026/10/23/riverhead-voter-guide-2026",
-      "source": "riverheadlocal.com",
-      "published": "2026-10-23T15:00:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "FIIs dump $3 . 8 billion in Indian stocks : Are domestic mutual funds the market safety net ?",
-      "url": "https://www.businesstoday.in/mutual-funds/story/fiis-dump-3-8-billion-in-indian-stocks-are-domestic-mutual-funds-the-markets-safety-net-563306-2026-10-23",
-      "source": "businesstoday.in",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Form 38 . 5a ( EPT / RI )- DCC Energy plc | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-38-5a-ept-ri-dcc-energy-plc/9839043",
-      "source": "investegate.co.uk",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Qualcomm Incorporated $QCOM Stock Bought by Royal Fund Management LLC",
-      "url": "https://www.themarketsdaily.com/2026/10/23/qualcomm-incorporated-qcom-stock-bought-by-royal-fund-management-llc.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Financial Report July - September 2026",
-      "url": "https://www.prnewswire.com/news-releases/financial-report-july---september-2026-302918000.html",
-      "source": "prnewswire.com",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Sensex , Nifty end lower for 4th straight session amid geopolitical concerns",
-      "url": "https://www.prokerala.com/news/articles/a1827894.html",
-      "source": "prokerala.com",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Luxembourg Plans New Intellectual Property Office",
-      "url": "https://www.chronicle.lu/category/luxembourg/64193-luxembourg-plans-new-intellectual-property-office",
-      "source": "chronicle.lu",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "IrishForm38 . 5BIRISHRESIDENTIALPROPERTIESREITPLC | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/irishform38-5birishresidentialpropertiesreitplc/9839246",
-      "source": "investegate.co.uk",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "New Fortress Energy ( NASDAQ : NFE ) versus C3is ( NASDAQ : CISS ) Financial Contrast",
-      "url": "https://www.themarketsdaily.com/2026/10/23/new-fortress-energy-nasdaqnfe-versus-c3is-nasdaqciss-financial-contrast.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "M5bn Khubetsoana drug case pushed to November",
-      "url": "https://lestimes.com/?p=91928",
-      "source": "lestimes.com",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Irish Takeover Panel - Form 38 . 5a - DCC Energy plc | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/irish-takeover-panel-form-38-5a-dcc-energy-plc/9839238",
-      "source": "investegate.co.uk",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Amazon . com , Inc . $AMZN Stock Holdings Lifted by Meridian Investment Counsel Inc .",
-      "url": "https://www.themarketsdaily.com/2026/10/23/amazon-com-inc-amzn-stock-holdings-lifted-by-meridian-investment-counsel-inc.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Luxembourg Plans New Intellectual Property Office",
-      "url": "https://www.chronicle.lu/category/living-in-luxembourg/64193-luxembourg-plans-new-intellectual-property-office",
-      "source": "chronicle.lu",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "GoldMining Releases 2025 Sustainability Report",
-      "url": "https://www.prnewswire.com/news-releases/goldmining-releases-2025-sustainability-report-302917506.html",
-      "source": "prnewswire.com",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Man City FFP : Expert hints at PL clubs considering  settlement  as punishment could take  years",
-      "url": "https://www.teamtalk.com/manchester-city/ffp-expert-hints-premier-league-clubs-considering-settlement-punishment-could-take-years",
-      "source": "teamtalk.com",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Cairn Homes Plc : Holding ( s ) in Company",
-      "url": "https://www.finanzen.net/nachricht/aktien/cairn-homes-plc-holding-s-in-company-16003882",
-      "source": "finanzen.net",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Form 38 . 5A - Permanent TSB Group Holdings PLC | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/rns/permanent-tsb-group-holdings-cdi---ptsb/form-38-5a-permanent-tsb-group-holdings-plc-/9839232",
-      "source": "investegate.co.uk",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Vietnam healthcare spending forecast to reach US$34 . 1 billion : the technology adoption challenge",
-      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/media-outreach-newswire/vietnams-healthcare-spending-forecast-to-reach-us341-billion-the-technology-adoption-challenge/2452647",
-      "source": "manilatimes.net",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Form 38 . 5A - Kenmare Resources PLC | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/rns/kenmare-resources-cdi---kmr/form-38-5a-kenmare-resources-plc/9839234",
-      "source": "investegate.co.uk",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Form 8 . 3 - [ ADVANCED MEDICAL SOLUTIONS GROUP PLC - 22 10 2026 ] - ( CGWL )",
-      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/form-83-advanced-medical-solutions-group-plc-22-10-2026-cgwl/2452645",
-      "source": "manilatimes.net",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Form 38 . 5a ( EPT / RI ) DCC Energy plc BNP SA | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-38-5a-ept-ri-dcc-energy-plc-bnp-sa-/9838924",
-      "source": "investegate.co.uk",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Snapping Right Through | News , Sports , Jobs - Tama - Toledo News Chronicle",
-      "url": "https://www.tamatoledonews.com/news/local-news/2026/10/23/snapping-right-through",
-      "source": "tamatoledonews.com",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "EON Resources Inc .: EON Resources Reports 40 % Year - Over - Year Revenue Growth ; Narrows Net Loss by 77 % and Advances Permian Basin Development",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69919411-eon-resources-inc-eon-resources-reports-40-year-over-year-revenue-growth-narrows-net-loss-by-77-and-advances-permian-basin-development-200.htm",
-      "source": "finanznachrichten.de",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Form 38 . 5b ( EPT / NON - RI ) - DCC Energy plc | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/rns/dcc-energy-plc--dcc/form-38-5b-ept-non-ri-dcc-energy-plc-/9839145",
-      "source": "investegate.co.uk",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Form 38 . 5a Kenmare Resources plc | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/rns/kenmare-resources-cdi---kmr/form-38-5a-kenmare-resources-plc/9839012",
-      "source": "investegate.co.uk",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Hiltzik : Meta Muse trap - Los Angeles Times",
-      "url": "https://www.latimes.com/business/story/2026-10-23/a-judge-just-gave-us-25-billion-reasons-why-metas-privacy-promises-about-its-muse-ai-bot-shouldnt-be-trusted",
-      "source": "latimes.com",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Tech Earnings : Meta and Tesla Show AI Spending Catch - 22 for Investors",
-      "url": "https://www.businessinsider.com/meta-tesla-ai-spending-capex-catch-22-investors-earnings-big-tech-2026-10",
-      "source": "businessinsider.com",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Cresco Labs Celebrates Sunnyside Prestonsburg Grand Opening , Marking Major Milestone for Kentucky Medical Cannabis",
-      "url": "https://www.thesudburystar.com/press-releases/business-wire/cresco-labs-celebrates-sunnyside-prestonsburg-grand-opening-marking-major-milestone-for-kentucky-medical-cannabis",
-      "source": "thesudburystar.com",
-      "published": "2026-10-23T11:00:00+00:00",
-      "category": "Business"
     }
   ]
 }
