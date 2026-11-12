@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T07:14+00:00",
+  "updated": "2026-11-12T19:56+00:00",
   "errors": [
     "Markets: HTTPError",
     "Business: HTTPError",
@@ -7,6 +7,13 @@
     "Economy: HTTPError"
   ],
   "stories": [
+    {
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "source": "Federal Reserve: monetary policy",
+      "published": "2026-11-12T17:45:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Business : BOU sold $68m to steady the shilling , says Atingi -",
       "url": "https://www.newvision.co.ug/category/news/bou-sold-68m-to-steady-the-shilling-says-atin-NV_243902_112026",
@@ -6997,13 +7004,6 @@
       "title": "Why Arizona Prices Are Rising Faster Than Paychecks",
       "url": "https://kwcdcountry.com/ixp/1122/p/inflation-arizona-families-budget",
       "source": "kwcdcountry.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Burnham - On - Sea MP calls for inheritance tax to be scrapped on Somerset family farms and businesses",
-      "url": "https://www.burnham-on-sea.com/news/burnham-on-sea-mp-calls-for-inheritance-tax-to-be-scrapped-on-somersets-family-farms-and-businesses",
-      "source": "burnham-on-sea.com",
       "published": "2026-10-24T03:00:00+00:00",
       "category": "Economy"
     }
