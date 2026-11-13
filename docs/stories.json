@@ -1,18 +1,367 @@
 {
-  "updated": "2026-11-12T19:56+00:00",
+  "updated": "2026-11-13T06:48+00:00",
   "errors": [
     "Markets: HTTPError",
-    "Business: HTTPError",
     "Politics: HTTPError",
     "Economy: HTTPError"
   ],
   "stories": [
+    {
+      "title": "Atlas Energy Corp Reports Third Quarter 2026 Financial Results",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/atlas-energy-corp-reports-third-quarter-2026-financial-results",
+      "source": "simcoereformer.ca",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Aventus Reports Q3 Results for the Quarter Ended September 30 , 2026",
+      "url": "https://www.simcoereformer.ca/press-releases/business-wire/aventus-reports-q3-results-for-the-quarter-ended-september-30-2026",
+      "source": "simcoereformer.ca",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Resigns Amid Scandal | Newsradio WFLA Orlando",
+      "url": "https://wflaorlando.iheart.com/content/2026-11-12-nvidia-ceo-jensen-huang-resigns-amid-scandal",
+      "source": "wflaorlando.iheart.com",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Singtel H1 net profit drops 55 % to S$1 . 54b ; underlying profit rises 10 %",
+      "url": "https://www.businesstimes.com.sg/companies-markets/singtel-h1-net-profit-falls-55-s1-54-billion-lack-divestment-gains-underlying-profit-10",
+      "source": "businesstimes.com.sg",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "The 11 Best Mid - Priced Hunting Rifles of 2026",
+      "url": "https://www.outdoorlife.com/guns/best-mid-priced-rifles-of-2026",
+      "source": "outdoorlife.com",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "U . S . jobless claims tick up to 200 , 000 but remain low by historic standards",
+      "url": "https://www.butlereagle.com/20261112/u-s-jobless-claims-tick-up-to-200000-but-remain-low-by-historic-standards",
+      "source": "butlereagle.com",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "ACKO puts 80 % of media spend into creators and CTV",
+      "url": "https://www.afaqs.com/news/mktg/acko-puts-80-of-media-spend-into-creators-and-ctv-12804410",
+      "source": "afaqs.com",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Maryam Nawaz Cites River Gold as Punjab Courts Mining Investors",
+      "url": "https://econotimes.com/Maryam-Nawaz-Cites-River-Gold-as-Punjab-Courts-Mining-Investors-1776087",
+      "source": "econotimes.com",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Exchange Income Corporation Posts Record Results in the Third Quarter , Upgrades 2026 Guidance and Issues 2027 Adjusted EBITDA Guidance in excess of $1 billion",
+      "url": "https://www.simcoereformer.ca/press-releases/business-wire/exchange-income-corporation-posts-record-results-in-the-third-quarter-upgrades-2026-guidance-and-issues-2027-adjusted-ebitda-guidance-in-excess-of-1-billion",
+      "source": "simcoereformer.ca",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Jensen Huang built the company that powers AI . Now Nvidia must find a way forward without him",
+      "url": "https://rock102.com/news/030030-jensen-huang-built-the-company-that-powers-ai-now-nvidia-must-find-a-way-forward-without-him",
+      "source": "rock102.com",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Sienna Reports Third Quarter 2026 Financial Results and Continues Platform Growth",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/sienna-reports-third-quarter-2026-financial-results-and-continues-platform-growth",
+      "source": "simcoereformer.ca",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Who could replace the departed Jensen Huang as Nvidia CEO ?",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+      "source": "theguardian.com",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Resigns Amid Scandal",
+      "url": "https://1061fmtalk.iheart.com/content/2026-11-12-nvidia-ceo-jensen-huang-resigns-amid-scandal",
+      "source": "1061fmtalk.iheart.com",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Who could replace the departed Jensen Huang as Nvidia CEO ?",
+      "url": "https://www.aol.co.uk/articles/could-replace-departed-jensen-huang-000357000.html",
+      "source": "aol.co.uk",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Low utilization of PSDP - Pakistan Observer",
+      "url": "https://pakobserver.net/low-utilization-of-psdp",
+      "source": "pakobserver.net",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Nintendo is in  Good Shape  for the Holiday Season , Says President",
+      "url": "https://gamingbolt.com/nintendo-is-in-good-shape-for-the-holiday-season-says-president",
+      "source": "gamingbolt.com",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Israel hits Gaza hospital and France turns away a settler leader , and other Mideast news",
+      "url": "https://krmg.com/2026/11/12/israel-hits-gaza-hospital-and-france-turns-away-a-settler-leader-and-other-mideast-news",
+      "source": "krmg.com",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Sculpture In The Gardens Marks 10th Exhibition With Its Most Ambitious Showcase Yet",
+      "url": "https://www.scoop.co.nz/stories/CU2611/S00107/sculpture-in-the-gardens-marks-10th-exhibition-with-its-most-ambitious-showcase-yet.htm",
+      "source": "scoop.co.nz",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Slate Grocery REIT Reports Third Quarter 2026 Results",
+      "url": "https://www.simcoereformer.ca/press-releases/business-wire/slate-grocery-reit-reports-third-quarter-2026-results",
+      "source": "simcoereformer.ca",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Accraâ€  Kumasi Expressway :  Promise made , promise fulfilled  – Ato Forson reveals over $2 billion in BoG safe custody – Ghanamma . com",
+      "url": "https://www.ghanamma.com/2026/11/12/accra-kumasi-expressway-promise-made-promise-fulfilled-ato-forson-reveals-over-2-billion-in-bog-safe-custody",
+      "source": "ghanamma.com",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Jensen Huang built the company that powers AI . Now Nvidia must find a way forward without him",
+      "url": "https://rewind1051.com/news/030030-jensen-huang-built-the-company-that-powers-ai-now-nvidia-must-find-a-way-forward-without-him",
+      "source": "rewind1051.com",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Ojukwu : Release remanded journalist now !",
+      "url": "https://punchng.com/ojukwu-release-remanded-journalist-now",
+      "source": "punchng.com",
+      "published": "2026-11-13T00:45:00+00:00",
+      "category": "Business"
+    },
     {
       "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
       "source": "Federal Reserve: monetary policy",
       "published": "2026-11-12T17:45:00+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Emera ( TSE : EMA ) Stock Gets Price Target Trim from Royal Bank Of Canada",
+      "url": "https://www.dailypolitical.com/2026/11/11/emera-tseema-stock-gets-price-target-trim-from-royal-bank-of-canada.html",
+      "source": "dailypolitical.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "OptimizeRx ( OPRX ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/12/optimizerx-oprx-q3-2026-earnings-call-transcript?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Ness Wadia Comments on Hardik Pandya Transfer to Punjab Kings",
+      "url": "https://udaipurkiran.com/ness-wadia-comments-on-hardik-pandyas-transfer-to-punjab-kings",
+      "source": "udaipurkiran.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Somerset Clarke Quay Singapore To Open On 15 December 2026 , As A New Global Flagship For The Somerset Brand",
+      "url": "https://theeagleonline.com.ng/media-outreach/2026/11/12/500768/somerset-clarke-quay-singapore-to-open-on-15-december-2026-as-a-new-global-flagship-for-the-somerset-brand",
+      "source": "theeagleonline.com.ng",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "UK economic growth expected to have picked up amid AI and defence drive",
+      "url": "https://www.salisburyjournal.co.uk/news/national/26721809.uk-economic-growth-expected-picked-amid-ai-defence-drive",
+      "source": "salisburyjournal.co.uk",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Ramayana Part One Tops $30M Overseas , Crosses ₹800 Crore Worldwide",
+      "url": "https://udaipurkiran.com/ramayana-part-one-tops-30m-overseas-crosses-%E2%82%B9800-crore-worldwide",
+      "source": "udaipurkiran.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Big bank spells out major housing construction drought",
+      "url": "https://www.braidwoodtimes.com.au/story/9390178/big-bank-spells-out-major-housing-construction-drought",
+      "source": "braidwoodtimes.com.au",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "From Kismet to Dhurandhar and Ramayana : How Bollywood box office grew from ₹1 crore lifetime hauls to ₹100 crore in a day",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/from-kismet-to-dhurandhar-2-and-ramayana-bollywood-box-office-grew-from-1-crore-hits-to-100-crore-in-a-day-trimurti-ghajini-baahubali-dangal-pathaan-101794400450686.html",
+      "source": "hindustantimes.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Telangana to introduce 10+2 education system , bring Classes 11 and 12 under school education department",
+      "url": "https://www.moneycontrol.com/education/telangana-to-introduce-10-2-education-system-bring-classes-11-and-12-under-school-education-department-article-14078049.html",
+      "source": "moneycontrol.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Safe Pro Group ( SPAI ) Expected to Release Quarterly Earnings on Friday",
+      "url": "https://www.themarketsdaily.com/2026/11/12/safe-pro-group-spai-expected-to-release-quarterly-earnings-on-friday.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Priyank Kharge lashes out at Centre over Bengaluru metro project funding , says  we are helping Modi run his govt",
+      "url": "https://www.moneycontrol.com/news/india/priyank-kharge-lashes-out-at-centre-over-bengaluru-metro-project-funding-says-we-are-helping-modi-run-his-govt-14078023.html",
+      "source": "moneycontrol.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "GQG Partners Shares Extend Rout to New Record Low After $17 . 7 Billion October Funds Plunge Rattles Investors",
+      "url": "https://www.ibtimes.com.au/gqg-partners-shares-record-low-funds-management-fall-1878456",
+      "source": "ibtimes.com.au",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Mineros Delivers Record Nine - Months Revenue of $838 Million and Record Adjusted EBITDA of $402 Million on sales of 187 , 133 Gold Equivalent Ounces .",
+      "url": "https://www.brantfordexpositor.ca/press-releases/globe-newswire/mineros-delivers-record-nine-months-revenue-of-838-million-and-record-adjusted-ebitda-of-402-million-on-sales-of-187133-gold-equivalent-ounces",
+      "source": "brantfordexpositor.ca",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Big bank spells out major housing construction drought",
+      "url": "https://www.cootamundraherald.com.au/story/9390178/big-bank-spells-out-major-housing-construction-drought",
+      "source": "cootamundraherald.com.au",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Motilal Oswal , CAMS , other capital market stocks rise up to 5 % as benchmarks sustain at 8 - month high",
+      "url": "https://www.moneycontrol.com/news/business/markets/motilal-oswal-cams-other-capital-market-stocks-rise-up-to-5-as-benchmarks-sustain-at-8-month-high-14077917.html",
+      "source": "moneycontrol.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "UK economic growth expected to have picked up amid AI and defence drive",
+      "url": "https://www.stratford-herald.com/national/uk-economic-growth-expected-to-have-picked-up-amid-ai-and-defence-drive-174192",
+      "source": "stratford-herald.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Incannex Healthcare ( IXHL ) Expected to Release Earnings on Friday",
+      "url": "https://www.dailypolitical.com/2026/11/11/incannex-healthcare-ixhl-expected-to-release-earnings-on-friday.html",
+      "source": "dailypolitical.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Prediction : $1 , 000 Invested in SpaceX Today Will Be Worth This Much by 2029",
+      "url": "https://www.fool.com/investing/2026/11/12/prediction-1000-invested-in-spacex-today-will-be-w?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "AMC Global Media : 3 Key Takeaways for Long - Term Investors",
+      "url": "https://www.fool.com/earnings/takeaways/2026/11/12/amc-global-media-3-key-takeaways-for-long-term-investors?source=iedfolrf0000001",
+      "source": "fool.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Mizuho Financial Group ( MFG ) Expected to Release Quarterly Earnings on Friday",
+      "url": "https://www.dailypolitical.com/2026/11/11/mizuho-financial-group-mfg-expected-to-release-quarterly-earnings-on-friday.html",
+      "source": "dailypolitical.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "How bad is the memory crunch ? New phones now use secondhand chips",
+      "url": "https://www.koreaherald.com:443/article/10935338",
+      "source": "koreaherald.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Lifeward ( LFWD ) Expected to Announce Quarterly Earnings on Friday",
+      "url": "https://www.tickerreport.com/banking-finance/13660148/lifeward-lfwd-expected-to-announce-quarterly-earnings-on-friday.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "LeBron James to Earn $88 . 9 Million This Season Despite Minimum 76ers Deal as Sponsors Cover Nearly All of It",
+      "url": "https://www.ibtimes.com.au/lebron-james-earnings-pay-cut-off-court-income-1878471",
+      "source": "ibtimes.com.au",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Meta plans serious India payments push under Kunal Shah , says country head Arun Srinivas",
+      "url": "https://www.moneycontrol.com/artificial-intelligence/meta-plans-serious-india-payments-push-under-kunal-shah-says-country-head-arun-srinivas-article-14078005.html",
+      "source": "moneycontrol.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Galectin Therapeutics ( GALT ) Expected to Announce Quarterly Earnings on Friday",
+      "url": "https://www.tickerreport.com/banking-finance/13660150/galectin-therapeutics-galt-expected-to-announce-quarterly-earnings-on-friday.html",
+      "source": "tickerreport.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Cement makers expect margin relief as falling oil prices set to lower petcoke , coal costs",
+      "url": "https://news.webindia123.com/news/Articles/Business/20261112/4518678.html",
+      "source": "news.webindia123.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "GRI Bio ( GRI ) Expected to Release Quarterly Earnings on Friday",
+      "url": "https://www.themarketsdaily.com/2026/11/12/gri-bio-gri-expected-to-release-quarterly-earnings-on-friday.html",
+      "source": "themarketsdaily.com",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
+    },
+    {
+      "title": "Paladin Announces A$525 Million Fully Underwritten Equity Raising to Accelerate Paladin Growth Strategy",
+      "url": "https://www.brantfordexpositor.ca/press-releases/globe-newswire/paladin-announces-a525-million-fully-underwritten-equity-raising-to-accelerate-paladins-growth-strategy",
+      "source": "brantfordexpositor.ca",
+      "published": "2026-11-12T07:00:00+00:00",
+      "category": "Business"
     },
     {
       "title": "Business : BOU sold $68m to steady the shilling , says Atingi -",
@@ -6656,356 +7005,6 @@
       "source": "stratfordbeaconherald.com",
       "published": "2026-10-24T09:45:00+00:00",
       "category": "Business"
-    },
-    {
-      "title": "SHILP SAMAGAM MELA 2026",
-      "url": "https://orissadiary.com/shilp-samagam-mela-2026",
-      "source": "orissadiary.com",
-      "published": "2026-10-24T09:45:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Anthropic first - half loss balloons to more than $80 billion",
-      "url": "http://www.baltimorestar.com/news/279390449/anthropic-s-first-half-loss-balloons-to-more-than-usd80-billion",
-      "source": "baltimorestar.com",
-      "published": "2026-10-24T09:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Sant Nirankari Samagam encourages devotees to awaken deeper meaning , purpose of their lives",
-      "url": "https://ianslive.in/79th-sant-nirankari-samagam-begins-in-haryanas-samalkha-expected-to-draw-over-10-lakh-devotees--20261024103537",
-      "source": "ianslive.in",
-      "published": "2026-10-24T09:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "iShares S & P 500 Growth ETF $IVW Stock Holdings Lowered by Barrett & Company Inc .",
-      "url": "https://www.themarketsdaily.com/2026/10/24/ishares-sp-500-growth-etf-ivw-stock-holdings-lowered-by-barrett-company-inc.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-24T09:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "DWP Winter Fuel Payment 2026 : Dates , eligibility and how much you could get",
-      "url": "https://www.nottinghampost.com/news/uk-world-news/dwp-winter-fuel-payment-2026-11212533",
-      "source": "nottinghampost.com",
-      "published": "2026-10-24T09:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Biogen Inc . $BIIB Stock Acquired by Barrett & Company Inc .",
-      "url": "https://www.tickerreport.com/banking-finance/13634812/biogen-inc-biib-stock-acquired-by-barrett-company-inc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T09:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Dimensional International Core Equity Market ETF $DFAI Shares Newly Purchased by Barrett & Company Inc .",
-      "url": "https://www.tickerreport.com/banking-finance/13634796/dimensional-international-core-equity-market-etf-dfai-shares-newly-purchased-by-barrett-company-inc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Bastar Dussehra reflects tribal heritage : President Murmu",
-      "url": "https://organiser.org/2026/10/24/419962/bharat/chhattisgarh/chhattisgarh-bastar-dussehra-reflects-tribal-heritage-collective-faith-democratic-traditions-says-president-murmu",
-      "source": "organiser.org",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Vanguard FTSE Emerging Markets ETF $VWO Shares Purchased by Farmers & Merchants Investments Inc .",
-      "url": "https://www.tickerreport.com/banking-finance/13634809/vanguard-ftse-emerging-markets-etf-vwo-shares-purchased-by-farmers-merchants-investments-inc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Vanguard FTSE Developed Markets ETF $VEA Shares Acquired by Altura Wealth Advisors Inc .",
-      "url": "https://www.tickerreport.com/banking-finance/13634793/vanguard-ftse-developed-markets-etf-vea-shares-acquired-by-altura-wealth-advisors-inc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "PlayStation 5  best Lego game  Batman : Legacy of the Dark Knight now £24 from £39",
-      "url": "https://www.cambridge-news.co.uk/whats-on/shopping/playstation-5-best-lego-game-34792071",
-      "source": "cambridge-news.co.uk",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Inflation , earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
-      "url": "http://www.bozemandailychronicle.com/wire/business/inflation-earnings-reports-and-the-mood-of-consumers-and-the-federal-reserve-fill-out-a/article_00761f48-0567-5bef-90ff-a43e4ccfc4e1.html",
-      "source": "bozemandailychronicle.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Vanguard Long - Term Bond ETF $BLV Stock Sold by ETF Portfolio Partners Inc .",
-      "url": "https://www.tickerreport.com/banking-finance/13634798/vanguard-long-term-bond-etf-blv-stock-sold-by-etf-portfolio-partners-inc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "iShares Fallen Angels USD Bond ETF $FALN Stock : Altura Wealth Advisors Inc . Raises Stake",
-      "url": "https://www.tickerreport.com/banking-finance/13634797/ishares-fallen-angels-usd-bond-etf-faln-stock-altura-wealth-advisors-inc-raises-stake.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Angeles Investment Advisors LLC Makes New Investment in Vanguard Mega Cap Growth ETF $MGK",
-      "url": "https://www.themarketsdaily.com/2026/10/24/angeles-investment-advisors-llc-makes-new-investment-in-vanguard-mega-cap-growth-etf-mgk.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Netflix ( NASDAQ : NFLX ) Cut to Hold at Needham & Company LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13634803/netflix-nasdaqnflx-cut-to-hold-at-needham-company-llc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Dimensional US Core Equity Market ETF $DFAU Shares Newly Acquired by Barrett & Company Inc .",
-      "url": "https://www.tickerreport.com/banking-finance/13634794/dimensional-us-core-equity-market-etf-dfau-shares-newly-acquired-by-barrett-company-inc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Zymeworks Presents New Phase 1 Data for Folate Receptor Alpha - Targeting Antibody - Drug Conjugate ZW191 at ESMO Congress 2026",
-      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/zymeworks-presents-new-phase-1-data-for-folate-receptor-alpha-targeting-antibody-drug-conjugate-zw191-at-esmo-congress-2026",
-      "source": "simcoereformer.ca",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Vanguard Mega Cap ETF $MGC Stock Acquired by BIP Wealth LLC",
-      "url": "https://www.themarketsdaily.com/2026/10/24/vanguard-mega-cap-etf-mgc-stock-acquired-by-bip-wealth-llc.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Capital Investment Advisors LLC Buys 483 , 996 Shares of Newmont Corporation $NEM",
-      "url": "https://www.tickerreport.com/banking-finance/13634802/capital-investment-advisors-llc-buys-483996-shares-of-newmont-corporation-nem.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "UK State Pension rise  confirmed  and personal tax allowance update",
-      "url": "https://www.cambridge-news.co.uk/news/cost-of-living/uk-state-pension-rise-confirmed-34795044",
-      "source": "cambridge-news.co.uk",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Cyprus Business Now : income inequality , Limassol forum , tourism , wage disclosure , BoC",
-      "url": "https://cyprus-mail.com/2026/10/24/cyprus-business-now-income-inequality-limassol-forum-tourism-wage-disclosure-boc",
-      "source": "cyprus-mail.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "CF Industries Holdings , Inc . $CF Stock : Farmers & Merchants Investments Inc . Raises Stake",
-      "url": "https://www.themarketsdaily.com/2026/10/24/cf-industries-holdings-inc-cf-stock-farmers-merchants-investments-inc-raises-stake.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Gibson Energy ( OTCMKTS : GBNXF ) Sets New 52 - Week High – Time to Buy ?",
-      "url": "https://www.themarketsdaily.com/2026/10/24/gibson-energy-otcmktsgbnxf-sets-new-52-week-high-time-to-buy.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Morgan Stanley sees upside for Alpha Bank and Eurobank",
-      "url": "https://cyprus-mail.com/2026/10/24/morgan-stanley-sees-upside-for-alpha-bank-and-eurobank",
-      "source": "cyprus-mail.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Slate Grocery REIT Announces Receipt of Interim Order , and Provides Meeting and Circular Details",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69925750-slate-grocery-reit-announces-receipt-of-interim-order-and-provides-meeting-and-circular-details-004.htm",
-      "source": "finanznachrichten.de",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "3 , 071 Microsoft Corporation $MSFT Shares Purchased by Private Management Group Inc .",
-      "url": "https://www.tickerreport.com/banking-finance/13634800/3071-microsoft-corporation-msft-shares-purchased-by-private-management-group-inc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Microsoft Corporation $MSFT Stock Bought by Navellier & Associates Inc .",
-      "url": "https://www.tickerreport.com/banking-finance/13634799/microsoft-corporation-msft-stock-bought-by-navellier-associates-inc.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T09:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Nayyi Navelli  box office collection day 8 : Yami Gautam starrer adds Rs 60 lakhs in India ; worldwide gross reaches Rs 29 . 88 cr",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/nayyi-navelli-box-office-collection-day-8-yami-gautam-starrer-adds-rs-60-lakhs-in-india-worldwide-gross-reaches-rs-29-88-cr/articleshow/135159541.cms",
-      "source": "timesofindia.indiatimes.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "JH SEO Agency Expands AEO and GEO Services as Early AI Search Investment Supports Client Visibility",
-      "url": "http://www.dallassun.com/news/279395432/jh-seo-agency-expands-aeo-and-geo-services-as-early-ai-search-investment-supports-client-visibility",
-      "source": "dallassun.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Caldwell Announces Sale of IQTalent",
-      "url": "http://www.newjerseytelegraph.com/news/279395354/caldwell-announces-sale-of-iqtalent",
-      "source": "newjerseytelegraph.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Beede Breakdown : Orlando Magic drop 2nd straight to open",
-      "url": "https://www.orlandosentinel.com/2026/10/23/orlando-magic-minnesota-timberwolves-game-recap-paolo-banchero-franz-wagner-jalen-suggs-desmond-bane-anthony-edwards-lamelo-ball-kia-center-sean-sweeney",
-      "source": "orlandosentinel.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Prahaar - The Ujjwal Nikam Story  box office collection day 8 : Rajkummar Rao film mints Rs 23 . 76 cr worldwide ; Friday earnings fall 50 %",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/prahaar-the-ujjwal-nikam-story-box-office-collection-day-8-rajkummars-rao-film-mints-rs-23-76-cr-worldwide-friday-earnings-fall-50/articleshow/135159514.cms",
-      "source": "timesofindia.indiatimes.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Xbox First COO Helen Chiang Exits After Three Months",
-      "url": "https://udaipurkiran.com/xboxs-first-coo-helen-chiang-exits-after-three-months",
-      "source": "udaipurkiran.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Bengaluru Business Corridor : Land Acquisition Issues Delay Construction Progress",
-      "url": "https://bangaloremirror.indiatimes.com/bangalore/civic/land-disputes-stall-bengaluru-business-corridor-as-construction-inches-forward/articleshow/135158198.cms",
-      "source": "bangaloremirror.indiatimes.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Eagles , Saquon Barkley cautiously optimistic about his return vs . Dallas",
-      "url": "https://www.mainlinemedianews.com/2026/10/23/eagles-saquon-barkley-cautiously-optimistic-about-his-return-vs-dallas",
-      "source": "mainlinemedianews.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "UK Economy Faces Rising Inflation and Borrowing Ahead of Budget",
-      "url": "https://econotimes.com/UK-Economy-Faces-Rising-Inflation-and-Borrowing-Ahead-of-Budget-1761824",
-      "source": "econotimes.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump at Florida rally revives idea of military intervention in Cuba",
-      "url": "https://www.wvtm13.com/article/trump-florida-rally-military-intervention-cuba/74234331",
-      "source": "wvtm13.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
-      "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal",
-      "source": "aljazeera.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump revives threat of US intervention in Cuba at Florida rally",
-      "url": "https://kcby.com/news/nation-world/trump-revives-threat-of-us-intervention-in-cuba-at-florida-rally",
-      "source": "kcby.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "FAO honors highlight China efforts to strengthen global food security",
-      "url": "http://en.people.cn/n3/2026/1024/c90000-20511937.html",
-      "source": "en.people.cn",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Gold next evolution",
-      "url": "http://www.kitco.com/news/article/2026-10-23/golds-next-evolution",
-      "source": "kitco.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "City Comptroller Mark Levine report reveals the damage the private sector industry has suffered across NYC",
-      "url": "https://nypost.com/2026/10/23/opinion/city-comptroller-mark-levines-report-reveals-the-damage-the-private-sector-industry-has-suffered-across-nyc",
-      "source": "nypost.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Wall Street doubts gold near - term strength , Main Street maintains bullish minority as central banks take center stage",
-      "url": "http://www.kitco.com/news/article/2026-10-23/wall-street-doubts-golds-near-term-strength-main-street-maintains-bullish",
-      "source": "kitco.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "International Business : Euro zone private sector growth slows",
-      "url": "https://www.gdnonline.com:443/Details/1410645",
-      "source": "gdnonline.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump at Florida rally revives idea of military intervention in Cuba",
-      "url": "https://www.ksbw.com/article/trump-florida-rally-military-intervention-cuba/74234331",
-      "source": "ksbw.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump at South Florida rally revives the idea of military intervention in Cuba after Iran",
-      "url": "https://www.newsday.com/news/nation/donald-trump-cuba-venezuela-florida-a87745",
-      "source": "newsday.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Trump at Florida rally revives idea of military intervention in Cuba",
-      "url": "https://www.wmtw.com/article/trump-florida-rally-military-intervention-cuba/74234331",
-      "source": "wmtw.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Telangana CM announces 4 - month employment scheme , to be implemented after Sankranti festival amid El Nino weather conditions",
-      "url": "http://www.indiagazette.com/news/279395470/telangana-cm-announces-4-month-employment-scheme-to-be-implemented-after-sankranti-festival-amid-el-nino-weather-conditions",
-      "source": "indiagazette.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Why Arizona Prices Are Rising Faster Than Paychecks",
-      "url": "https://kwcdcountry.com/ixp/1122/p/inflation-arizona-families-budget",
-      "source": "kwcdcountry.com",
-      "published": "2026-10-24T03:00:00+00:00",
-      "category": "Economy"
     }
   ]
 }
