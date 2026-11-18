@@ -1,12 +1,598 @@
 {
-  "updated": "2026-11-18T07:32+00:00",
+  "updated": "2026-11-18T20:34+00:00",
   "errors": [
-    "Markets: HTTPError",
     "Business: HTTPError",
-    "Politics: HTTPError",
-    "Economy: HTTPError"
+    "Politics: HTTPError"
   ],
   "stories": [
+    {
+      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+      "source": "Federal Reserve: monetary policy",
+      "published": "2026-11-18T19:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Raptors could put Anthony Davis back on their trade radar with a big game Wednesday",
+      "url": "https://raptorsrapture.com/raptors-could-put-anthony-davis-back-on-their-trade-radar-with-a-big-game-wednesday",
+      "source": "raptorsrapture.com",
+      "published": "2026-11-18T17:30:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "AI stocks rally as Nvidia outlook calms demand fears",
+      "url": "https://www.mvariety.com/business/business_news/ai-stocks-rally-as-nvidia-outlook-calms-demand-fears/article_6c481692-4806-4da6-97aa-0586c00f1639.html",
+      "source": "mvariety.com",
+      "published": "2026-11-18T17:30:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Peace in a Humbler Form",
+      "url": "https://www.ncregister.com/commentaries/weigel-peace-in-a-humbler-form",
+      "source": "ncregister.com",
+      "published": "2026-11-18T17:30:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Diesel : The fuel that affects everything",
+      "url": "https://hpr1.com/diesel-the-fuel-that-affects-everything",
+      "source": "hpr1.com",
+      "published": "2026-11-18T17:30:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Difficult decision update as Rick Stein losses hit over £800 , 000",
+      "url": "https://www.witneygazette.co.uk/news/26741674.difficult-decisions-update-rick-stein-losses-hit-800-000",
+      "source": "witneygazette.co.uk",
+      "published": "2026-11-18T17:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bank chief says interest rates not  pre - set  amid further potential rise",
+      "url": "https://www.witneygazette.co.uk/news/national/26742400.bank-chief-says-interest-rates-not-pre-set-amid-potential-rise",
+      "source": "witneygazette.co.uk",
+      "published": "2026-11-18T17:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rupee strength , not weakness , may pose challenge in FY28 : CEA Nageswaran",
+      "url": "https://www.business-standard.com/economy/news/lower-crude-oil-prices-could-bring-huge-windfall-for-india-in-fy28-cea-126111801445_1.html",
+      "source": "business-standard.com",
+      "published": "2026-11-18T17:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How to Government Better : Free Ideas You Should Steal",
+      "url": "https://fas.org/publication/steal-this-to-make-government-work-better",
+      "source": "fas.org",
+      "published": "2026-11-18T17:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Open Enrollment meeting",
+      "url": "https://www.centenary.edu/events/details/open-enrollment-meeting-2/2026-11-18",
+      "source": "centenary.edu",
+      "published": "2026-11-18T17:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "SBP Governor Calls for Structural Reforms , Export - Led Growth",
+      "url": "https://pakobserver.net/sbp-governor-calls-for-structural-reforms-export-led-growth",
+      "source": "pakobserver.net",
+      "published": "2026-11-18T17:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IRS Reveals 2027 Tax Bracket , Deduction Increases For Americans",
+      "url": "https://1190talkradio.iheart.com/content/2026-11-18-irs-reveals-2027-tax-bracket-deduction-increases-for-americans",
+      "source": "1190talkradio.iheart.com",
+      "published": "2026-11-18T17:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "IRS Reveals 2027 Tax Bracket , Deduction Increases For Americans",
+      "url": "https://veropatriot.iheart.com/content/2026-11-18-irs-reveals-2027-tax-bracket-deduction-increases-for-americans",
+      "source": "veropatriot.iheart.com",
+      "published": "2026-11-18T17:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pretty Wednesday",
+      "url": "https://www.centenary.edu/events/details/pretty-wednesday/2026-11-18",
+      "source": "centenary.edu",
+      "published": "2026-11-18T17:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Michael Burry Dumps Alphabet Stake And Pivots Put Strategy While Doubling Down On Adobe ( NASDAQ : ADBE ) And MercadoLibre ( NASDAQ : MELI )",
+      "url": "https://www.foreignpolicyjournal.com/2026/11/17/michael-burry-dumps-alphabet-stake-and-pivots-put-strategy-while-doubling-down-on-adobe-nasdaq-adbe-and-mercadolibre-nasdaq-meli",
+      "source": "foreignpolicyjournal.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "A research blade in Germany sheds its worn front edge after erosion , and the spar underneath stays bolted to the turbine for a second life",
+      "url": "https://www.ecoportal.net/en/worn-front-edge-research-blade-germany/46636",
+      "source": "ecoportal.net",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "The Nasdaq - 100 Is Down More Than 10 % From Its High , but the Broad Market Is Down Far Less . Here How Gaps Like This Have Ended Since 1986 .",
+      "url": "https://www.fool.com/investing/2026/11/17/the-nasdaq-100-is-down-more-than-10-from-its-high-but-the-broad-market-is-down-far-less-here-s-how-gaps-like-this-have-ended-since-1986",
+      "source": "fool.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Cherokee Nation launches youth agriculture task force",
+      "url": "https://www.publicradiotulsa.org/local-regional/2026-11-17/cherokee-nation-launches-youth-agriculture-task-force",
+      "source": "publicradiotulsa.org",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "A Week Of Tech Failures Hammers Markets As Apple ( NASDAQ : AAPL ), Banks And Airlines All Face Disruptions",
+      "url": "https://www.foreignpolicyjournal.com/2026/11/17/a-week-of-tech-failures-hammers-markets-as-apple-nasdaq-aapl-banks-and-airlines-all-face-disruptions",
+      "source": "foreignpolicyjournal.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Billionaire Stanley Druckenmiller Says He  Staying Away  From Stocks . Here What He Bought and Sold Last Quarter",
+      "url": "https://www.fool.com/investing/2026/11/17/billionaire-stanley-druckenmiller-says-he-s-staying-away-from-stocks-here-s-what-he-bought-and-sold-last-quarter",
+      "source": "fool.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Octopus Stocks Recover Five Years After Red Tide Disaster",
+      "url": "https://newsonjapan.com/article/151424.php",
+      "source": "newsonjapan.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Ford Motor vs . Stellantis : Which Automaker Titan Stock Is a Better Buy for 2027 ?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/11/17/ford-motor-vs-stellantis-which-automaker-titan-stock-is-a-better-buy-for-2027",
+      "source": "fool.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "AI Agents vs . Banks : Who Will Win ? Im Betting on Banks .",
+      "url": "https://www.fool.com/investing/2026/11/17/ai-agents-vs-banks-who-will-win-i-m-betting-on-banks",
+      "source": "fool.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Massive Sulphide Discovery at the Rockley Project",
+      "url": "https://www.brantfordexpositor.ca/press-releases/globe-newswire/massive-sulphide-discovery-at-the-rockley-project",
+      "source": "brantfordexpositor.ca",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Here What $10 , 000 Invested in MP Materials Could Be Worth by 2030 as EV Demand Accelerates",
+      "url": "https://www.fool.com/investing/2026/11/17/heres-what-10000-invested-in-mp-materials-could-be-worth-by-2030-as-ev-demand-accelerates",
+      "source": "fool.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Jensen Huang scandal illustrates why human nature is cybersecurity weakest link | National",
+      "url": "https://www.lebanondemocrat.com/maconcounty/news/national/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecurity-s-weakest-link/article_9ebfe951-d807-5261-ab6a-3a9041fe6799.html",
+      "source": "lebanondemocrat.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Chevron Says AI Has Already Captured Over $100 Million in Value . Here Where It Might Find an Even Bigger Payoff .",
+      "url": "https://www.fool.com/investing/2026/11/17/chevron-says-ai-has-already-captured-over-usd100-million-in-value-here-s-where-it-might-find-an-even-bigger-payoff",
+      "source": "fool.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Column | Give Thanksgiving a moment to shine",
+      "url": "https://pittnews.com/article/204661/opinions/column-give-thanksgiving-a-moment-to-shine",
+      "source": "pittnews.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Disney Beat Expectations , Home Depot has a new CEO , and the Defense Company Behind the Grounding - Motley Fool Hidden Gems Investing Podcast",
+      "url": "https://www.fool.com/podcasts/hidden-gems/2026-11-17-disneys-beat-expectations-home-has",
+      "source": "fool.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Van Hollen bid to replace Schumer as leader is putting pressure on Democrats to take sides - Boston News , Weather , Sports",
+      "url": "https://whdh.com/news/van-hollens-bid-to-replace-schumer-as-leader-is-putting-pressure-on-democrats-to-take-sides",
+      "source": "whdh.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Only 11 % of the Power Plants Vistra Just Bought Are in Texas . Here Why That Matters After the Election .",
+      "url": "https://www.fool.com/investing/2026/11/17/only-11-of-the-power-plants-vistra-just-bought-are",
+      "source": "fool.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Van Hollen bid to replace Schumer as leader is putting pressure on Democrats to take sides",
+      "url": "https://www.ksat.com/news/politics/2026/11/17/van-hollens-bid-to-replace-schumer-as-leader-is-putting-pressure-on-democrats-to-take-sides",
+      "source": "ksat.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Nvidia 103 % Revenue Growth Took a Backseat to Its Internal Drama",
+      "url": "https://www.fool.com/investing/2026/11/17/nvidias-103-revenue-growth-took-a-backseat-to-its-internal-drama",
+      "source": "fool.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Seoul stocks open sharply higher on bargain hunting after upbeat Nvidia earnings",
+      "url": "https://www.koreaherald.com/article/10940774",
+      "source": "koreaherald.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Seguin ISD tax rate election passes by 96 votes as most Texas school district measures fail",
+      "url": "https://www.ksat.com/news/local/2026/11/18/seguin-isd-tax-rate-election-passes-by-96-votes-as-most-texas-school-districts-measures-fail",
+      "source": "ksat.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Stock Market Down N2 . 3tn on Profit - taking in Dangote Cement – THISDAYLIVE",
+      "url": "https://www.thisdaylive.com/2026/11/18/stock-market-down-n2-3tn-on-profit-taking-in-dangote-cement",
+      "source": "thisdaylive.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Another wipeout hits Wall Street as Nvidia , other jittery AI stocks swing lower",
+      "url": "https://www.ky3.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower",
+      "source": "ky3.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Johnson & Johnson vs . Vertex Pharmaceuticals : Which Healthcare Stock Is a Better Buy for 2027 ?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/11/17/johnson-johnson-vs-vertex-pharmaceuticals-which-healthcare-stock-is-a-better-buy-for-2027",
+      "source": "fool.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Nvidia Has a $118 Billion Promise Tucked Inside Its Blowout Quarter . Here What It Means for the Stock",
+      "url": "https://www.fool.com/investing/2026/11/17/nvidia-has-a-usd118-billion-promise-tucked-inside-its-blowout-quarter-here-s-what-it-means-for-the-stock",
+      "source": "fool.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "AMPERA and Berto Announce Proposed Business Combination to Accelerate Advanced Energy Technology Development and Commercialization",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70160136-ampera-and-berto-announce-proposed-business-combination-to-accelerate-advanced-energy-technology-development-and-commercialization-008.htm",
+      "source": "finanznachrichten.de",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "3 Dividend Kings to Buy in November That Could Pay You for the Rest of Your Life",
+      "url": "https://www.fool.com/investing/2026/11/17/3-dividend-kings-to-buy-in-november-that-could-pay-you-for-the-rest-of-your-life",
+      "source": "fool.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Why M - tron Industries Topped the Market on Tuesday",
+      "url": "https://www.fool.com/investing/2026/11/17/why-m-tron-industries-topped-the-market-on-tuesday",
+      "source": "fool.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "2 of the Best Dividend Stocks to Buy With $5 , 000 in November",
+      "url": "https://www.fool.com/investing/2026/11/17/2-of-the-best-dividend-stocks-to-buy-with-usd5-000-in-november",
+      "source": "fool.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Stock Market Today , Nov . 17 : Stocks Slide on AI Chip and Tech Pressures , Salesforce Plummets 9 %",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9",
+      "source": "fool.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Portland thriving VHS scene brings film fans together for analog screenings and tape swaps",
+      "url": "https://www.klcc.org/arts-culture/2026-11-17/portland-vhs-revival-cinemagic-tape-swaps-physical-media",
+      "source": "klcc.org",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Markets"
+    },
+    {
+      "title": "Super funds get Labor green light for riskier investing",
+      "url": "https://www.camdencourier.com.au/story/9393795/super-funds-get-labor-green-light-for-riskier-investing",
+      "source": "camdencourier.com.au",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nearly half of Trussell Trust food banks warn supplies are  critically low  as they brace for winter",
+      "url": "https://www.mirror.co.uk/news/politics/trussell-food-bank-poverty-charity-37885851",
+      "source": "mirror.co.uk",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Southern Highlands home values drop as sale times hit 70 days",
+      "url": "https://www.yasstribune.com.au/story/9393178/southern-highlands-home-values-drop-as-sale-times-hit-70-days",
+      "source": "yasstribune.com.au",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Account Manager | Personal Lines at Oakbridge Insurance / Insurance Journal Jobs",
+      "url": "https://www.insurancejournal.com/jobs/892339-account-manager-personal-lines",
+      "source": "insurancejournal.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham suggests Neet welfare reforms could also be applied to over - 25s",
+      "url": "https://www.harrowtimes.co.uk/news/national/26739210.burnham-suggests-neet-welfare-reforms-also-applied-over-25s",
+      "source": "harrowtimes.co.uk",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham suggests Neet welfare reforms could also be applied to over - 25s",
+      "url": "https://www.thisisoxfordshire.co.uk/news/national/26739210.burnham-suggests-neet-welfare-reforms-also-applied-over-25s",
+      "source": "thisisoxfordshire.co.uk",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham suggests Neet welfare reforms could also be applied to over - 25s",
+      "url": "https://www.ludlowadvertiser.co.uk/news/national/26739210.burnham-suggests-neet-welfare-reforms-also-applied-over-25s",
+      "source": "ludlowadvertiser.co.uk",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Jasper County Sheriff Office Employee Arrested",
+      "url": "https://kicks105.com/ixp/167/p/jasper-county-sheriffs-office-employee-arrested",
+      "source": "kicks105.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "AVRE celebrates 100 years of service , announces $400K in state funding for expansion",
+      "url": "https://www.wbng.com/2026/11/17/avre-celebrates-100-years-service-announces-400k-state-funding-expansion",
+      "source": "wbng.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tinubu Education Reset : N372 . 62bn Student Loans , Technical Skills And Wider School Access – THISDAYLIVE",
+      "url": "https://www.thisdaylive.com/2026/11/18/tinubus-education-reset-n372-62bn-student-loans-technical-skills-and-wider-school-access",
+      "source": "thisdaylive.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier",
+      "url": "https://www.lebanondemocrat.com/maconcounty/news/national/44-cool-finds-for-holiday-hosting-that-make-entertaining-easier/article_e7177c21-76dc-595c-b3ae-1cd2324b55b0.html",
+      "source": "lebanondemocrat.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Super funds get Labor green light for riskier investing",
+      "url": "https://www.muswellbrookchronicle.com.au/story/9393795/super-funds-get-labor-green-light-for-riskier-investing",
+      "source": "muswellbrookchronicle.com.au",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ask Eli : A deep dive into Arlington fall real estate market",
+      "url": "https://www.arlnow.com/2026/11/17/ask-eli-a-deep-dive-into-arlingtons-fall-real-estate-market-eli1",
+      "source": "arlnow.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Super funds get Labor green light for riskier investing",
+      "url": "https://www.newcastleherald.com.au/story/9393795/super-funds-get-labor-green-light-for-riskier-investing",
+      "source": "newcastleherald.com.au",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham suggests Neet welfare reforms could also be applied to over - 25s",
+      "url": "https://www.thurrockgazette.co.uk/news/national/26739210.burnham-suggests-neet-welfare-reforms-also-applied-over-25s",
+      "source": "thurrockgazette.co.uk",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier",
+      "url": "https://www.hometownregister.com/news/national/44-cool-finds-for-holiday-hosting-that-make-entertaining-easier/article_df9af3b4-f2f0-5a91-a608-9c068ee28795.html",
+      "source": "hometownregister.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why some surgeons charge thousands more for identical operations | Camden Haven Courier",
+      "url": "https://www.camdencourier.com.au/story/9393117/why-some-surgeons-charge-thousands-more-for-identical-operations",
+      "source": "camdencourier.com.au",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Senior official calls for tougher oversight to root out corruption in armed forces",
+      "url": "http://eng.chinamil.com.cn/2025xb/O_251451/16500413.html",
+      "source": "eng.chinamil.com.cn",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier",
+      "url": "https://www.wyomingnewsnow.tv/news/national/44-cool-finds-for-holiday-hosting-that-make-entertaining-easier/article_8c592b45-0c09-5ad2-9996-ed3728b2143b.html",
+      "source": "wyomingnewsnow.tv",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "European Commission expects EU economy to grow by 1 . 4 % in 2026 and 2027",
+      "url": "http://www.europesun.com/news/279439357/european-commission-expects-eu-economy-to-grow-by-14-in-2026-and-2027",
+      "source": "europesun.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham suggests Neet welfare reforms could also be applied to over - 25s",
+      "url": "https://www.thisiswiltshire.co.uk/news/national/26739210.burnham-suggests-neet-welfare-reforms-also-applied-over-25s",
+      "source": "thisiswiltshire.co.uk",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Super funds get Labor green light for riskier investing",
+      "url": "https://www.dailyliberal.com.au/story/9393795/super-funds-get-labor-green-light-for-riskier-investing",
+      "source": "dailyliberal.com.au",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Why some surgeons charge thousands more for identical operations | Yass Tribune",
+      "url": "https://www.yasstribune.com.au/story/9393117/why-some-surgeons-charge-thousands-more-for-identical-operations",
+      "source": "yasstribune.com.au",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nearly half of Trussell Trust food banks warn supplies are  critically low  as they brace for winter",
+      "url": "https://www.aol.co.uk/articles/nearly-half-trussell-trust-food-000640000.html",
+      "source": "aol.co.uk",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham suggests Neet welfare reforms could also be applied to over - 25s",
+      "url": "https://www.hexham-courant.co.uk/news/national/26739210.burnham-suggests-neet-welfare-reforms-also-applied-over-25s",
+      "source": "hexham-courant.co.uk",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Durham police chief urges swift action to address persistent violence",
+      "url": "https://www.wral.com/news/local/durham-crime-prevention-strategy-response-chief-november-2026",
+      "source": "wral.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham suggests Neet welfare reforms could also be applied to over - 25s",
+      "url": "https://www.wiltsglosstandard.co.uk/news/national/26739210.burnham-suggests-neet-welfare-reforms-also-applied-over-25s",
+      "source": "wiltsglosstandard.co.uk",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ashburton Long - Term Plan Tipped To Be  One Of The Most Boring  Yet",
+      "url": "https://www.scoop.co.nz/stories/AK2611/S00534/ashburton-long-term-plan-tipped-to-be-one-of-the-most-boring-yet.htm",
+      "source": "scoop.co.nz",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Music Oregon working to keep live music playing in the state",
+      "url": "https://www.klcc.org/podcast/oregon-on-the-record/2026-11-17/music-oregon-working-to-keep-live-music-playing-in-the-state",
+      "source": "klcc.org",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham suggests Neet welfare reforms could also be applied to over - 25s",
+      "url": "https://www.guardian-series.co.uk/news/national/26739210.burnham-suggests-neet-welfare-reforms-also-applied-over-25s",
+      "source": "guardian-series.co.uk",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham hopes to extend welfare overhaul to over - 25s , after slamming the current system as  soul - destroying",
+      "url": "https://www.lbc.co.uk/article/andy-burnham-hopes-to-extend-welfare-overhaul-to-over-25s-neets-milburn-5HjdmTh_2",
+      "source": "lbc.co.uk",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Reserve Bank warns AI is speeding up cyber - attacks on NZ banks",
+      "url": "https://newswire.co.nz/2026/11/reserve-bank-of-new-zealand-warns-frontier-ai-is-speeding-up-cyber-attacks-and-giving-banks-less-time-to-fix-flaws",
+      "source": "newswire.co.nz",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mansfield University closing : A Solomon choice between finances , community benefit – The Morning Call",
+      "url": "https://www.mcall.com/2026/11/17/mansfield-university-closing-commonwealth-history",
+      "source": "mcall.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Obiwulu : Nigeria is Making Significant Investments in Infrastructure – THISDAYLIVE",
+      "url": "https://www.thisdaylive.com/2026/11/18/obiwulu-nigeria-is-making-significant-investments-in-infrastructure",
+      "source": "thisdaylive.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Burnham suggests Neet welfare reforms could also be applied to over - 25s",
+      "url": "https://www.eveshamjournal.co.uk/news/national/26739210.burnham-suggests-neet-welfare-reforms-also-applied-over-25s",
+      "source": "eveshamjournal.co.uk",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "44 Cool Finds for Holiday Hosting That Make Entertaining Easier",
+      "url": "https://www.bransontrilakesnews.com/news/national/article_73bce543-2352-52ea-87c5-d52a565ae1a0.html",
+      "source": "bransontrilakesnews.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Resolving Uncredited Pension Funds Imbroglio – THISDAYLIVE",
+      "url": "https://www.thisdaylive.com/2026/11/18/resolving-uncredited-pension-funds-imbroglio",
+      "source": "thisdaylive.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rising federal loan bills under new Trump rules put financial squeeze on California students",
+      "url": "https://www.capradio.org/articles/2026/11/17/rising-federal-loan-bills-under-new-trump-rules-put-financial-squeeze-on-california-students",
+      "source": "capradio.org",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump heads to China , betting on unscripted diplomacy with Xi and Putin",
+      "url": "https://www.wral.com/news/ap/3fc81-trump-heads-to-china-betting-on-unscripted-diplomacy-with-xi-and-putin",
+      "source": "wral.com",
+      "published": "2026-11-18T01:15:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Elders posts 187pc profit leap as new boss Dedoncker meets the team | The Land",
       "url": "https://www.theland.com.au/story/9392452/elders-posts-187pc-profit-leap-as-new-boss-dedoncker-meets-the-team",
@@ -6418,594 +7004,6 @@
       "source": "livemint.com",
       "published": "2026-10-25T12:30:00+00:00",
       "category": "Business"
-    },
-    {
-      "title": "Mint Explainer | How new land compensation rules could speed up India clean energy transition",
-      "url": "https://www.livemint.com/industry/energy/mint-explainer-how-new-land-compensation-rules-could-speed-up-india-s-clean-energy-transition-11792913800449.html",
-      "source": "livemint.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Sekisui House ( OTCMKTS : SKHSY ) Stock Crosses Above 50 Day Moving Average – Time to Sell ?",
-      "url": "https://www.themarketsdaily.com/2026/10/25/sekisui-house-otcmktsskhsy-stock-crosses-above-50-day-moving-average-time-to-sell.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Israeli elections - political parties explained : Raam and the Joint List",
-      "url": "https://ejpress.org/israeli-elections-political-parties-explained-raam-and-the-joint-list",
-      "source": "ejpress.org",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Eldorado Gold 2027 Outlook : Two New Mines Turning On at Once , With 40 % Production Growth Guided",
-      "url": "https://www.fool.com/coverage/moneyball/2026/10/25/eldorado-gold-s-2027-outlook-two-new-mines-turning-on-at-once-with-40-production-growth-guided",
-      "source": "fool.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Heritage Financial Q3 Earnings Call Highlights",
-      "url": "https://www.themarketsdaily.com/2026/10/25/heritage-financial-q3-earnings-call-highlights.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Transworld Sea - Connect IFSC Private Limited to Purchase Vessels OEL Surya and OEL Varun",
-      "url": "https://www.equitybulls.com/news/377669/transworld-sea-connect-ifsc-private-limited-to-purchase-vessels-oel-surya-and-oe",
-      "source": "equitybulls.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Airlines can claim GST refunds on cancelled tickets if tax amount is returned to passengers : GST Appellate Tribunal",
-      "url": "https://www.livemint.com/industry/airlines-can-claim-gst-refunds-on-cancelled-tickets-if-tax-amount-is-returned-to-passengers-gst-appellate-tribunal-11792923228182.html",
-      "source": "livemint.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "China stocks enter bear market as AI enthusiasm fades , growth concerns mount",
-      "url": "https://morungexpress.com/china-stocks-enter-bear-market-as-ai-enthusiasm-fades-growth-concerns-mount",
-      "source": "morungexpress.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Molina Healthcare Q3 Earnings Call Highlights",
-      "url": "https://www.themarketsdaily.com/2026/10/25/molina-healthcare-q3-earnings-call-highlights.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Here What the Average Men Social Security Benefit Is From Ages 62 to 70",
-      "url": "https://www.fool.com/retirement/social-security/2026/10/25/here-s-what-the-average-men-s-social-security-benefit-is-from-ages-62-to-70",
-      "source": "fool.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Graphite One ( CVE : GPH ) Share Price Crosses Below 200 Day Moving Average – Should You Sell ?",
-      "url": "https://www.themarketsdaily.com/2026/10/25/graphite-one-cvegph-share-price-crosses-below-200-day-moving-average-should-you-sell.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Heritage Financial ( NASDAQ : HFWA ) expands buyback to 5 % as net income rises",
-      "url": "https://www.themarketsdaily.com/2026/10/25/heritage-financial-nasdaq-hfwa-expands-buyback-to-5-as-net-income-rises.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Comparing GoDaddy ( NYSE : GDDY ) & CoreWeave ( NASDAQ : CRWV )",
-      "url": "https://www.themarketsdaily.com/2026/10/25/comparing-godaddy-nysegddy-coreweave-nasdaqcrwv.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Merck & Co ., Inc . $MRK Stake Boosted by Norris Perne & French LLP MI",
-      "url": "https://www.themarketsdaily.com/2026/10/25/merck-co-inc-mrk-stake-boosted-by-norris-perne-french-llp-mi.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Resolute Holdings Management ( NYSE : RHLD ) versus Deutsche Boerse ( OTCMKTS : DBOEY ) Head - To - Head Comparison",
-      "url": "https://www.themarketsdaily.com/2026/10/25/resolute-holdings-management-nyserhld-versus-deutsche-boerse-otcmktsdboey-head-to-head-comparison.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Delhi court upholds cheating , conspiracy proceedings against M3M and its promoters in ₹450 crore land fraud case",
-      "url": "https://www.livemint.com/industry/real-estate/delhi-court-upholds-cheating-conspiracy-proceedings-against-m3m-and-its-promoters-in-450-crore-land-fraud-case-11792924990832.html",
-      "source": "livemint.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Financial Comparison : Finward Bancorp ( NASDAQ : FNWD ) and United Community Banks ( NYSE : UCB )",
-      "url": "https://www.themarketsdaily.com/2026/10/25/financial-comparison-finward-bancorp-nasdaqfnwd-and-united-community-banks-nyseucb.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Fed policy , Q2 earnings , crude oil prices among key market triggers next week",
-      "url": "https://morungexpress.com/fed-policy-q2-earnings-crude-oil-prices-among-key-market-triggers-next-week",
-      "source": "morungexpress.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "What is the £100k income  cliff - edge ?",
-      "url": "https://www.aol.co.uk/articles/100k-income-cliff-edge-120003000.html",
-      "source": "aol.co.uk",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Bank holiday tomorrow Monday Oct 26 : Chandigarh , Bengaluru , Shimla , Srinagar , Jammu , Agartala branch closed ; here why",
-      "url": "https://www.livemint.com/money/bank-holiday-tomorrow-monday-oct-26-chandigarh-bengaluru-shimla-srinagar-jammu-agartala-branch-closed-heres-why-11792923968636.html",
-      "source": "livemint.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Tech Layoffs 2026 : Job cuts near 2 lakh globally as big tech like Microsoft , Google , Oracle , Meta & more pivot to AI",
-      "url": "https://www.livemint.com/technology/tech-news/tech-layoffs-2026-job-cuts-near-2-lakh-globally-as-big-tech-like-microsoft-google-oracle-meta-more-pivot-to-ai-11792917241824.html",
-      "source": "livemint.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "BitFuFu Inc . ( NASDAQ : FUFU ) Stock Has Consensus Price Target of $5 . 00",
-      "url": "https://www.themarketsdaily.com/2026/10/25/bitfufu-inc-nasdaqfufu-stock-has-consensus-price-target-of-5-00.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Coventry benefit payouts for Universal Credit and PIP have doubled in five years",
-      "url": "https://www.coventrytelegraph.net/news/coventry-news/coventry-benefit-payouts-universal-credit-34808893",
-      "source": "coventrytelegraph.net",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Arab News | Saudi innovation takes the wheel",
-      "url": "https://www.arabnews.com/opinion/saudi-innovation-takes-the-wheel-3008200",
-      "source": "arabnews.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "PM Modi witnesses IAF air show , inaugurates garment facility in Varanasi",
-      "url": "https://morungexpress.com/pm-modi-witnesses-iafs-air-show-inaugurates-garment-facility-in-varanasi",
-      "source": "morungexpress.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Derry City and Strabane Growth Partnership says the region economy is looking up - Highland Radio",
-      "url": "https://highlandradio.com/2026/10/25/derry-city-and-strabane-growth-partnership-says-the-regions-economy-is-looking-up",
-      "source": "highlandradio.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "More dads taking paid family leave for a new baby , sometimes as much as moms are",
-      "url": "https://www.ketr.org/2026-10-25/more-dads-taking-paid-family-leave-for-a-new-baby-sometimes-as-much-as-moms-are",
-      "source": "ketr.org",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "More dads taking paid family leave for a new baby , sometimes as much as moms are",
-      "url": "https://www.kalw.org/npr-news/2026-10-25/more-dads-taking-paid-family-leave-for-a-new-baby-sometimes-as-much-as-moms-are",
-      "source": "kalw.org",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "They mustnt stay there without hope : Mbalula backs basic income grant for youth without matric",
-      "url": "https://www.timeslive.co.za/news/south-africa/2026-10-25-they-mustnt-stay-there-without-hope-mbalula-backs-basic-income-grant-for-youth-without-matric",
-      "source": "timeslive.co.za",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Whoever earns the most from the Irpef cut with the rate of 33 % up to 55 thousand euros ( and then up to 60 thousand )",
-      "url": "https://www.thevermilion.com/whoever-earns-the-most-from-the-irpef-cut-with-the-rate-of-33-up-to-55-thousand-euros-and-then-up-to-60-thousand/article_22072",
-      "source": "thevermilion.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Interest rates unlikely to reach 4 . 75 % by next summer , say City economists",
-      "url": "https://www.aol.co.uk/articles/interest-rates-unlikely-reach-4-120005000.html",
-      "source": "aol.co.uk",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Brazil election tests Lula leftist legacy against Bolsonaro right - wing movement",
-      "url": "https://abc17news.com/news/national-world/cnn-world/2026/10/24/brazils-election-tests-lulas-leftist-legacy-against-bolsonaros-right-wing-movement",
-      "source": "abc17news.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Centre extends AIF scheme to boost farm infrastructure investments",
-      "url": "https://www.livemint.com/economy/centre-extends-aif-scheme-to-boost-farm-infrastructure-investments-11792919083732.html",
-      "source": "livemint.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "PM Modi attends  Wings over Gange aerial show by Air Force",
-      "url": "https://www.siasat.com/pm-modi-attends-wings-over-ganges-aerial-show-by-air-force-3564241",
-      "source": "siasat.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Israeli elections - political parties explained : The Reservists and the New Economic Party",
-      "url": "https://ejpress.org/israeli-elections-political-parties-explained-the-reservists-and-the-new-economic-party",
-      "source": "ejpress.org",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Construction activity showing no signs of slowing down in Ritchot - SteinbachOnline . com - Local news , Weather , Sports , Free Classifieds and Job Listings for Steinbach , Manitoba",
-      "url": "https://steinbachonline.com/articles/construction-activity-showing-no-signs-of-slowing-down-in-ritchot",
-      "source": "steinbachonline.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Abbreviated Pundit Roundup : Is the  poorly educated  learnin ?",
-      "url": "https://www.dailykos.com/stories/2026/10/25/800117408/community/a",
-      "source": "dailykos.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Mercury Sound Off for Sunday , Oct . 25",
-      "url": "https://www.pottsmerc.com/2026/10/25/the-mercurys-sound-off-for-sunday-oct-25",
-      "source": "pottsmerc.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "GNR Sunday 10 / 25 ☀️ Good News Roundup ☀️ 53 Pips from Bill and Jess ☀️ Poll : Are you helping to Get Out The Vote ?",
-      "url": "https://www.dailykos.com/stories/2026/10/25/800117338/community/gnr-sunday-10-25-%E2%98%80%EF%B8%8F-good-news-roundup-%E2%98%80%EF%B8%8F-53-pips-from-bill-and-jess-%E2%98%80%EF%B8%8F-poll",
-      "source": "dailykos.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "One hundred layoffs and channels shut down : the BBC very heavy ax ( but it only the beginning )",
-      "url": "https://www.thevermilion.com/one-hundred-layoffs-and-channels-shut-down-the-bbcs-very-heavy-ax-but-its-only-the-beginning/article_22075",
-      "source": "thevermilion.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "San Luis Obispo County opens 80 - year ambulance contract to competitive bid",
-      "url": "https://www.ems1.com/ems-management/calif-county-to-bid-out-ambulance-contract-for-first-time-in-80-years",
-      "source": "ems1.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A $180 loan , a $1 , 040 demand : The debt traps ensnaring domestic workers",
-      "url": "https://www.asiaone.com/singapore/domestic-worker-loan-debt-trap",
-      "source": "asiaone.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The 2027 Social Security COLA Is Official . Here the Average Benefit at Every Age From 62 to 70 .",
-      "url": "https://www.fool.com/retirement/2026/10/24/the-2027-social-security-cola-is-official-here-s-the-average-benefit-at-every-claiming-age-from-62-to-70",
-      "source": "fool.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A Strong Future for American Wood – Southwest Arkansas Radio",
-      "url": "https://southwestarkansasradio.com/a-strong-future-for-american-wood",
-      "source": "southwestarkansasradio.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "FairPoint : As J & K marks 79th Accession Day anniversary , some elements seek to keep  Free Kashmir  slogan alive",
-      "url": "https://morungexpress.com/fairpoint-as-jk-marks-79th-accession-day-anniversary-some-elements-seek-to-keep-free-kashmir-slogan-alive",
-      "source": "morungexpress.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "J & K & L High Court Grants Bail To Man Accused Of Wife Murder After 11 Years In Jail , Says Speedy Trial Is A Fundamental Right",
-      "url": "https://www.livelaw.in/high-court/jammu-kashmir/jk-high-court-grants-bail-to-man-accused-of-wifes-murder-after-11-years-in-jail-says-speedy-trial-is-a-fundamental-right-555860",
-      "source": "livelaw.in",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Deckers ( DECK ) lifts EPS outlook as revenue hits a record $1 . 48 billion",
-      "url": "https://www.themarketsdaily.com/2026/10/25/deckers-deck-lifts-eps-outlook-as-revenue-hits-a-record-1-48-billion.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "RSS ideology must be uprooted : Kharge declares  second war of independence ; demands SIR halt and ballot polls",
-      "url": "https://www.moneycontrol.com/news/india/rss-ideology-must-be-uprooted-kharge-declares-second-war-of-independence-demands-sir-halt-and-ballot-polls-14059503.html",
-      "source": "moneycontrol.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "iShares S & P 100 ETF $OEF Shares Newly Acquired by NTV Asset Management LLC",
-      "url": "https://www.themarketsdaily.com/2026/10/25/ishares-sp-100-etf-oef-shares-newly-acquired-by-ntv-asset-management-llc.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Prediction : Here What $500 Invested in Archer Aviation Will Be Worth in 5 Years",
-      "url": "https://www.fool.com/investing/2026/10/25/prediction-heres-what-500-invested-in-archer-aviat",
-      "source": "fool.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Top Shipping Stocks To Watch Now – October 22nd",
-      "url": "https://www.themarketsdaily.com/2026/10/25/top-shipping-stocks-to-watch-now-october-22nd.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "St . Paul bridge connecting downtown and Mounds Boulevard to reopen in November",
-      "url": "https://www.mprnews.org/story/2026/10/25/kellogg3rd-street-bridge-to-reopen-in-november",
-      "source": "mprnews.org",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Rabid  dog bites 16 in Latehar , victims given anti - rabies shots | Ranchi News",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/rabid-dog-bites-16-in-latehar-victims-given-anti-rabies-shots/articleshow/135190048.cms",
-      "source": "timesofindia.indiatimes.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Best Telecom Stocks To Research – October 22nd",
-      "url": "https://www.themarketsdaily.com/2026/10/25/best-telecom-stocks-to-research-october-22nd.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Neuberger Berman High Yield Strategies Fund ( NYSEAMERICAN : NHS ) Shares Cross Below 200 Day Moving Average – Here Why",
-      "url": "https://www.themarketsdaily.com/2026/10/25/neuberger-berman-high-yield-strategies-fund-nyseamericannhs-shares-cross-below-200-day-moving-average-heres-why.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Nationwide boosts rates on Cash ISAs - one boasts 5 % rate",
-      "url": "https://www.aol.co.uk/articles/nationwide-boosts-rates-cash-isas-113500000.html",
-      "source": "aol.co.uk",
-      "published": "2026-10-25T12:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Good News for Tesla Investors : 3 Key Benchmarks Elon Musk Company Delivered On in the Third Quarter",
-      "url": "https://www.fool.com/investing/2026/10/25/good-news-for-tesla-investors-3-key-benchmarks-elo",
-      "source": "fool.com",
-      "published": "2026-10-25T11:30:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Bill Gates Sees 20 Years of Turmoil Before AI Creates  True Abundance",
-      "url": "https://www.businessinsider.com/bill-gates-ai-abundance-job-losses-unemployment-robots-musk-amodei-2026-10",
-      "source": "businessinsider.com",
-      "published": "2026-10-25T11:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Norris Perne & French LLP MI Buys 244 , 273 Shares of Trimble Inc . $TRMB",
-      "url": "https://www.themarketsdaily.com/2026/10/25/norris-perne-french-llp-mi-buys-244273-shares-of-trimble-inc-trmb.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T11:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "HDFC Bank launches flexi ( green ) electric car loan , offering differential loan proportions for the body and battery of EV",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/hdfc-bankintroduces-electric-car-loan-offeringdifferential-loan-proportions-for-the-body-and-battery-of-the-ev/article71622856.ece",
-      "source": "thehindubusinessline.com",
-      "published": "2026-10-25T11:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Dar orders greater wheat supply after committee reviews essential - food stocks",
-      "url": "https://paktribune.com/dar-orders-greater-wheat-supply-after-committee-reviews-essential-food-stocks",
-      "source": "paktribune.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Analyzing Fujifilm ( OTCMKTS : FUJIY ) and ARM ( NASDAQ : ARM )",
-      "url": "https://www.tickerreport.com/banking-finance/13635619/analyzing-fujifilm-otcmktsfujiy-and-arm-nasdaqarm.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Critical Contrast : Genmab A / S ( NASDAQ : GMAB ) vs . BioLineRx ( NASDAQ : BLRX )",
-      "url": "https://www.tickerreport.com/banking-finance/13635618/critical-contrast-genmab-a-s-nasdaqgmab-vs-biolinerx-nasdaqblrx.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Critical Survey : Mirum Pharmaceuticals ( NASDAQ : MIRM ) versus United Therapeutics ( NASDAQ : UTHR )",
-      "url": "https://www.themarketsdaily.com/2026/10/25/critical-survey-mirum-pharmaceuticals-nasdaqmirm-versus-united-therapeutics-nasdaquthr.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Over 3 lakh silver carp fish seeds stocked in Gobind Sagar Reservoir",
-      "url": "https://www.hindustantimes.com/cities/chandigarh-news/over-3-lakh-silver-carp-fish-seeds-stocked-in-gobind-sagar-reservoir-101792872672374.html",
-      "source": "hindustantimes.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Village Super Market ( NASDAQ : VLGEA ) vs . LQR House ( NASDAQ : YHC ) Critical Contrast",
-      "url": "https://www.themarketsdaily.com/2026/10/25/village-super-market-nasdaqvlgea-vs-lqr-house-nasdaqyhc-critical-contrast.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Tough part of the busines – Winnipeg Free Press",
-      "url": "https://www.winnipegfreepress.com/breakingnews/2026/10/24/tough-part-of-the-business",
-      "source": "winnipegfreepress.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Critical Analysis : POET Technologies ( NASDAQ : POET ) vs . Everspin Tech ( NASDAQ : MRAM )",
-      "url": "https://www.tickerreport.com/banking-finance/13635617/critical-analysis-poet-technologies-nasdaqpoet-vs-everspin-tech-nasdaqmram.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Reviewing Lennox International ( NYSE : LII ) and Allegion ( NYSE : ALLE )",
-      "url": "https://www.themarketsdaily.com/2026/10/25/reviewing-lennox-international-nyselii-and-allegion-nysealle.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Why the AI boom may pose more peril to US markets than meets the eye",
-      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/why-ai-boom-may-pose-more-peril-us-markets-meets-eye",
-      "source": "businesstimes.com.sg",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Analyzing Trinity Biotech ( NASDAQ : TRIB ) and Venus Concept ( NASDAQ : VERO )",
-      "url": "https://www.themarketsdaily.com/2026/10/25/analyzing-trinity-biotech-nasdaqtrib-and-venus-concept-nasdaqvero.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Nanovibronix ( NASDAQ : FEED ) and Koninklijke Philips ( NYSE : PHG ) Critical Survey",
-      "url": "https://www.dailypolitical.com/2026/10/24/nanovibronix-nasdaqfeed-and-koninklijke-philips-nysephg-critical-survey.html",
-      "source": "dailypolitical.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "China US$3 . 5 trillion stock rout deepens as profits sink , major stimulus stays elusive",
-      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/chinas-us3-5-trillion-stock-rout-deepens-profits-sink-major-stimulus-stays-elusive",
-      "source": "businesstimes.com.sg",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Analyzing Orion Energy Systems ( NASDAQ : OESX ) & XCHG ( NASDAQ : XCH )",
-      "url": "https://www.tickerreport.com/banking-finance/13635620/analyzing-orion-energy-systems-nasdaqoesx-xchg-nasdaqxch.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Comparing Boxlight ( NASDAQ : BOXL ) and XTEND AI Robotics ( NYSE : XTND )",
-      "url": "https://www.dailypolitical.com/2026/10/24/comparing-boxlight-nasdaqboxl-and-xtend-ai-robotics-nysextnd.html",
-      "source": "dailypolitical.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Trade tariffs cause whiplash at Port Milwaukee",
-      "url": "https://news.wfsu.org/npr-news/2026-10-24/trade-tariffs-cause-whiplash-at-port-milwaukee",
-      "source": "news.wfsu.org",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Trade tariffs cause whiplash at Port Milwaukee",
-      "url": "https://www.wgcu.org/2026-10-24/trade-tariffs-cause-whiplash-at-port-milwaukee",
-      "source": "wgcu.org",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Financial Analysis : NMI ( NASDAQ : NMIH ) vs . Rocket Companies ( NYSE : RKT )",
-      "url": "https://www.dailypolitical.com/2026/10/24/financial-analysis-nmi-nasdaqnmih-vs-rocket-companies-nyserkt.html",
-      "source": "dailypolitical.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Gold prices break $4 , 000 as investors brace for crucial test",
-      "url": "https://www.aol.com/articles/gold-prices-break-4-000-231700000.html",
-      "source": "aol.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Head - To - Head Contrast : Zai Lab ( NASDAQ : ZLAB ) versus Madrigal Pharmaceuticals ( NASDAQ : MDGL )",
-      "url": "https://www.dailypolitical.com/2026/10/24/head-to-head-contrast-zai-lab-nasdaqzlab-versus-madrigal-pharmaceuticals-nasdaqmdgl.html",
-      "source": "dailypolitical.com",
-      "published": "2026-10-25T03:30:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "S & P 500 ( SPY ) And Dow Jones Industrial Average ( DJIA ) Slide As Oil Prices Surge And AI Profitability Fears Persist",
-      "url": "https://www.foreignpolicyjournal.com/2026/10/24/sp-500-spy-and-dow-jones-industrial-average-djia-slide-as-oil-prices-surge-and-ai-profitability-fears-persist",
-      "source": "foreignpolicyjournal.com",
-      "published": "2026-10-24T22:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Nuveen AMT - Free Quality Municipal Income Fund ( NYSE : NEA ) Share Price Crosses Below 50 Day Moving Average – Here What Happened",
-      "url": "https://www.tickerreport.com/banking-finance/13635531/nuveen-amt-free-quality-municipal-income-fund-nysenea-share-price-crosses-below-50-day-moving-average-heres-what-happened.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-24T22:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Nuveen Virginia Quality Municipal Income Fund ( NYSE : NPV ) Stock Crosses Below 50 - Day Moving Average – Should You Sell ?",
-      "url": "https://www.dailypolitical.com/2026/10/24/nuveen-virginia-quality-municipal-income-fund-nysenpv-stock-crosses-below-50-day-moving-average-should-you-sell.html",
-      "source": "dailypolitical.com",
-      "published": "2026-10-24T22:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "5 Cozy Horror Books to Read This Fall That Are Perfect From Start to Finish",
-      "url": "https://www.polygon.com/best-books-cozy-horror-fall-season",
-      "source": "polygon.com",
-      "published": "2026-10-24T22:00:00+00:00",
-      "category": "Markets"
     }
   ]
 }
