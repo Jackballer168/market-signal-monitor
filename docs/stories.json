@@ -1,11 +1,689 @@
 {
-  "updated": "2026-11-21T07:12+00:00",
+  "updated": "2026-11-21T19:18+00:00",
   "errors": [
-    "Business: HTTPError",
-    "Politics: HTTPError",
-    "Economy: HTTPError"
+    "Markets: HTTPError",
+    "Business: HTTPError"
   ],
   "stories": [
+    {
+      "title": "Ruto woos Western Kenya with sugar bonus , teacher jobs and title deeds",
+      "url": "https://www.standardmedia.co.ke/politics/article/2001562774/ruto-woos-western-kenya-with-sugar-bonus-teacher-jobs-and-title-deeds",
+      "source": "standardmedia.co.ke",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Port Colborne swears in its first woman mayor",
+      "url": "https://www.niagarathisweek.com/news/council/port-colborne-swears-in-first-woman-mayor/article_1de8e47a-1aa5-54be-8a49-c4639c3dd55d.html",
+      "source": "niagarathisweek.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Gold , copper , aluminium dive to at least 7 - month lows",
+      "url": "https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece",
+      "source": "thehindu.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Voters oust some sheriffs who signed pacts to help Trump immigration enforcement efforts",
+      "url": "https://newschannel9.com/news/local/voters-oust-some-sheriffs-who-signed-pacts-to-help-trumps-immigration-enforcement-efforts",
+      "source": "newschannel9.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Top Apple - related stories for the week of November 16 - 20",
+      "url": "https://www.mactech.com/2026/11/21/top-apple-related-stories-for-the-week-of-november-16-20",
+      "source": "mactech.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "2028 Democratic primary : Is Raphael Warnock running for president ?",
+      "url": "https://www.vox.com/america-actually/511301/raphael-warnock-2028-presidential-speculation",
+      "source": "vox.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Local News - Southern Maryland Country 102 . 9 WKIK",
+      "url": "https://country1029wkik.com/local-news/c1291e1ba344cc48bbd464377f616aef",
+      "source": "country1029wkik.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "John Thune Blames Influencers for Causing the Collapse of the Save America Act",
+      "url": "https://townhall.com/news/mattvespa/2026/11/21/john-thune-blames-these-people-for-causing-the-collapse-of-the-save-america-act-n2686835",
+      "source": "townhall.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Voters oust some sheriffs who signed pacts to help Trump immigration enforcement efforts",
+      "url": "http://www.bozemandailychronicle.com/wire/politics/voters-oust-some-sheriffs-who-signed-pacts-to-help-trumps-immigration-enforcement-efforts/article_d03c3853-bf02-53de-813d-9349da46ad0b.html",
+      "source": "bozemandailychronicle.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Stapilus : Looks like vouchers from here",
+      "url": "http://www.idahopress.com/opinion/columnists/stapilus-looks-like-vouchers-from-here/article_14399153-c736-4075-b827-1aeeb3b029a6.html",
+      "source": "idahopress.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Maui Water Supply Board To Planning Director : Where Are You ?",
+      "url": "https://www.civilbeat.org/2026/11/maui-water-supply-board-to-planning-director-where-are-you",
+      "source": "civilbeat.org",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Byron York : Dems incorrect about the end of democracy",
+      "url": "http://www.rockymounttelegram.com/opinion/editorial_columnists/byron-york-dems-incorrect-about-the-end-of-democracy/article_6aefe86f-9656-46de-a2cd-6363e9605c18.html",
+      "source": "rockymounttelegram.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Crypto Senate Ally Ruben Gallego Says the Industry Is  F * cked  After Blue Wave",
+      "url": "https://gizmodo.com/crypto-senate-ally-ruben-gallego-says-the-industry-is-fcked-after-blue-wave-2000843344",
+      "source": "gizmodo.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "2027 : Tinubu arrives Lagos after Ibadan APC rally",
+      "url": "https://dailypost.ng/2026/11/21/president-tinubu-storms-lagos-after-ibadan-apc-really",
+      "source": "dailypost.ng",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Trump touts meeting with Xi and Putin but offers few results",
+      "url": "https://www.wemu.org/npr-national-news/2026-11-20/trump-touts-meeting-with-xi-and-putin-but-offers-few-results",
+      "source": "wemu.org",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "BJP holds rally in Teliamura , campaigns for all 15 municipal candidates",
+      "url": "https://neindia.com/bjp-holds-rally-in-teliamura-campaigns-for-all-15-municipal-candidates",
+      "source": "neindia.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Republicans Are Screwing Up the Lame Duck Session by Not Showing Up for Work",
+      "url": "https://townhall.com/news/mattvespa/2026/11/21/republicans-are-screwing-up-the-lame-duck-session-by-not-showing-up-n2686832",
+      "source": "townhall.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Governor Refuses To Certify Election Win To Texas House For Convicted Felon",
+      "url": "http://www.zerohedge.com/political/governor-refuses-certify-election-win-texas-house-convicted-felon",
+      "source": "zerohedge.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Voters oust some sheriffs who signed pacts to help Trump immigration enforcement efforts",
+      "url": "https://www.khqa.com/news/nation-world/voters-oust-some-sheriffs-who-signed-pacts-to-help-trumps-immigration-enforcement-efforts/article_9f0c89a4-53d8-567c-b79b-cb932fcfc6b1.html",
+      "source": "khqa.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Rickards : Hard Truths On Iran And Ukraine",
+      "url": "http://www.zerohedge.com/geopolitical/rickards-hard-truths-iran-and-ukraine",
+      "source": "zerohedge.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Dont dislike BJP : Shehzad Poonawalla on quitting politics ; calls rift with brother ideological",
+      "url": "https://timesofindia.indiatimes.com/india/dont-dislike-bjp-shehzad-poonawalla-on-quitting-politics-calls-rift-with-brother-ideological/articleshow/136058361.cms",
+      "source": "timesofindia.indiatimes.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Oath Keepers founder and Jan . 6 leader Stewart Rhodes is  absolutely done  with Trump",
+      "url": "https://www.wboc.com/news/national/oath-keepers-founder-and-jan-6-leader-stewart-rhodes-is-absolutely-done-with-trump/article_5108f5e8-09d5-51dd-8bba-71614a27cbe4.html",
+      "source": "wboc.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "FBI Probes Suspected Hack Of Critical Nationwide Crime Database As  Cyber Pandemic  Fears Mount",
+      "url": "http://www.zerohedge.com/technology/fbi-probes-suspected-hack-critical-nationwide-crime-database-cyber-pandemic-fears-mount",
+      "source": "zerohedge.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "UK and EU strike post - Brexit deal on food trade and youth travel",
+      "url": "https://nebraska.tv/news/nation-world/uk-and-eu-strike-post-brexit-deal-on-food-trade-and-youth-travel",
+      "source": "nebraska.tv",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Voters oust some sheriffs who signed pacts to help Trump immigration enforcement efforts",
+      "url": "http://www.rockymounttelegram.com/news/state/voters-oust-some-sheriffs-who-signed-pacts-to-help-trumps-immigration-enforcement-efforts/article_1666bbf2-7bf6-5ad3-9913-ec75a88cee96.html",
+      "source": "rockymounttelegram.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Chuck Schumer vs . Chris Van Hollen : The real issue in Senate leader fight",
+      "url": "https://www.vox.com/politics/511616/schumer-van-hollen-senate-leadership-election-2026-filibuster",
+      "source": "vox.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "UK Burnham Declares EU Deal  Done , But Brussels Isnt Finished With Him Yet",
+      "url": "http://www.zerohedge.com/geopolitical/burnham-declares-eu-deal-done-brussels-isnt-finished-him-yet",
+      "source": "zerohedge.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Steven Roberts : The politics of decency has made a comeback",
+      "url": "http://www.rockymounttelegram.com/opinion/editorial_columnists/steven-roberts-the-politics-of-decency-has-made-a-comeback/article_82c3063c-36b6-4710-b087-834c3c56fa4d.html",
+      "source": "rockymounttelegram.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Why Obama Remarks About the GOP During His State of the Union Addresses Are Amusing",
+      "url": "https://townhall.com/news/mattvespa/2026/11/21/why-obamas-remarks-about-the-gop-during-his-state-of-the-union-addresses-are-amusing-n2686822",
+      "source": "townhall.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Estonia - Russia border closure sends residents rushing to cross before deadline",
+      "url": "https://www.euronews.com/2026/11/21/estonia-russia-border-closure-sends-residents-rushing-to-cross-before-deadline",
+      "source": "euronews.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Rob Schofield : GOP leaders kneecap state , local government on their way out the door",
+      "url": "http://www.rockymounttelegram.com/opinion/editorial_columnists/rob-schofield-gop-leaders-kneecap-state-local-government-on-their-way-out-the-door/article_8260235c-9c31-478e-81b9-8550f1d2f74f.html",
+      "source": "rockymounttelegram.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Epoch Readers Weigh In on How to Keep Social Security From Running Dry",
+      "url": "https://www.theepochtimes.com/article/epoch-readers-weigh-in-on-how-to-keep-social-security-from-running-dry-6127707",
+      "source": "theepochtimes.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Build It Here : Trump Threatens Tax on Companies That Put Data Centers Overseas | Business & Energy",
+      "url": "https://www.citynewsokc.com/business/build-it-here-trump-threatens-tax-on-companies-that-put-data-centers-overseas/article_5fe48a73-5d0c-402b-b47c-a1cf9d2162ad.html",
+      "source": "citynewsokc.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Tripura to deploy 39 security force companies for November 27 civic polls",
+      "url": "https://neindia.com/tripura-to-deploy-39-security-force-companies-for-november-27-civic-polls",
+      "source": "neindia.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "UK and EU strike post - Brexit deal on food trade and youth travel",
+      "url": "https://cbs2iowa.com/news/nation-world/uk-and-eu-strike-post-brexit-deal-on-food-trade-and-youth-travel",
+      "source": "cbs2iowa.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Christian nationalists see Republican midterm losses as an opportunity to supplant Trump MAGA",
+      "url": "https://www.wboc.com/news/national/christian-nationalists-see-republicans-midterm-losses-as-an-opportunity-to-supplant-trumps-maga/article_9e4e02aa-9cb7-522e-95eb-39683f5943a4.html",
+      "source": "wboc.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "This week on Tom Hardware Premium : 21 November 2026 AMD , Nvidia and more show off the future of high - performance computing at SC26",
+      "url": "https://www.tomshardware.com/tech-industry/supercomputers/this-week-on-toms-hardware-premium-21-november-2026-amd-nvidia-and-more-show-off-the-future-of-high-performance-computing-at-sc26",
+      "source": "tomshardware.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "What is Bagheera AT1 ? Adani Defence & Aerospace tests ATGM system in Rajasthan : Check capabilities , specifications",
+      "url": "https://www.livemint.com/companies/news/what-is-bagheera-at1-adani-defence-aerospace-tests-atgm-system-in-rajasthan-check-capabilities-specifications-11795269956004.html",
+      "source": "livemint.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "New THC restrictions could force Louisville hemp shops to shut down",
+      "url": "https://www.wkyt.com/2026/11/20/new-thc-restrictions-could-force-louisville-hemp-shops-shut-down",
+      "source": "wkyt.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Guest commentary : Voters rejected data centers , but 2 , 000 are in the works",
+      "url": "http://www.idahopress.com/opinion/guest_opinions/guest-commentary-voters-rejected-data-centers-but-2-000-are-in-the-works/article_33a41b70-b0da-41f2-a31d-c959702d89a8.html",
+      "source": "idahopress.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Florida Pastor Convicted in Haiti President Assassination Plot Where Mercenaries Used US COVID - 19 Funds",
+      "url": "https://www.ibtimes.co.uk/florida-pastor-convicted-haiti-president-assassination-plot-1833777",
+      "source": "ibtimes.co.uk",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "UK and EU strike post - Brexit deal on food trade and youth travel",
+      "url": "https://cbs4local.com/news/nation-world/uk-and-eu-strike-post-brexit-deal-on-food-trade-and-youth-travel",
+      "source": "cbs4local.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Jagan accuses Naidu government of electoral malpractice , weakening democratic institutions",
+      "url": "https://neindia.com/jagan-accuses-naidu-government-of-electoral-malpractice-weakening-democratic-institutions",
+      "source": "neindia.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "UK and EU strike post - Brexit deal on food trade and youth travel",
+      "url": "https://newschannel9.com/news/nation-world/uk-and-eu-strike-post-brexit-deal-on-food-trade-and-youth-travel",
+      "source": "newschannel9.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "UK Races to Rewrite Nuclear Rules by 2027",
+      "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/UK-Races-to-Rewrite-Nuclear-Rules-by-2027.html",
+      "source": "oilprice.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Bitcoin price crash : ​Falls to lowest level in two years - What behind plunge of world largest cryptocurrency",
+      "url": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
+      "source": "livemint.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "A 10 % drop for the stock market is unnerving , but it not that unusual",
+      "url": "https://www.wboc.com/news/national/a-10-drop-for-the-stock-market-is-unnerving-but-its-not-that-unusual/article_533a7175-1ff0-5476-8d75-759e19d119b0.html",
+      "source": "wboc.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inflation , economic growth and the mood of US consumers in focus this week",
+      "url": "http://www.rockymounttelegram.com/news/national/inflation-economic-growth-and-the-mood-of-us-consumers-in-focus-this-week/article_3bcbe7a7-4499-5f7b-9cca-fe36c6708ee1.html",
+      "source": "rockymounttelegram.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The economic crisis in Black America",
+      "url": "https://www.canoncitydailyrecord.com/2026/11/21/the-economic-crisis-in-black-america",
+      "source": "canoncitydailyrecord.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Who is Vidhya Parshuramkar ? IIT graduate millet innovation earns her a place on TIME 100 Next India 2026 list",
+      "url": "https://www.livemint.com/news/trends/who-is-vidhya-parshuramkar-iit-graduate-s-millet-innovation-earns-her-a-place-on-time-s-100-next-india-2026-list-11795271566009.html",
+      "source": "livemint.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lack of refrigeration trucks , transportation , cost among barriers to fresh food on Big island , report finds : Big Island Now",
+      "url": "https://bigislandnow.com/2026/11/21/lack-of-refrigeration-trucks-transportation-cost-among-barriers-to-fresh-food-on-big-island-report-finds",
+      "source": "bigislandnow.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nathan Lindeman : Is FIRE right for you ? What early retirement really takes",
+      "url": "http://www.rockymounttelegram.com/features/columnists/nathan-lindeman-is-fire-right-for-you-what-early-retirement-really-takes/article_d665a3af-b361-4f92-8350-35a484877b2a.html",
+      "source": "rockymounttelegram.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The economic crisis in Black America",
+      "url": "https://www.broomfieldenterprise.com/2026/11/21/the-economic-crisis-in-black-america",
+      "source": "broomfieldenterprise.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Morrisons to close 36 convenience stores across united kingdom",
+      "url": "https://www.yourlocalguardian.co.uk/news/national/uk-today/26750805.morrisons-close-36-convenience-stores-across-uk",
+      "source": "yourlocalguardian.co.uk",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inflation , economic growth and the mood of US consumers in focus this week",
+      "url": "http://www.cecildaily.com/ap/nation/inflation-economic-growth-and-the-mood-of-us-consumers-in-focus-this-week/article_eecddea8-8262-5331-98e9-3e6b2de185d6.html",
+      "source": "cecildaily.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gold Hits 14 - Month Low",
+      "url": "https://www.theepochtimes.com/business/gold-hits-14-month-low-6127794",
+      "source": "theepochtimes.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Toronto Pearson Airport Terminal 2 mystery , YYZ , and hidden history",
+      "url": "https://www.niagarathisweek.com/life/pearson-airport-terminal-2-history/article_1e16b005-92a8-5853-9105-63ffa06e4e53.html",
+      "source": "niagarathisweek.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "A 10 % drop for the stock market is unnerving , but it not that unusual",
+      "url": "http://www.cecildaily.com/ap/nation/a-10-drop-for-the-stock-market-is-unnerving-but-its-not-that-unusual/article_03e4105b-7b2a-5e97-8636-cec36bbba7b9.html",
+      "source": "cecildaily.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "A 10 % drop for the stock market is unnerving , but it not that unusual",
+      "url": "http://www.rockymounttelegram.com/news/national/a-10-drop-for-the-stock-market-is-unnerving-but-its-not-that-unusual/article_78dcb78a-51d2-5cf4-ba07-9b6404aea753.html",
+      "source": "rockymounttelegram.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "New State Pension call targets £3 , 000 - a - year gap for people over 76",
+      "url": "https://www.basingstokegazette.co.uk/news/26750590.new-state-pension-call-targets-3-000-a-year-gap-people-76",
+      "source": "basingstokegazette.co.uk",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inflation , economic growth and the mood of US consumers in focus this week",
+      "url": "http://www.idahopress.com/ap_news/us/inflation-economic-growth-and-the-mood-of-us-consumers-in-focus-this-week/article_3d93bb0f-90c1-5cf1-85cc-e186d1d6df58.html",
+      "source": "idahopress.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Morrisons to close 36 convenience stores across united kingdom | Braintree and Witham Times",
+      "url": "https://www.braintreeandwithamtimes.co.uk/news/national/uk-today/26750805.morrisons-close-36-convenience-stores-across-uk",
+      "source": "braintreeandwithamtimes.co.uk",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inflation , economic growth and the mood of US consumers in focus this week",
+      "url": "http://www.bozemandailychronicle.com/wire/business/inflation-economic-growth-and-the-mood-of-us-consumers-in-focus-this-week/article_03e18def-5aad-5ddb-bd47-40c10816e2ae.html",
+      "source": "bozemandailychronicle.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "14 - year - old used AI chatbot to hack Agniveer test website to earn money : Sources",
+      "url": "https://www.thehindu.com/news/national/haryana/14-year-old-used-ai-chatbot-to-hack-agniveer-test-website-to-earn-money-sources/article71728795.ece",
+      "source": "thehindu.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Buying off the plans : Risks that can change before settlement – The Prosperity Project",
+      "url": "https://www.nzherald.co.nz/business/buying-off-the-plan-risks-that-can-change-before-settlement-the-prosperity-project/LA7AETIGDBA6XKUACMNXK4VI7I",
+      "source": "nzherald.co.nz",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Three things that will flip the switch on our economic recovery",
+      "url": "https://www.nzherald.co.nz/business/three-things-that-will-flip-the-switch-on-our-economic-recovery-liam-dann/premium/ASWXILW7P5HMFO53JXAZCAPSW4",
+      "source": "nzherald.co.nz",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FBI crime database hacked , sources say , in second cyberattack in months",
+      "url": "https://www.foxnews.com/politics/fbi-probes-second-cyberattack-months-hackers-breach-key-crime-database-sources-say",
+      "source": "foxnews.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "World is watching India economy , says Goyal after Trump cites 7 % growth",
+      "url": "http://www.tucsonpost.com/news/279447179/world-is-watching-india-economy-says-goyal-after-trump-cites-7-growth",
+      "source": "tucsonpost.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Brendan OConnor says world feels  abnormal  for daughter with Down syndrome",
+      "url": "https://www.belfastlive.co.uk/news/tv/brendan-oconnor-says-world-feels-34947575",
+      "source": "belfastlive.co.uk",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sudbury activist :  You cant live on minimum wage",
+      "url": "https://www.thesudburystar.com/news/sudbury-activist-you-cant-live-on-minimum-wage",
+      "source": "thesudburystar.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inflation , economic growth and the mood of US consumers in focus this week",
+      "url": "http://www.goskagit.com/news/ap_business/inflation-economic-growth-and-the-mood-of-us-consumers-in-focus-this-week/article_d6af9b01-7459-57ab-8c69-26e46cb2c7bf.html",
+      "source": "goskagit.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "A 10 % drop for the stock market is unnerving , but it not that unusual",
+      "url": "https://www.khqa.com/news/nation-world/a-10-drop-for-the-stock-market-is-unnerving-but-its-not-that-unusual/article_eb88ed8c-d671-5f5f-b9f3-c1bfd3d824d4.html",
+      "source": "khqa.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Letter : Senedd size and additional salaries questioned",
+      "url": "https://www.countytimes.co.uk/news/26747310.letter-senedd-size-additional-salaries-questioned",
+      "source": "countytimes.co.uk",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gujarat : Work begins to clean historic Ramnath Lake",
+      "url": "https://www.prokerala.com/news/articles/a1839601.html",
+      "source": "prokerala.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "In his opposition to PM Modi , Rahul Gandhi has begun to oppose India itself : Anurag Thakur",
+      "url": "http://www.tucsonpost.com/news/279447008/in-his-opposition-to-pm-modi-rahul-gandhi-has-begun-to-oppose-india-itself-anurag-thakur",
+      "source": "tucsonpost.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Martin Lewis on new HMRC £3 , 000 side hustle allowance",
+      "url": "https://www.basingstokegazette.co.uk/news/26750614.martin-lewis-new-hmrc-3-000-side-hustle-allowance",
+      "source": "basingstokegazette.co.uk",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "South African Catholic Bishops mourn former Deputy President Phumzile Mlambo - Ngcuka",
+      "url": "https://sacbc.org.za/south-african-catholic-bishops-mourn-former-deputy-president-phumzile-mlambo-ngcuka",
+      "source": "sacbc.org.za",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The economic crisis in Black America",
+      "url": "https://www.fortmorgantimes.com/2026/11/21/the-economic-crisis-in-black-america",
+      "source": "fortmorgantimes.com",
+      "published": "2026-11-21T16:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "AP Trending SummaryBrief at 8 : 52 a . m . EST",
+      "url": "http://www.wdtimes.com/news/national/ap-trending-summarybrief-at-8-52-a-m-est/article_32ed84e2-f9d5-535e-b473-d780b238fd42.html",
+      "source": "wdtimes.com",
+      "published": "2026-11-21T14:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "WAYNE AND EDWARDS COUNTIES ANNOUNCE DECEMBER 1ST SWEARING - IN CEREMONIES FOR ELECTED OFFICIALS",
+      "url": "https://www.wfiwradio.com/2026/11/21/wayne-and-edwards-counties-announce-december-1st-swearing-in-ceremonies-for-elected-officials",
+      "source": "wfiwradio.com",
+      "published": "2026-11-21T14:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "What It Looks Like to Parent Without Gender",
+      "url": "https://www.thenation.com/article/society/what-it-looks-like-to-parent-without-gender",
+      "source": "thenation.com",
+      "published": "2026-11-21T14:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "EU proposes tax on Big Tech to boost budget",
+      "url": "https://www.thelocal.dk/20261121/eu-proposes-tax-on-big-tech-to-boost-budget",
+      "source": "thelocal.dk",
+      "published": "2026-11-21T14:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Sex beast cut up my sister – then torment killed my brother too",
+      "url": "https://www.mirror.co.uk/news/uk-news/sex-beast-cut-up-sister-37895445",
+      "source": "mirror.co.uk",
+      "published": "2026-11-21T14:30:00+00:00",
+      "category": "Politics"
+    },
+    {
+      "title": "Why people love living in the Essex town of Manningtree",
+      "url": "https://www.echo-news.co.uk/news/26748543.people-love-living-essex-town-manningtree",
+      "source": "echo-news.co.uk",
+      "published": "2026-11-21T14:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Plast Pack 2026 Begins with Bhoomi Pujan ; Mega Plastic Industry Expo to Commence on November 27",
+      "url": "https://news.webindia123.com/news/Articles/Business/20261121/4522773.html",
+      "source": "news.webindia123.com",
+      "published": "2026-11-21T14:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Update for expectant mums in 2027 – maternity leave changes looming",
+      "url": "https://www.stokesentinel.co.uk/news/stoke-on-trent-news/update-expectant-mums-2027--11250773",
+      "source": "stokesentinel.co.uk",
+      "published": "2026-11-21T14:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Big change to unfair dismissal rules employers need to prepare for",
+      "url": "https://www.herefordtimes.com/news/26736795.big-change-unfair-dismissal-rules-employers-need-prepare",
+      "source": "herefordtimes.com",
+      "published": "2026-11-21T14:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Will protect Kannada , ensure jobs for Kannadigas , says Karnataka CM Shivakumar",
+      "url": "https://news.webindia123.com/news/Articles/India/20261121/4522774.html",
+      "source": "news.webindia123.com",
+      "published": "2026-11-21T14:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "World is watching India economy , says Goyal after Trump cites 7 % growth",
+      "url": "http://www.greekherald.com/news/279447179/world-is-watching-india-economy-says-goyal-after-trump-cites-7-growth",
+      "source": "greekherald.com",
+      "published": "2026-11-21T14:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "In his opposition to PM Modi , Rahul Gandhi has begun to oppose India itself : Anurag Thakur",
+      "url": "http://www.indiagazette.com/news/279447008/in-his-opposition-to-pm-modi-rahul-gandhi-has-begun-to-oppose-india-itself-anurag-thakur",
+      "source": "indiagazette.com",
+      "published": "2026-11-21T13:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "President Ilham Aliyev held expanded meeting with President of Vietnam",
+      "url": "https://en.apa.az/official-news/president-ilham-aliyev-held-expanded-meeting-with-president-of-vietnam-updated-537583",
+      "source": "en.apa.az",
+      "published": "2026-11-21T13:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Capital Trade Links reports a profitable second successive quarter , extends beyond lending .",
+      "url": "http://www.indiagazette.com/news/279447149/capital-trade-links-reports-a-profitable-second-successive-quarter-extends-beyond-lending",
+      "source": "indiagazette.com",
+      "published": "2026-11-21T13:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UP Polls : Owaisi - Azad take their political battle to ground , Saharanpur visit sets stage for Nov 26 show of strength",
+      "url": "https://news.webindia123.com/news/Articles/India/20261121/4522623.html",
+      "source": "news.webindia123.com",
+      "published": "2026-11-21T13:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ashok Leyland to set up truck plant in Singur , work to begin soon : Minister",
+      "url": "https://www.business-standard.com/companies/news/ashok-leyland-to-set-up-truck-plant-in-singur-work-to-begin-soon-minister-126112100594_1.html",
+      "source": "business-standard.com",
+      "published": "2026-11-21T13:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Betfred to shut further 73 stores after closing 132 venues",
+      "url": "https://www.cravenherald.co.uk/news/national/uk-today/26750554.betfred-shut-73-stores-closing-132-venues",
+      "source": "cravenherald.co.uk",
+      "published": "2026-11-21T13:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Black Country Chamber calls for more help to hire young people",
+      "url": "https://www.halesowennews.co.uk/news/26746385.black-country-chamber-calls-help-hire",
+      "source": "halesowennews.co.uk",
+      "published": "2026-11-21T13:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Betfred to shut further 73 stores after closing 132 venues",
+      "url": "https://www.wharfedaleobserver.co.uk/news/national/uk-today/26750554.betfred-shut-73-stores-closing-132-venues",
+      "source": "wharfedaleobserver.co.uk",
+      "published": "2026-11-21T13:30:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Latest Articles",
       "url": "https://freerepublic.com/tag/*/index?more=4403808",
@@ -6326,685 +7004,6 @@
       "source": "manningrivertimes.com.au",
       "published": "2026-10-26T07:15:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Lula is declared winner of Brazil election as Bolsonaro rejects results",
-      "url": "https://www.milfordmercury.co.uk/news/national/26668635.lula-declared-winner-brazils-election-bolsonaro-rejects-results",
-      "source": "milfordmercury.co.uk",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Lula is declared winner of Brazil election as Bolsonaro rejects results",
-      "url": "https://www.harrowtimes.co.uk/news/national/26668635.lula-declared-winner-brazils-election-bolsonaro-rejects-results",
-      "source": "harrowtimes.co.uk",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Gambia first blind magistrate tests a system built for the sighted | News",
-      "url": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted",
-      "source": "aljazeera.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "MUSIGA warns musicians against glorifying online fraud - The Ghanaian Chronicle",
-      "url": "https://thechronicle.com.gh/musiga-warns-musicians-against-glorifying-online-fraud",
-      "source": "thechronicle.com.gh",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "SC Says 14 States So Far Agree To Raise Retirement Age Of Judicial Officers From 60 To 62 Yrs",
-      "url": "https://www.dailyexcelsior.com/sc-says-14-states-so-far-agree-to-raise-retirement-age-of-judicial-officers-from-60-to-62-yrs",
-      "source": "dailyexcelsior.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Set aside Mann Ki Baat to focus on people concerns : Cong slams PM on inflation",
-      "url": "https://www.dailyexcelsior.com/set-aside-mann-ki-baat-to-focus-on-peoples-concerns-cong-slams-pm-on-inflation",
-      "source": "dailyexcelsior.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Lula is declared winner of Brazil election as Bolsonaro rejects results",
-      "url": "https://www.enfieldindependent.co.uk/news/national/26668635.lula-declared-winner-brazils-election-bolsonaro-rejects-results",
-      "source": "enfieldindependent.co.uk",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A new scientific avenue for daridorexant : Idorsia to advance development in autism spectrum disorder",
-      "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/globenewswire/a-new-scientific-avenue-for-daridorexant-idorsia-to-advance-development-in-autism-spectrum-disorder/2453635",
-      "source": "manilatimes.net",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Taos County deputy resigns after telling prosecutors he wont testify",
-      "url": "https://www.santafenewmexican.com/news/local_news/taos-county-deputy-resigns-after-telling-prosecutors-he-wont-testify/article_d806d9bd-398b-472a-9a2e-5144507d3b94.html",
-      "source": "santafenewmexican.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sterling Holds Near $1 . 3373 as FXStreet Flags $1 . 3420 Hurdle",
-      "url": "https://econotimes.com/Sterling-Holds-Near-1-3373-as-FXStreet-Flags-1-3420-Hurdle-1763380",
-      "source": "econotimes.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "SIKA FURTHER STRENGTHENS LOCAL PRESENCE BY ACQUIRING WATERPROOFING COMPANY IN THE UAE",
-      "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/globenewswire/sika-further-strengthens-local-presence-by-acquiring-waterproofing-company-in-the-uae/2453637",
-      "source": "manilatimes.net",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Ameren ( NYSE : AEE ) Stock Dropped to Sell by Wall Street Zen",
-      "url": "https://www.themarketsdaily.com/2026/10/26/ameren-nyseaee-stock-dropped-to-sell-by-wall-street-zen.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Ross Stores ( NASDAQ : ROST ) Stock Gets Downgrade from Wall Street Zen",
-      "url": "https://www.themarketsdaily.com/2026/10/26/ross-stores-nasdaqrost-stock-gets-downgrade-from-wall-street-zen.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Lazard ( NYSE : LAZ ) Stock Gets Price Target Trim from Morgan Stanley",
-      "url": "https://www.themarketsdaily.com/2026/10/26/lazard-nyselaz-stock-gets-price-target-trim-from-morgan-stanley.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Franklin Electric ( FELE ) Expected to Post Earnings on Wednesday",
-      "url": "https://www.themarketsdaily.com/2026/10/26/franklin-electric-fele-expected-to-post-earnings-on-wednesday.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Trump Calls Greenland  The Greatest Real Estate Deal in History  After Claiming Denmark  Gave  It to the US",
-      "url": "https://www.ibtimes.co.uk/trump-greenland-defence-deal-sovereignty-1827756",
-      "source": "ibtimes.co.uk",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Natural Grocers by Vitamin Cottage ( NYSE : NGVC ) Stock Bumped Down to  Hold  by Wall Street Zen",
-      "url": "https://www.themarketsdaily.com/2026/10/26/natural-grocers-by-vitamin-cottage-nysengvc-stock-bumped-down-to-hold-by-wall-street-zen.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Verisk loses Delaware Supreme Court appeal and keeps pursuing AccuLynx deal",
-      "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/verisk-loses-delaware-supreme-court-appeal-and-keeps-pursuing-acculynx-deal-594837.aspx",
-      "source": "insurancebusinessmag.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Being a Human Being Is Not Complicated : Macklemore Returns To Stage After Ed Sheeran Tour  Free Palestine  Fallout",
-      "url": "https://www.ibtimes.co.uk/macklemore-returns-after-ed-sheeran-tour-removal-1827730",
-      "source": "ibtimes.co.uk",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Trimble ( NASDAQ : TRMB ) Raised to  Buy  at Wall Street Zen",
-      "url": "https://www.themarketsdaily.com/2026/10/26/trimble-nasdaqtrmb-raised-to-buy-at-wall-street-zen.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Airbnb CEO Brian Chesky Warns 2 Types of Workers  Will Not Survive  AI : Are You at Risk ?",
-      "url": "https://www.ibtimes.co.uk/airbnb-ceo-warns-managers-ai-resisters-1827738",
-      "source": "ibtimes.co.uk",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Generac ( NYSE : GNRC ) Downgraded by Wall Street Zen to  Buy",
-      "url": "https://www.themarketsdaily.com/2026/10/26/generac-nysegnrc-downgraded-by-wall-street-zen-to-buy.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "M / I Homes ( NYSE : MHO ) Stock Gets Price Target Trim from Freedom Broker",
-      "url": "https://www.themarketsdaily.com/2026/10/26/m-i-homes-nysemho-stock-gets-price-target-trim-from-freedom-broker.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "BETA Technologies ( NYSE : BETA ) Rating Lowered to  Sell  at Wall Street Zen",
-      "url": "https://www.themarketsdaily.com/2026/10/26/beta-technologies-nysebeta-rating-lowered-to-sell-at-wall-street-zen.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Four Corners Property Trust ( FCPT ) Set to Announce Quarterly Earnings on Wednesday",
-      "url": "https://www.themarketsdaily.com/2026/10/26/four-corners-property-trust-fcpt-set-to-announce-quarterly-earnings-on-wednesday.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "NOV ( NOV ) Expected to Release Quarterly Earnings on Tuesday",
-      "url": "https://www.themarketsdaily.com/2026/10/26/nov-nov-expected-to-release-quarterly-earnings-on-tuesday.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "GE Vernova ( GEV ) Set to Announce Earnings on Wednesday",
-      "url": "https://www.themarketsdaily.com/2026/10/26/ge-vernova-gev-set-to-announce-earnings-on-wednesday.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "What is expected in Wednesday Budget as  rise ruled out",
-      "url": "https://www.hulldailymail.co.uk/news/cost-of-living/what-expected-wednesdays-budget-rise-11213794",
-      "source": "hulldailymail.co.uk",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Helium Added to U . S . Department of Energy Critical Material List",
-      "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/globenewswire/helium-added-to-us-department-of-energy-critical-material-list/2453634",
-      "source": "manilatimes.net",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Rajinikanth Jailer 2 Becomes Highest Tamil Grosser Beating 2 . 0",
-      "url": "https://www.mensxp.com/entertainment/regional/186492-jailer-2-tamil-biggest-grosser-beating-20-11-days-box-office.html",
-      "source": "mensxp.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Senco Gold Buys Melorra Stake - TeluguPeople . com News",
-      "url": "https://www.telugupeople.com/news/news.asp?newsId=109070",
-      "source": "telugupeople.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Enlight Renewable Energy ( NASDAQ : ENLT ) Stock Rating Cut to  Sell  at Wall Street Zen",
-      "url": "https://www.themarketsdaily.com/2026/10/26/enlight-renewable-energy-nasdaqenlt-stock-rating-cut-to-sell-at-wall-street-zen.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Honeywell International ( NASDAQ : HON ) Stock Gets Price Target Cut from Royal Bank Of Canada",
-      "url": "https://www.themarketsdaily.com/2026/10/26/honeywell-international-nasdaqhon-stock-gets-price-target-cut-from-royal-bank-of-canada.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "SPS Commerce ( NASDAQ : SPSC ) Upgraded to Buy at Wall Street Zen",
-      "url": "https://www.themarketsdaily.com/2026/10/26/sps-commerce-nasdaqspsc-upgraded-to-buy-at-wall-street-zen.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "China Expands E - Commerce Infrastructure as Online Retail Drives Nearly Half of Consumer Growth",
-      "url": "https://www.chinatechnews.com/2026/10/26/131351-china-expands-e-commerce-infrastructure-as-online-retail-drives-nearly-half-of-consumer-growth",
-      "source": "chinatechnews.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Northern Trust ( NASDAQ : NTRS ) Stock Gets Price Target Reduction from Citigroup",
-      "url": "https://www.themarketsdaily.com/2026/10/26/northern-trust-nasdaqntrs-stock-gets-price-target-reduction-from-citigroup.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Plans Dividend of $0 . 03",
-      "url": "https://www.themarketsdaily.com/2026/10/26/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-plans-dividend-of-0-03-8.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Helium Added to U . S . Department of Energy Critical Material List",
-      "url": "https://www.thewhig.com/press-releases/globe-newswire/helium-added-to-u-s-department-of-energy-critical-material-list",
-      "source": "thewhig.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Rollins ( NYSE : ROL ) Price Target Raised to $37 . 00",
-      "url": "https://www.themarketsdaily.com/2026/10/26/rollins-nyserol-price-target-raised-to-37-00.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Polavaram Reaches 90 . 1 % Progress - TeluguPeople . com News",
-      "url": "https://www.telugupeople.com/news/news.asp?newsID=109075",
-      "source": "telugupeople.com",
-      "published": "2026-10-26T07:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Oil Up , Tech Down",
-      "url": "http://www.zerohedge.com/news/2026-10-24/oil-tech-down",
-      "source": "zerohedge.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "RSDP - Funded Copra Storage & Buying Centre Facility Handed Over To KCDA",
-      "url": "https://www.scoop.co.nz/stories/WO2610/S00184/rsdp-funded-copra-storage-buying-centre-facility-handed-over-to-kcda.htm",
-      "source": "scoop.co.nz",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Shares fall in Asia after a decline on Wall Street , and oil prices fall more than 1 %",
-      "url": "https://www.2news.com/news/national/shares-fall-in-asia-after-a-decline-on-wall-street-and-oil-prices-fall-more/article_ddc4a005-46f8-542f-8eca-7be2223b5dd5.html",
-      "source": "2news.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "IEA Says Diesel Stock Recovery Unlikely Before Second Half of 2027",
-      "url": "https://econotimes.com/IEA-Says-Diesel-Stock-Recovery-Unlikely-Before-Second-Half-of-2027-1763295",
-      "source": "econotimes.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "America Cant Stockpile Missiles Without Reloading On Conflict - Free Critical Materials",
-      "url": "http://www.zerohedge.com/military/america-cant-stockpile-missiles-without-reloading-conflict-free-critical-materials",
-      "source": "zerohedge.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "After - Hours Sessions Account for 62 % of Uniswap Tokenized - Stock Activity",
-      "url": "https://econotimes.com/After-Hours-Sessions-Account-for-62-of-Uniswap-Tokenized-Stock-Activity-1763298",
-      "source": "econotimes.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Head to Head Analysis : Applied Aerospace & Defense ( NYSE : AADX ) vs . PMGC ( NASDAQ : ELAB )",
-      "url": "https://www.themarketsdaily.com/2026/10/26/head-to-head-analysis-applied-aerospace-defense-nyseaadx-vs-pmgc-nasdaqelab.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Skoltech Researchers Propose Welding Polymer Composites To Build And Repair Bridges , Warehouses , And Cell Towers",
-      "url": "https://www.scoop.co.nz/stories/SC2610/S00039/skoltech-researchers-propose-welding-polymer-composites-to-build-and-repair-bridges-warehouses-and-cell-towers.htm",
-      "source": "scoop.co.nz",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "International Graphite IG6 Advanced Materials rebrand reflects new strategy - ICYMI",
-      "url": "https://www.proactiveinvestors.com/companies/news/1100642/international-graphite-s-ig6-advanced-materials-rebrand-reflects-new-strategy-icymi-1100642.html",
-      "source": "proactiveinvestors.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "SK Hynix to announce shareholder return plans on Wednesday",
-      "url": "https://www.businesstimes.com.sg/companies-markets/sk-hynix-announce-shareholder-return-plans-wednesday-shares-rise-3",
-      "source": "businesstimes.com.sg",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Police : 3 teens arrested after shooting in Gulfport leaves 15 - year - old dead",
-      "url": "https://www.wdam.com/2026/10/25/police-3-teens-arrested-after-shooting-gulfport-leaves-15-year-old-dead",
-      "source": "wdam.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "2026 Best of Santa Barbara® Looking Good",
-      "url": "https://www.independent.com/2026/10/21/2026-best-of-santa-barbara-looking-good",
-      "source": "independent.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Arrowhead Pharmaceuticals ( NASDAQ : ARWR ) and CRISPR Therapeutics ( NASDAQ : CRSP ) Financial Review",
-      "url": "https://www.themarketsdaily.com/2026/10/26/arrowhead-pharmaceuticals-nasdaqarwr-and-crispr-therapeutics-nasdaqcrsp-financial-review.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Head to Head Contrast : SpaceX ( NASDAQ : SPCX ) and Telephone and Data Systems ( NYSE : TDS )",
-      "url": "https://www.tickerreport.com/banking-finance/13636511/head-to-head-contrast-spacex-nasdaqspcx-and-telephone-and-data-systems-nysetds.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Global Market : South Korean shares fall over 1 % as AI trade concerns weigh ; won strengthens",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-fall-over-1-as-ai-trade-concerns-weigh-won-strengthens/articleshow/135202531.cms",
-      "source": "economictimes.indiatimes.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Critical Review : ASML ( NASDAQ : ASML ) & MaxLinear ( NASDAQ : MXL )",
-      "url": "https://www.themarketsdaily.com/2026/10/26/critical-review-asml-nasdaqasml-maxlinear-nasdaqmxl.html",
-      "source": "themarketsdaily.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Israel markets see upside in Netanyahu defeat after three - year rally",
-      "url": "https://www.thehindu.com/news/international/israeli-markets-rally-on-netanyahu-defeat-hopes/article71625553.ece",
-      "source": "thehindu.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Shares fall in Asia after a decline on Wall Street , and oil prices fall more than 1 %",
-      "url": "https://isp.netscape.com:443/pf/story/0001/20261026/be3a56f58a77c5be863f0289d280be92",
-      "source": "isp.netscape.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Critical Comparison : H & R Block ( NYSE : HRB ) versus ADT ( NYSE : ADT )",
-      "url": "https://www.tickerreport.com/banking-finance/13636514/critical-comparison-hr-block-nysehrb-versus-adt-nyseadt.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Fashion fans praise £22 . 99 jeggings that  dont dig in  as  comfiest they own",
-      "url": "https://www.belfastlive.co.uk/whats-on/shopping/yours-clothing-plus-size-jeggings-34808466",
-      "source": "belfastlive.co.uk",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Contrasting Calix ( NYSE : CALX ) and Aviat Networks ( NASDAQ : AVNW )",
-      "url": "https://www.tickerreport.com/banking-finance/13636513/contrasting-calix-nysecalx-and-aviat-networks-nasdaqavnw.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Reviewing united states Compression Partners ( NYSE : USAC ) & Nabors Industries ( NYSE : NBR )",
-      "url": "https://www.tickerreport.com/banking-finance/13636512/reviewing-usa-compression-partners-nyseusac-nabors-industries-nysenbr.html",
-      "source": "tickerreport.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "The Social Studio relocates store in Melbourne",
-      "url": "https://www.ragtrader.com.au/news/the-social-studio-relocates-store-in-melbourne",
-      "source": "ragtrader.com.au",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Best banking & PSU mutual funds to invest in October 2026",
-      "url": "https://economictimes.indiatimes.com/mf/analysis/best-banking-psu-mutual-funds-to-invest-in-october-2026/articleshow/135202535.cms",
-      "source": "economictimes.indiatimes.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Lula is declared winner of Brazil election as Bolsonaro rejects results",
-      "url": "https://www.thecomet.net/news/national/26668635.lula-declared-winner-brazils-election-bolsonaro-rejects-results",
-      "source": "thecomet.net",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Currency exchange rates in Pakistan today – 26 October 2026",
-      "url": "https://pakobserver.net/currency-exchange-rates-in-pakistan-today-26-october-2026",
-      "source": "pakobserver.net",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Indian Shares Muted Open as Oil Prices Weigh on Sentiment",
-      "url": "https://en.shafaqna.com/487331/indian-shares-muted-open-oil-prices-fed",
-      "source": "en.shafaqna.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Lula is declared winner of Brazil election as Bolsonaro rejects results",
-      "url": "https://www.southwalesguardian.co.uk/news/national/26668635.lula-declared-winner-brazils-election-bolsonaro-rejects-results",
-      "source": "southwalesguardian.co.uk",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Alberta referendum count complete : Nearly 75 per cent favour remaining in Canada - DiscoverAirdrie . com - Local News , Weather , Sports , and Job Listings for Airdrie , Alberta , and the Rocky View County region .",
-      "url": "https://discoverairdrie.com/articles/alberta-referendum-count-complete-nearly-75-per-cent-favour-remaining-in-canada",
-      "source": "discoverairdrie.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business . Scoop » ACT Publishes Manifesto With $22b In Cuts , Ditches Migration Promise",
-      "url": "https://business.scoop.co.nz/2026/10/26/act-publishes-manifesto-with-22b-in-cuts-ditches-migration-promise",
-      "source": "business.scoop.co.nz",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Lula is declared winner of Brazil election as Bolsonaro rejects results",
-      "url": "https://www.2news.com/news/world/lula-is-declared-winner-of-brazils-election-as-bolsonaro-rejects-results/article_5ccd4135-d5c9-5fd9-b40b-429194a1a4e3.html",
-      "source": "2news.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business . Scoop » IAG Workers Strike Tomorrow After More Than 18 Months Waiting For A Deal",
-      "url": "https://business.scoop.co.nz/2026/10/26/iag-workers-strike-tomorrow-after-more-than-18-months-waiting-for-a-deal",
-      "source": "business.scoop.co.nz",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Lula is declared winner of Brazil election as Bolsonaro rejects results",
-      "url": "https://www.hamhigh.co.uk/news/national/26668635.lula-declared-winner-brazils-election-bolsonaro-rejects-results",
-      "source": "hamhigh.co.uk",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business . Scoop » ACT Introduces Chippy To  Efficiency",
-      "url": "https://business.scoop.co.nz/2026/10/26/act-introduces-chippy-to-efficiency",
-      "source": "business.scoop.co.nz",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Republic Bank wins Climate Finance award",
-      "url": "https://thebftonline.com/article/republic-bank-wins-climate-finance-award",
-      "source": "thebftonline.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Lula is declared winner of Brazil election as Bolsonaro rejects results",
-      "url": "https://www.penarthtimes.co.uk/news/national/26668635.lula-declared-winner-brazils-election-bolsonaro-rejects-results",
-      "source": "penarthtimes.co.uk",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business . Scoop » ACT Releases Manifesto To Unlock New Zealand Potential",
-      "url": "https://business.scoop.co.nz/2026/10/26/act-releases-manifesto-to-unlock-new-zealands-potential-2",
-      "source": "business.scoop.co.nz",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Jane Fraser Citi Overhaul Faces Its Latest Earnings Test",
-      "url": "https://observer.com/2026/10/jane-fraser-citigroup-restructuring-returns",
-      "source": "observer.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "7 Workforce Planning Platforms for Employers Trying to Raise Productivity Without Overhiring",
-      "url": "https://en.mercopress.com/2026/10/25/7-workforce-planning-platforms-for-employers-trying-to-raise-productivity-without-overhiring",
-      "source": "en.mercopress.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "ACT Publishes Manifesto With $22b In Cuts , Ditches Migration Promise",
-      "url": "https://www.scoop.co.nz/stories/PO2610/S00169/act-publishes-manifesto-with-22b-in-cuts-ditches-migration-promise.htm",
-      "source": "scoop.co.nz",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Infosys shares fall 4 % after IT major lowers FY27 guidance . What are Goldman Sachs , Nomura , others saying ?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-shares-fall-4-after-it-major-lowers-fy27-guidance-what-are-goldman-sachs-nomura-others-saying/articleshow/135202432.cms",
-      "source": "economictimes.indiatimes.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Kotak Mahindra Bank shares climb 4 % after Q2 results . What are Jefferies , Goldman Sachs saying ?",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-climb-4-after-q2-results-what-are-jefferies-goldman-sachs-saying/articleshow/135202411.cms",
-      "source": "economictimes.indiatimes.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Baby orangutans in India expose illegal wildlife trade as experts question a billionaire zoo",
-      "url": "https://www.niagarafallsreview.ca/business/baby-orangutans-in-india-expose-illegal-wildlife-trade-as-experts-question-a-billionaire-s-zoo/article_b93daaee-a53c-50dd-ab5d-c417b457efe4.html",
-      "source": "niagarafallsreview.ca",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "IndusInd Bank shares rise 2 % after Q2 results . Why Jefferies cut target price despite lender swinging to profit",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indusind-bank-shares-in-focus-after-q2-results-why-jefferies-cut-target-despite-lender-swinging-to-profit/articleshow/135202240.cms",
-      "source": "economictimes.indiatimes.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Global Market : China yuan hits four - year high as dollar weakens ahead of policy meetings",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-four-year-high-as-dollar-weakens-ahead-of-policy-meetings/articleshow/135202635.cms",
-      "source": "economictimes.indiatimes.com",
-      "published": "2026-10-26T05:00:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Macklemore demands  Free Palestine  as he makes return to stage after Ed Sheeran row",
-      "url": "https://www.mirror.co.uk/3am/celebrity-news/macklemore-red-rocks-concert-speech-37809068",
-      "source": "mirror.co.uk",
-      "published": "2026-10-25T19:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "JPMorgan Has Nearly $900 Million in Tokenized Funds on Ethereum and Solana . Which Chain Benefits More ?",
-      "url": "https://www.aol.com/articles/jpmorgan-nearly-900-million-tokenized-183043000.html",
-      "source": "aol.com",
-      "published": "2026-10-25T19:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Nokia cuts cash - flow assumption despite 35 % rise in comparable profit",
-      "url": "https://finchannel.com/nokia-cuts-cash-flow-assumption-despite-35-rise-in-comparable-profit/139398/american-business-trends/2026/10",
-      "source": "finchannel.com",
-      "published": "2026-10-25T19:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Trending stocks this week as markets navigate AI concerns , geopolitical tensions",
-      "url": "https://seekingalpha.com/news/4656504-trending-stocks-this-week-as-markets-navigate-ai-concerns-geopolitical-tensions",
-      "source": "seekingalpha.com",
-      "published": "2026-10-25T19:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "What to know about Aspen and Basalt ballot measures",
-      "url": "https://www.aspentimes.com/news/what-to-know-about-aspen-and-basalt-ballot-measures",
-      "source": "aspentimes.com",
-      "published": "2026-10-25T19:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "Older state pensioners set for lower £374 triple lock boost under Andy Burnham",
-      "url": "https://www.express.co.uk/finance/personalfinance/2260235/older-state-pensioners-set-lower-374",
-      "source": "express.co.uk",
-      "published": "2026-10-25T19:15:00+00:00",
-      "category": "Business"
-    },
-    {
-      "title": "The Echidna : Let bin the silly arguments over garbage bins | The Inverell Times",
-      "url": "https://www.inverelltimes.com.au/story/9373436/the-echidna-lets-bin-the-silly-arguments-over-garbage-bins",
-      "source": "inverelltimes.com.au",
-      "published": "2026-10-25T19:15:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "The Echidna : Let bin the silly arguments over garbage bins | The Irrigator",
-      "url": "https://www.irrigator.com.au/story/9373436/the-echidna-lets-bin-the-silly-arguments-over-garbage-bins",
-      "source": "irrigator.com.au",
-      "published": "2026-10-25T19:15:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Is It Too Late to Buy Energy Transfer After a 25 % Rally ? History Has a Clear Answer .",
-      "url": "https://www.aol.com/articles/too-buy-energy-transfer-25-182500000.html",
-      "source": "aol.com",
-      "published": "2026-10-25T19:15:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns report outlines how rising token costs threaten to squeeze corporate profit margins",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins",
-      "source": "tomshardware.com",
-      "published": "2026-10-25T19:15:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "The Echidna : Let bin the silly arguments over garbage bins | The Canberra Times",
-      "url": "https://www.canberratimes.com.au/story/9373436/the-echidna-lets-bin-the-silly-arguments-over-garbage-bins",
-      "source": "canberratimes.com.au",
-      "published": "2026-10-25T19:15:00+00:00",
-      "category": "Markets"
-    },
-    {
-      "title": "The Echidna : Let bin the silly arguments over garbage bins | The Courier",
-      "url": "https://www.thecourier.com.au/story/9373436/the-echidna-lets-bin-the-silly-arguments-over-garbage-bins",
-      "source": "thecourier.com.au",
-      "published": "2026-10-25T19:15:00+00:00",
-      "category": "Markets"
     }
   ]
 }
