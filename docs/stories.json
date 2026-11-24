@@ -1,10 +1,19 @@
 {
-  "updated": "2026-11-24T09:56+00:00",
+  "updated": "2026-11-24T22:28+00:00",
   "errors": [
+    "Markets: HTTPError",
     "Business: HTTPError",
-    "Politics: HTTPError"
+    "Politics: HTTPError",
+    "Economy: HTTPError"
   ],
   "stories": [
+    {
+      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+      "source": "Federal Reserve: monetary policy",
+      "published": "2026-11-24T19:00:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Domestic stock markets closed for Guru Nanak Jayanti ; MCX to resume trading in evening session",
       "url": "http://www.greekherald.com/news/279451416/domestic-stock-markets-closed-for-guru-nanak-jayanti-mcx-to-resume-trading-in-evening-session",
@@ -6995,13 +7004,6 @@
       "title": "Spain transport minister resigns after deadly high - speed train crash",
       "url": "https://www.abc.net.au/news/2026-11-04/spanish-minister-resigns-after-deadly-train-collision/107344438",
       "source": "abc.net.au",
-      "published": "2026-11-04T01:30:00+00:00",
-      "category": "Politics"
-    },
-    {
-      "title": "Colorado election results liveblog 2026 : Live results , analysis and coverage",
-      "url": "https://www.denverpost.com/2026/11/03/colorado-election-results-liveblog-analysis",
-      "source": "denverpost.com",
       "published": "2026-11-04T01:30:00+00:00",
       "category": "Politics"
     }
